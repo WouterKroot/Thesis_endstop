@@ -1,0 +1,697 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{deangelisLengthWidthTuning1994}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bcc36a466c171e17dcefa84c116a1376}{%
+           family={DeAngelis},
+           familyi={D\bibinitperiod},
+           given={G.\bibnamedelimi C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1061f86949e8f538375c79ce9a51723c}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c42d2d23fdba89363c2dfd3a48b134}{%
+           family={Ohzawa},
+           familyi={O\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a3848033e697d261dd22bca52c0f6a3}
+      \strng{fullhash}{8409d69f39b957df9293ea5d995020c5}
+      \strng{bibnamehash}{8409d69f39b957df9293ea5d995020c5}
+      \strng{authorbibnamehash}{8409d69f39b957df9293ea5d995020c5}
+      \strng{authornamehash}{7a3848033e697d261dd22bca52c0f6a3}
+      \strng{authorfullhash}{8409d69f39b957df9293ea5d995020c5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. The classically defined receptive field of a visual neuron is the area of visual space over which the cell responds to visual stimuli. It is well established, however, that the discharge produced by an optimal stimulus can be modulated by the presence of additional stimuli that by themselves do not produce any response. This study examines inhibitory influences that originate from areas located outside of the classical (i.e., excitatory) receptive field. Previous work has shown that for some cells the response to a properly oriented bar of light becomes attenuated when the bar extends beyond the receptive field, a phenomenon known as end-inhibition (or length tuning). Analogously, it has been shown that increasing the number of cycles of a drifting grating stimulus may also inhibit the firing of some cells, an effect known as side-inhibition (or width tuning). Very little information is available, however, about the relationship between end- and side-inhibition. We have examined the spatial organization and tuning characteristics of these inhibitory effects by recording extracellularly from single neurons in the cat's striate cortex (Area 17). 2. For each cortical neuron, length and width tuning curves were obtained with the use of rectangular patches of drifting sinusoidal gratings that have variable length and width. Results from 82 cells show that the strengths of end- and side-inhibition tend to be correlated. Most cells that exhibit clear end-inhibition also show a similar degree of side-inhibition. For these cells, the excitatory receptive field is surrounded on all sides by inhibitory zones. Some cells exhibit only end- or side-inhibition, but not both. Data for 28 binocular cells show that length and width tuning curves for the dominant and nondominant eyes tend to be closely matched. 3. We also measured tuning characteristics of end- and side-inhibition. To obtain these data, the excitatory receptive field was stimulated with a grating patch having optimal orientation, spatial frequency, and size, whereas the end- or side-inhibitory regions were stimulated with patches of gratings that had a variable parameter (such as orientation). Results show that end- and side-inhibition tend to be strongest at the orientation and spatial frequency that yield maximal excitation. However, orientation and spatial frequency tuning curves for inhibition are considerably broader than those for excitation, suggesting that inhibition is mediated by a pool of neurons.(ABSTRACT TRUNCATED AT 400 WORDS)}
+      \field{issn}{0022-3077, 1522-1598}
+      \field{journaltitle}{Journal of Neurophysiology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Length and Width Tuning of Neurons in the Cat's Primary Visual Cortex}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{71}
+      \field{year}{1994}
+      \field{urldateera}{ce}
+      \field{pages}{347\bibrangedash 374}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1152/jn.1994.71.1.347
+      \endverb
+    \endentry
+    \entry{hubelRECEPTIVEFIELDSFUNCTIONAL1965}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bd60e0ff340eedf45ac4f5f2ae90159b}{%
+           family={Hubel},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9983ff1caee0d9e4db67358c018fc205}{%
+           family={Wiesel},
+           familyi={W\bibinitperiod},
+           given={Torsten\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a2b6710b3764273599eb886e1d51d495}
+      \strng{fullhash}{a2b6710b3764273599eb886e1d51d495}
+      \strng{bibnamehash}{a2b6710b3764273599eb886e1d51d495}
+      \strng{authorbibnamehash}{a2b6710b3764273599eb886e1d51d495}
+      \strng{authornamehash}{a2b6710b3764273599eb886e1d51d495}
+      \strng{authorfullhash}{a2b6710b3764273599eb886e1d51d495}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3077, 1522-1598}
+      \field{journaltitle}{Journal of Neurophysiology}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{{{RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TWO NONSTRIATE VISUAL AREAS}} (18 {{AND}} 19) {{OF THE CAT}}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{28}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \field{pages}{229\bibrangedash 289}
+      \range{pages}{61}
+      \verb{doi}
+      \verb 10.1152/jn.1965.28.2.229
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\C6DV8BNP\Hubel and Wiesel - 1965 - RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TW.pdf
+      \endverb
+    \endentry
+    \entry{jonesSurroundSuppressionPrimate2001}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=259730bf839d2ffa7f96852145ec64d7}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26832c3a46ac5774ebfd59e358daae84}{%
+           family={Grieve},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c0d8d495d30364a6fdc14d3ee19f5b7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edb118ff6c4286e16ba092f240768026}{%
+           family={Sillito},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4d1e4a53beeea2663a54236d329dbab1}
+      \strng{fullhash}{2352402bccd130feac3f943bb4ea5d3a}
+      \strng{bibnamehash}{2352402bccd130feac3f943bb4ea5d3a}
+      \strng{authorbibnamehash}{2352402bccd130feac3f943bb4ea5d3a}
+      \strng{authornamehash}{4d1e4a53beeea2663a54236d329dbab1}
+      \strng{authorfullhash}{2352402bccd130feac3f943bb4ea5d3a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We investigated the spatial organization of surround suppression in primate primary visual cortex (V1). We utilized drifting stimuli, configured to extend either from within the classical receptive field (CRF) to surrounding visual space, or from surrounding visual space into the CRF or subdivided to generate direction contrast, to make a detailed examination of the strength, spatial organization, direction dependence, mechanisms, and laminar distribution of surround suppression. Most cells (99/105, 94\%) through all cortical layers, exhibited suppression (mean reduction 67\%) to uniform stimuli exceeding the CRF, and 43\% exhibited a more than 70\% reduction. Testing with an annulus revealed two different patterns of surround influence. Some cells (37\% of cells), classical surround suppression (CSS) cells exhibited responses to an annulus encroaching on the CRF that were less than the plateau in the spatial summation curve. The majority (63\%), center-gated surround suppression (CGSS) cells, showed responses to annuli that equaled or exceeded the plateau in the spatial summation curve. Analysis suggested the CSS mechanism was implemented in all cells while the CGSS mechanism was implemented in varying strength across the sample with the extreme reflected in cells that gave larger responses to annuli than to a center stimulus. Reversing the direction of motion of the portion of the stimulus surrounding the CRF revealed four different patterns of effect: no reduction in the degree of suppression (22\% of cells), a reduction in surround suppression (41\%), a facilitation of the response above the level to the inner stimulus alone (37\%), and a facilitation of the response above that to the inner stimulus alone that also exceeded the values associated with an optimal inner stimulus. The facilitatory effects were only seen for reverse direction interfaces between the central and surrounding stimulus at diameters equal to or more than the CRF size. The zones driving the suppressive influences and the direction contrast facilitation were often spatially heterogeneous and for a number of cells bore strong comparison with the class of behavior reported for surround mechanisms in MT. This suggests a potential role, for example, in extracting information about motion contrast in the representation of the three dimensional structure of moving objects.}
+      \field{issn}{0022-3077, 1522-1598}
+      \field{journaltitle}{Journal of Neurophysiology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Surround {{Suppression}} in {{Primate V1}}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{86}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{2011\bibrangedash 2028}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1152/jn.2001.86.4.2011
+      \endverb
+    \endentry
+    \entry{pakTopDownFeedbackControls2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8bf197bcee7c7d04e4efa51d4f5e0b94}{%
+           family={Pak},
+           familyi={P\bibinitperiod},
+           given={Alexandr},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1941f055908af6d656cffe521ec2b958}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d082b1a0ea7f2fa850415ba25837e7b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bcb4aef0d4b0be8efbdfd5d2f3fe3ce}{%
+           family={Chubykin},
+           familyi={C\bibinitperiod},
+           given={Alexander\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{412815d8e33215609c1500baf8cf436d}
+      \strng{fullhash}{8d27debc76aff7f579e2cebaf5ccbf65}
+      \strng{bibnamehash}{8d27debc76aff7f579e2cebaf5ccbf65}
+      \strng{authorbibnamehash}{8d27debc76aff7f579e2cebaf5ccbf65}
+      \strng{authornamehash}{412815d8e33215609c1500baf8cf436d}
+      \strng{authorfullhash}{8d27debc76aff7f579e2cebaf5ccbf65}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Visual systems have evolved to recognize and extract features from complex scenes using limited sensory information. Contour perception is essential to this process and can occur despite breaks in the continuity of neighboring features. Such robustness of the animal visual system to degraded or occluded shapes may also give rise to an interesting phenomenon of optical illusions. These illusions provide a great opportunity to decipher neural computations underlying contour integration and object detection. Kanizsa illusory contours have been shown to evoke responses in the early visual cortex despite the lack of direct receptive field activation. Recurrent processing between visual areas has been proposed to be involved in this process. However, it is unclear whether higher visual areas directly contribute to the generation of illusory responses in the early visual cortex. Using behavior, in vivo electrophysiology, and optogenetics, we first show that the primary visual cortex (V1) of male mice responds to Kanizsa illusory contours. Responses to Kanizsa illusions emerge later than the responses to the contrast-defined real contours in V1. Second, we demonstrate that illusory responses are orientation-selective. Finally, we show that top-down feedback controls the neural correlates of illusory contour perception in V1. Our results suggest that higher-order visual areas may fill in the missing information in the early visual cortex necessary for illusory contour perception. SIGNIFICANCE STATEMENT Perception of the Kanizsa illusory contours is impaired in neurodevelopmental disorders such as schizophrenia, autism, and Williams syndrome. However, the mechanism of the illusory contour perception is poorly understood. Here we describe the behavioral and neural correlates of Kanizsa illusory contours perception in mice, a genetically tractable model system. We show that top-down feedback controls the neural responses to Kanizsa illusion in V1. To our knowledge, this is the first description of the neural correlates of the Kanizsa illusion in mice and the first causal demonstration of their regulation by top-down feedback.}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{The Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{3}
+      \field{title}{Top-{{Down Feedback Controls}} the {{Cortical Representation}} of {{Illusory Contours}} in {{Mouse Primary Visual Cortex}}}
+      \field{urlday}{28}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{volume}{40}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{648\bibrangedash 660}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.1998-19.2019
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\ZH5NVPC3\Pak et al. - 2020 - Top-Down Feedback Controls the Cortical Representa.pdf
+      \endverb
+    \endentry
+    \entry{panEquivalentRepresentationReal2012}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=8e342c0513b445775305d6cb631f7668}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Yanxia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6de530673646b8f920da26a565f9bfad}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Minggui},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b003c32dfe99db952dfcf90ae444e303}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Jiapeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36068b43898be49f0645fecd18a86696}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14965f6d4ea10e6654fac59edf0decb4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xian},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e95a39c8fc01f7b6d2e01f927e0346d9}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yiliang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e353da0d97aef9be4840b02a2bca5908}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Hongliang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05d340b1d36f848f8afde5878318886b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wu},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f27ec46ccd272a021fd78bdac92dd490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{9a21c7782e9483da557fdaa6011f6013}
+      \strng{fullhash}{227a7493db90cf09cdf18dadf809ff21}
+      \strng{bibnamehash}{227a7493db90cf09cdf18dadf809ff21}
+      \strng{authorbibnamehash}{227a7493db90cf09cdf18dadf809ff21}
+      \strng{authornamehash}{9a21c7782e9483da557fdaa6011f6013}
+      \strng{authorfullhash}{227a7493db90cf09cdf18dadf809ff21}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cortical processing of illusory contours provides a unique window for exploring the brain mechanisms underlying visual perception. Previous electrophysiological single-cell recordings demonstrate that a subgroup of cells in macaque V1 and V2 signal the presence of illusory contours, whereas recent human brain imaging studies reveal higher-order visual cortices playing a central role in illusory figure processing. It seems that the processing of illusory contours/figures may engage multiple cortical interactions between hierarchically organized processing stages in the ventral visual pathway of primates. However, it is not yet known in which brain areas illusory contours are represented in the same manner as real contours at both the population and single-cell levels. Here, by combining intrinsic optical imaging in anesthetized rhesus macaques with single-cell recordings in awake ones, we found a complete overlap of orientation domains in visual cortical area V4 for processing real and illusory contours. In contrast, the orientation domains mapped in early visual areas V1 and V2 mainly encoded the local physical stimulus features inducing the subjective perception of global illusory contours. Our results indicate that real and illusory contours are encoded equivalently by the same functional domains in V4, suggesting that V4 is a key cortical locus for integration of local features into global contours.}
+      \field{chapter}{Articles}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{20}
+      \field{title}{Equivalent {{Representation}} of {{Real}} and {{Illusory Contours}} in {{Macaque V4}}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{6760\bibrangedash 6770}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.6140-11.2012
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\4R2S87AK\Pan et al. - 2012 - Equivalent Representation of Real and Illusory Con.pdf
+      \endverb
+    \endentry
+    \entry{sceniakVisualSpatialCharacterization2001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0733cc864a700ba74d929ccece866c27}{%
+           family={Sceniak},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13bcd413df4fdca1f7014ec543010bda}{%
+           family={Hawken},
+           familyi={H\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cdac55fcb6989465775a9ede1f64787}{%
+           family={Shapley},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4c4967e51ff05cf79fa06ebfc301781c}
+      \strng{fullhash}{21c0b92625ea4e04af2cf205d4487bcb}
+      \strng{bibnamehash}{21c0b92625ea4e04af2cf205d4487bcb}
+      \strng{authorbibnamehash}{21c0b92625ea4e04af2cf205d4487bcb}
+      \strng{authornamehash}{4c4967e51ff05cf79fa06ebfc301781c}
+      \strng{authorfullhash}{21c0b92625ea4e04af2cf205d4487bcb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study characterizes the spatial organization of excitation and inhibition that influences the visual responses of neurons in macaque monkey's primary visual cortex (V1). To understand the spatial extent of excitatory and inhibitory influences on V1 neurons, we performed area-summation experiments with suprathreshold contrast stimulation. The extent of spatial summation and the magnitude of surround suppression were estimated quantitatively by analyzing the spatial summation experiments with a difference of Gaussians (DOG) model. The average extent of spatial summation is approximately the same across layers except for layer 6 cells, which tend to sum more extensively than cells in the other layers. On average, the extent of length and width summation is approximately equal. Across the population, surround suppression is greatest in layer 4B and weakest in layer 6. Estimates of summation and suppression are compared for the DOG (subtractive) model and a normalization (divisive) model. The two models yield quantitatively similar estimates of the extent of excitation and inhibition. However, the normalization (divisive) model predicts weaker surround strength than the DOG model.}
+      \field{issn}{0022-3077, 1522-1598}
+      \field{journaltitle}{Journal of Neurophysiology}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Visual {{Spatial Characterization}} of {{Macaque V1 Neurons}}}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{85}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{1873\bibrangedash 1887}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1152/jn.2001.85.5.1873
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\G6Y4EAJ6\Sceniak et al. - 2001 - Visual Spatial Characterization of Macaque V1 Neur.pdf
+      \endverb
+    \endentry
+    \entry{shinRecurrentPatternCompletion2023}{misc}{}
+      \name{author}{26}{}{%
+        {{un=0,uniquepart=base,hash=788eae2fafd8c3ae7b2dd00acfe8aa6d}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Hyeyoung},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=554a81597f9cc664ff76ac94164ba345}{%
+           family={Ogando},
+           familyi={O\bibinitperiod},
+           given={Mora\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb4a046050608a0b13d503821daeff36}{%
+           family={Abdeladim},
+           familyi={A\bibinitperiod},
+           given={Lamiae},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=780996a24f804dde3a9e42287e1e6c22}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Severine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=108839c7d852fde0c33dbe6adbdaaffe}{%
+           family={Belski},
+           familyi={B\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0801eeae78417e9a6057940761219150}{%
+           family={Cabasco},
+           familyi={C\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbd2306c276bd2481bc097d8e8fea5c8}{%
+           family={Loefler},
+           familyi={L\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5afb1fe30450e2fad8e24d466bc0364}{%
+           family={Bawany},
+           familyi={B\bibinitperiod},
+           given={Ahad},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46184229f57fcdf375e41f7aae84f2f7}{%
+           family={Hardcastle},
+           familyi={H\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=828cfe17888b02039022fc76168152f6}{%
+           family={Wilkes},
+           familyi={W\bibinitperiod},
+           given={Josh},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faac3018ebff2beafea58a5aebd97eef}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Katrina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b26d2a88e954aa22b7de4620bdc3a062}{%
+           family={Suarez},
+           familyi={S\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49d46aa5a1180d8a8d009d19252c7905}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Tye},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=893068ffc00b575a656034ad4c301cac}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Warren},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58181b9756be6b257d44d02d03c53bcd}{%
+           family={Ouellette},
+           familyi={O\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26ef296a713d58ba985a81c30f470a02}{%
+           family={Grasso},
+           familyi={G\bibinitperiod},
+           given={Conor},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7af2bb88b36ddc1cdd88f1f57c4d1632}{%
+           family={Swapp},
+           familyi={S\bibinitperiod},
+           given={Jackie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=439f263d19a34e640c3f66ac9273aa3e}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Vivian},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6439c7dc19d74ce13c6841bb5246fdbd}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Ahrial},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c698d0805e0dfd7a6ca5cbf0ab33a65}{%
+           family={Caldejon},
+           familyi={C\bibinitperiod},
+           given={Shiella},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32cc27899e877ee0fb0ce04f590f2ac3}{%
+           family={Williford},
+           familyi={W\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeafe4de81510d387eb4752f4c670306}{%
+           family={Groblewski},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f81b5ccc83ee55dbcd3890bc9eb8ba04}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Shawn},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6184d0e74a76cb41176dbb560905c33e}{%
+           family={Kiselycznyk},
+           familyi={K\bibinitperiod},
+           given={Carly},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38708d09fd332fad003504fc33f0a774}{%
+           family={Lecoq},
+           familyi={L\bibinitperiod},
+           given={Jerome},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5622ddedcf7d279dd48ebbc056112be4}{%
+           family={Adesnik},
+           familyi={A\bibinitperiod},
+           given={Hillel},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84b17bb6edfdbb4db01a49379beef6a0}
+      \strng{fullhash}{10a1a99e071bb8a2cea3f8452e074546}
+      \strng{bibnamehash}{3e538301c5b3ff60c040bf37f94b05af}
+      \strng{authorbibnamehash}{3e538301c5b3ff60c040bf37f94b05af}
+      \strng{authornamehash}{84b17bb6edfdbb4db01a49379beef6a0}
+      \strng{authorfullhash}{10a1a99e071bb8a2cea3f8452e074546}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{When sensory information is incomplete or ambiguous, the brain relies on prior expectations to infer perceptual objects. Despite the centrality of this process to perception, the neural mechanism of sensory inference is not known. Illusory contours (ICs) are key tools to study sensory inference because they contain edges or objects that are implied only by their spatial context. Using cellular resolution, mesoscale two-photon calcium imaging and multi-Neuropixels recordings in the mouse visual cortex, we identified a sparse subset of neurons in the primary visual cortex (V1) and higher visual areas that respond emergently to ICs. We found that these highly selective 'ICencoders' mediate the neural representation of IC inference. Strikingly, selective activation of these neurons using two-photon holographic optogenetics was sufficient to recreate IC representation in the rest of the V1 network, in the absence of any visual stimulus. This outlines a model in which primary sensory cortex facilitates sensory inference by selectively strengthening input patterns that match prior expectations through local, recurrent circuitry. Our data thus suggest a clear computational purpose for recurrence in the generation of holistic percepts under sensory ambiguity. More generally, selective reinforcement of top-down predictions by patterncompleting recurrent circuits in lower sensory cortices may constitute a key step in sensory inference.}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Recurrent Pattern Completion Drives the Neocortical Representation of Sensory Inference}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1101/2023.06.05.543698
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\PG2936ET\Shin et al. - 2023 - Recurrent pattern completion drives the neocortica.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{vonderheydtMechanismsContourPerception1989}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5f60d193e48a9d24344d959ae8f16060}{%
+           family={Von\bibnamedelimb Der\bibnamedelima Heydt},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9fb7412090e6480485350d304f6c6bb}{%
+           family={Peterhans},
+           familyi={P\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a64c3728f46941deb9158cd9869de61c}
+      \strng{fullhash}{a64c3728f46941deb9158cd9869de61c}
+      \strng{bibnamehash}{a64c3728f46941deb9158cd9869de61c}
+      \strng{authorbibnamehash}{a64c3728f46941deb9158cd9869de61c}
+      \strng{authornamehash}{a64c3728f46941deb9158cd9869de61c}
+      \strng{authorfullhash}{a64c3728f46941deb9158cd9869de61c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have studied the mechanism of contour perception by recording from neurons in the visual cortex of alert rhesus monkeys. In order to assess the relationship between neural signals and perception, we compared the responses to edges and lines with the responses to patterns in which human observers perceive a contour where no line or edge is given (anomalous contour), such as the border between gratings of thin lines offset by half a cycle. With only one exception out of 60, orientation-selective neurons in area V1 did not signal the anomalous contour. Many neurons failed to respond to this stimulus at all, others responded according to the orientation of the grating lines. In area V2, 45 of 103 neurons (44\%) signaled the orientation of the anomalous contour. Sixteen did so without signaling the orientation of the inducing lines. Some responded better to anomalous contours than to the optimum bars or edges. Preferred orientations and widths of tuning for anomalous contour and bar or edge were found to be highly correlated, but not identical, in each neuron. Similar to perception, the neuronal responses depended on a minimum number of lines inducing the contour, but not so much on line spacing, and tended to be weaker when the lines were oblique rather than orthogonal to the border. With oblique lines, the orientations signaled were biased towards the orientation orthogonal to the lines, as in the Zollner illusion. We conclude that contours may be defined first at the level of V2. While the unresponsiveness of neurons in V1 to this type of anomalous contour is in agreement with linear filter predictions, the responses of V2 neurons need to be explained. We assume that they sum the signals of 2 parallel paths, one that defines edges and lines and another that defines anomalous contours by pooling signals from end-stopped receptive fields oriented mainly orthogonal to the contour.}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{The Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Mechanisms of Contour Perception in Monkey Visual Cortex. {{I}}. {{Lines}} of Pattern Discontinuity}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{9}
+      \field{year}{1989}
+      \field{urldateera}{ce}
+      \field{pages}{1731\bibrangedash 1748}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.09-05-01731.1989
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\CBADI3DE\Von Der Heydt and Peterhans - 1989 - Mechanisms of contour perception in monkey visual .pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{wyatteEarlyRecurrentFeedback2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5610c650f8743dd404c270965b09b80a}{%
+           family={Wyatte},
+           familyi={W\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7025e015702f80bf731099da6726c6c3}{%
+           family={Jilk},
+           familyi={J\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44522215103e170f9715ea2a41223e04}{%
+           family={O'Reilly},
+           familyi={O\bibinitperiod},
+           given={Randall\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{3ff3381364601a67f1bb601ef9e9d27f}
+      \strng{fullhash}{5320cb9652ef13457e976406d2d63eaa}
+      \strng{bibnamehash}{5320cb9652ef13457e976406d2d63eaa}
+      \strng{authorbibnamehash}{5320cb9652ef13457e976406d2d63eaa}
+      \strng{authornamehash}{3ff3381364601a67f1bb601ef9e9d27f}
+      \strng{authorfullhash}{5320cb9652ef13457e976406d2d63eaa}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{$<$}p{$>$}Standard models of the visual object recognition pathway hold that a largely feedforward process from the retina through inferotemporal cortex leads to object identification. A subsequent feedback process originating in frontoparietal areas through reciprocal connections to striate cortex provides attentional support to salient or behaviorally-relevant features. Here, we review mounting evidence that feedback signals also originate within extrastriate regions and begin during the initial feedforward process. This feedback process is temporally dissociable from attention and provides important functions such as grouping, associational reinforcement, and filling-in of features. Local feedback signals operating concurrently with feedforward processing are important for object identification in noisy real-world situations, particularly when objects are partially occluded, unclear, or otherwise ambiguous. Altogether, the dissociation of early and late feedback processes presented here expands on current models of object identification, and suggests a dual role for descending feedback projections.{$<$}/p{$>$}}
+      \field{issn}{1664-1078}
+      \field{journaltitle}{Frontiers in Psychology}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{Early Recurrent Feedback Facilitates Visual Object Recognition under Challenging Conditions}
+      \field{urlday}{16}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{5}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fpsyg.2014.00674
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\J7IX3KSL\Wyatte et al. - 2014 - Early recurrent feedback facilitates visual object.pdf
+      \endverb
+      \keyw{amodal completion,Feedback,Illusory contours,object recognition,top-down attention}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
