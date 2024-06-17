@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  16 JUN 2024 12:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  17 JUN 2024 09:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -680,12 +680,12 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write4
 \openout4 = `thesis_endstop.out'.
 
-<figures/donders_logo.png, id=88, 330.23375pt x 330.23375pt>
+<figures/donders_logo.png, id=92, 330.23375pt x 330.23375pt>
 File: figures/donders_logo.png Graphic file (type png)
 <use figures/donders_logo.png>
 Package pdftex.def Info: figures/donders_logo.png  used on input line 43.
 (pdftex.def)             Requested size: 195.0pt x 195.00754pt.
-<figures/uva_logo.png, id=90, 332.24126pt x 152.57pt>
+<figures/uva_logo.png, id=94, 332.24126pt x 152.57pt>
 File: figures/uva_logo.png Graphic file (type png)
 <use figures/uva_logo.png>
 Package pdftex.def Info: figures/uva_logo.png  used on input line 44.
@@ -697,25 +697,25 @@ Package pdftex.def Info: figures/uva_logo.png  used on input line 44.
                    \relax 
 l.66 \newpage
               [1] [2] [3]
-<figures/simple_abutting.png, id=113, 249.18094pt x 107.65219pt>
+<figures/simple_abutting.png, id=117, 249.18094pt x 107.65219pt>
 File: figures/simple_abutting.png Graphic file (type png)
 <use figures/simple_abutting.png>
 Package pdftex.def Info: figures/simple_abutting.png  used on input line 85.
 (pdftex.def)             Requested size: 370.49881pt x 160.07834pt.
  [4 <./figures/simple_abutting.png>] [5]
-<figures/Kanizsa_Mice.png, id=130, 993.7125pt x 366.36874pt>
+<figures/Kanizsa_Mice.png, id=134, 993.7125pt x 366.36874pt>
 File: figures/Kanizsa_Mice.png Graphic file (type png)
 <use figures/Kanizsa_Mice.png>
 Package pdftex.def Info: figures/Kanizsa_Mice.png  used on input line 100.
 (pdftex.def)             Requested size: 370.49881pt x 136.5997pt.
  [6] [7 <./figures/Kanizsa_Mice.png>]
-<figures/Canonical_laminar_projection.png, id=154, 939.51pt x 490.08093pt>
+<figures/Canonical_laminar_projection.png, id=158, 939.51pt x 490.08093pt>
 File: figures/Canonical_laminar_projection.png Graphic file (type png)
 <use figures/Canonical_laminar_projection.png>
 Package pdftex.def Info: figures/Canonical_laminar_projection.png  used on input line 114.
 (pdftex.def)             Requested size: 390.0pt x 203.43214pt.
  [8 <./figures/Canonical_laminar_projection.png>] [9] [10] [11] [12]
-<figures/overview.jpg, id=179, 2561.57pt x 1727.45375pt>
+<figures/overview.jpg, id=183, 2561.57pt x 1727.45375pt>
 File: figures/overview.jpg Graphic file (type jpg)
 <use figures/overview.jpg>
 Package pdftex.def Info: figures/overview.jpg  used on input line 151.
@@ -747,37 +747,37 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13] [14 <./figures/overview.jpg>] [15] [16]
-<figures/figure_simple_orientation_tuning.png, id=198, 563.706pt x 234.1548pt>
+<figures/figure_simple_orientation_tuning.png, id=202, 563.706pt x 234.1548pt>
 File: figures/figure_simple_orientation_tuning.png Graphic file (type png)
 <use figures/figure_simple_orientation_tuning.png>
 Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on input line 201.
 (pdftex.def)             Requested size: 390.0pt x 162.00287pt.
  [17] [18 <./figures/figure_simple_orientation_tuning.png (PNG copy)>] [19]
-<figures/Complex_invariancy.png, id=213, 595.2639pt x 503.481pt>
+<figures/Complex_invariancy.png, id=217, 595.2639pt x 503.481pt>
 File: figures/Complex_invariancy.png Graphic file (type png)
 <use figures/Complex_invariancy.png>
 Package pdftex.def Info: figures/Complex_invariancy.png  used on input line 221.
 (pdftex.def)             Requested size: 390.0pt x 329.87082pt.
- [20] [21 <./figures/Complex_invariancy.png (PNG copy)>] [22] [23] [24] [25] [26] (./thesis_endstop.aux)
+ [20] [21 <./figures/Complex_invariancy.png (PNG copy)>] [22] [23] [24] [25] [26] [27] (./thesis_endstop.aux)
 Package rerunfilecheck Info: File `thesis_endstop.out' has not changed.
-(rerunfilecheck)             Checksum: BDE84188328FF6AFF60687F97E6F6D9C;4791.
+(rerunfilecheck)             Checksum: 58F8CE6508C0E94B8080D821A90C17A8;5228.
 Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 \openout1 = `thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18920 strings out of 478287
- 346069 string characters out of 5849288
+ 18923 strings out of 478287
+ 346116 string characters out of 5849288
  1197243 words of memory out of 5000000
- 36813 multiletter control sequences out of 15000+600000
+ 36814 multiletter control sequences out of 15000+600000
  492203 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,11n,77p,2732b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (27 pages, 3465967 bytes).
+Output written on thesis_endstop.pdf (28 pages, 3467801 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 241 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 500000)
- 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 
