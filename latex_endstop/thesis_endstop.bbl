@@ -19,6 +19,123 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{billehSystematicIntegrationStructural2020}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=6c0f3eae456abc93b020f13658f38e40}{%
+           family={Billeh},
+           familyi={B\bibinitperiod},
+           given={Yazan\bibnamedelima N.},
+           giveni={Y\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79c43be4ad975309b67def900132dee0}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Binghuang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=321faae6366927e8cb2385371798f918}{%
+           family={Gratiy},
+           familyi={G\bibinitperiod},
+           given={Sergey\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=915e06d5a1e981ed2ddc15f84b78c2fa}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Kael},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd0275a37239ac601d11ce4035412d2a}{%
+           family={Iyer},
+           familyi={I\bibinitperiod},
+           given={Ramakrishnan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5ad50cb1131082e1f924b09d404452b}{%
+           family={Gouwens},
+           familyi={G\bibinitperiod},
+           given={Nathan\bibnamedelima W.},
+           giveni={N\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31d85fc904c5901571f1ff0edcd3bf80}{%
+           family={{Abbasi-Asl}},
+           familyi={A\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df05a6aaf11de69ce31c0a93ba8df7f6}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Xiaoxuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f318b8bc1c7b825bcaa9733ffdd30190}{%
+           family={Siegle},
+           familyi={S\bibinitperiod},
+           given={Joshua\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2d39db7ba465183d008fe9053cd1b09}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Shawn\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bde4db3430ff6f578a4358224bece0ac}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Christof},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5ae1335b2aad9ee17d3b3625882d1d5}{%
+           family={Mihalas},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e22110f4b198f806e5f6ef1ebd13e3c7}{%
+           family={Arkhipov},
+           familyi={A\bibinitperiod},
+           given={Anton},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e40af904f5f76a59be6ef040dfaea8}
+      \strng{fullhash}{c694902887f9dcdb3e3db1c90c5a00bd}
+      \strng{bibnamehash}{c694902887f9dcdb3e3db1c90c5a00bd}
+      \strng{authorbibnamehash}{c694902887f9dcdb3e3db1c90c5a00bd}
+      \strng{authornamehash}{20e40af904f5f76a59be6ef040dfaea8}
+      \strng{authorfullhash}{c694902887f9dcdb3e3db1c90c5a00bd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Structural rules underlying functional properties of cortical circuits are poorly understood. To explore these rules systematically, we integrated information from extensive literature curation and large-scale experimental surveys into a data-driven, biologically realistic simulation of the awake mouse primary visual cortex. The model was constructed at two levels of granularity, using either biophysically detailed or point neurons. Both variants have identical network connectivity and were compared to each other and to experimental recordings of visual-driven neural activity. While tuning these networks to recapitulate experimental data, we identified rules governing cell-class-specific connectivity and synaptic strengths. These structural constraints constitute hypotheses that can be tested experimentally. Despite their distinct single-cell abstraction, both spatially extended and point models perform similarly at the level of firing rate distributions for the questions we investigated. All data and models are freely available as a resource for the community.}
+      \field{issn}{08966273}
+      \field{journaltitle}{Neuron}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Systematic {{Integration}} of {{Structural}} and {{Functional Data}} into {{Multi-scale Models}} of {{Mouse Primary Visual Cortex}}}
+      \field{urlday}{9}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{106}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{388\bibrangedash 403.e18}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.neuron.2020.01.040
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\JPTXN449\Billeh et al. - 2020 - Systematic Integration of Structural and Functiona.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
     \entry{deangelisLengthWidthTuning1994}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=bcc36a466c171e17dcefa84c116a1376}{%
@@ -71,6 +188,87 @@
       \verb{doi}
       \verb 10.1152/jn.1994.71.1.347
       \endverb
+    \endentry
+    \entry{durandComparisonVisualResponse2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0fe3cc02f416c9b41b543a73ac7554fc}{%
+           family={Durand},
+           familyi={D\bibinitperiod},
+           given={Séverine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd0275a37239ac601d11ce4035412d2a}{%
+           family={Iyer},
+           familyi={I\bibinitperiod},
+           given={Ramakrishnan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a09bf66fb09fed2311ccb83c492be84d}{%
+           family={Mizuseki},
+           familyi={M\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68f535e06cf5ba9fbd07e96eb3f25601}{%
+           family={Vries},
+           familyi={V\bibinitperiod},
+           given={Saskia},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b5ae1335b2aad9ee17d3b3625882d1d5}{%
+           family={Mihalas},
+           familyi={M\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca179d2c376652eba5c67b33866d8b9c}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Clay},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{ca3bcc5e19367e90b00b34541ff122c1}
+      \strng{fullhash}{52d45bb72ade96e342b0fa2fba842b69}
+      \strng{bibnamehash}{52d45bb72ade96e342b0fa2fba842b69}
+      \strng{authorbibnamehash}{52d45bb72ade96e342b0fa2fba842b69}
+      \strng{authornamehash}{ca3bcc5e19367e90b00b34541ff122c1}
+      \strng{authorfullhash}{52d45bb72ade96e342b0fa2fba842b69}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cerebral cortex of the mouse has become one of the most important systems for studying information processing and the neural correlates of behavior. Multiple studies have examined the first stages of visual cortical processing: primary visual cortex (V1) and its thalamic inputs from the dorsal lateral geniculate nucleus (dLGN), but more rarely in the lateral posterior nucleus (LP) in mice. Multiple single-unit surveys of dLGN and V1, both with electrophysiology and two-photon calcium imaging, have described receptive fields in anesthetized animals. Increasingly, awake animals are being used in physiological studies, so it is important to compare neuronal responses between awake and anesthetized state. We have performed a comprehensive survey of spatial and temporal response properties in V1, dLGN, and lateral posterior nucleus of both anesthetized and awake animals, using a common set of stimuli: drifting sine-wave gratings spanning a broad range of spatial and temporal parameters, and sparse noise stimuli consisting of flashed light and dark squares. Most qualitative receptive field parameters were found to be unchanged between the two states, such as most aspects of spatial processing, but there were significant differences in several parameters, most notably in temporal processing. Compared with anesthetized animals, the temporal frequency that evoked the peak response was shifted toward higher values in the dLGN of awake mice and responses were more sustained. Further, the peak response to a flashed stimulus was earlier in all three areas. Overall, however, receptive field properties in the anesthetized animal remain a good model for those in the awake animal. SIGNIFICANCE STATEMENT The primary visual cortex (V1) of the mouse and its inputs from visual thalamus (dLGN), have become a dominant model for studying information processing in the brain. Early surveys of visual response properties (receptive fields) were performed in anesthetized animals. Although most recent studies of V1 have been performed in awake animals to examine links between vision and behavior, there have been few comprehensive studies of receptive field properties in the awake mouse, especially in dLGN and lateral posterior nucleus. We have performed a comparative survey of receptive fields in dLGN, lateral posterior nucleus, and V1 in anesthetized and awake mice. We found multiple differences in processing of time-varying stimuli, whereas the spatial aspects of receptive fields remain comparatively unchanged.}
+      \field{chapter}{Research Articles}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{48}
+      \field{title}{A {{Comparison}} of {{Visual Response Properties}} in the {{Lateral Geniculate Nucleus}} and {{Primary Visual Cortex}} of {{Awake}} and {{Anesthetized Mice}}}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{12144\bibrangedash 12156}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.1741-16.2016
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\UTAEZMWA\Durand et al. - 2016 - A Comparison of Visual Response Properties in the .pdf
+      \endverb
+      \keyw{anesthesia,LGN,LP,mouse,visual cortex}
     \endentry
     \entry{hubelRECEPTIVEFIELDSFUNCTIONAL1965}{article}{}
       \name{author}{2}{}{%
@@ -178,6 +376,64 @@
       \range{pages}{18}
       \verb{doi}
       \verb 10.1152/jn.2001.86.4.2011
+      \endverb
+    \endentry
+    \entry{moskovitzComparisonDeepLearning2018}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6af5d48c773d697a4bfcc339c67c5154}{%
+           family={Moskovitz},
+           familyi={M\bibinitperiod},
+           given={Theodore\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a89c718cf365febc0cb7dba4610a0f2c}{%
+           family={Roy},
+           familyi={R\bibinitperiod},
+           given={Nicholas\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d922ec0cadfeaed157242a32fea7514a}{%
+           family={Pillow},
+           familyi={P\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {bioRxiv}%
+      }
+      \strng{namehash}{95eecd93752b0b75e0976bd73ab63000}
+      \strng{fullhash}{9085905f7f75c09f9229db3cb6612eb7}
+      \strng{bibnamehash}{9085905f7f75c09f9229db3cb6612eb7}
+      \strng{authorbibnamehash}{9085905f7f75c09f9229db3cb6612eb7}
+      \strng{authornamehash}{95eecd93752b0b75e0976bd73ab63000}
+      \strng{authorfullhash}{9085905f7f75c09f9229db3cb6612eb7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A large body of work on neural encoding has focused on ``cascade'' type models such as the linear-nonlinear-Poisson (LNP) model. This approach seeks to describe the encoding process in terms of a series of stages: (1) projection of the stimulus onto a bank of linear filters; (2) a nonlinear function combining these filter outputs; and (3) a noisy spike generation process. Here we explore the relationship of the LNP modeling framework to more recent approaches arising from the deep learning literature. Specifically, we show that deep neural network (DNN) and convolutional neural network (CNN) models of neural activity sit firmly within the LNP framework, and correspond to particular parametrizations of the nonlinear stage of the LNP model. Using data from primate retina and primary visual cortex, we compare the performance of LNP models fit with deep learning methods to LNP models fit with traditional estimators, including spike-triggered covariance (STC), information-theoretic spike-triggered averaging and covariance (iSTAC), and maximum likelihood estimators also known as ``maximally informative dimensions'' (MID). We show that models with nonlinearities parametrized by deep networks achieve higher accuracy for a fixed number of filters, and can extract a larger number of informative filters than traditional models. Finally, we perform a dimensionality analysis of LNP models trained with deep learning methods, revealing that a large number of filters are needed to accurately describe the neural responses of many cells even early in the visual pathway. This result overturns one of the central tenets of the LNP modeling framework: that neural computations are low-dimensional, or depend on the stimulus only via its projection onto a small number of linear filters. We discuss the implications of these findings for both the fitting and interpretation of LNP encoding models.}
+      \field{chapter}{New Results}
+      \field{eprintclass}{New Results}
+      \field{eprinttype}{bioRxiv}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{title}{A Comparison of Deep Learning and Linear-Nonlinear Cascade Approaches to Neural Encoding}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{463422}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1101/463422
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\85FFZIF4\Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
       \endverb
     \endentry
     \entry{pakTopDownFeedbackControls2020}{article}{}

@@ -2801,15 +2801,21 @@
     <bcf:citekey order="7">jonesSurroundSuppressionPrimate2001</bcf:citekey>
     <bcf:citekey order="7">sceniakVisualSpatialCharacterization2001</bcf:citekey>
     <bcf:citekey order="8">vonderheydtMechanismsContourPerception1989</bcf:citekey>
-    <bcf:citekey order="9">vonderheydtMechanismsContourPerception1989</bcf:citekey>
-    <bcf:citekey order="10">panEquivalentRepresentationReal2012</bcf:citekey>
-    <bcf:citekey order="11">pakTopDownFeedbackControls2020</bcf:citekey>
-    <bcf:citekey order="12">wyatteEarlyRecurrentFeedback2014</bcf:citekey>
-    <bcf:citekey order="13">shinRecurrentPatternCompletion2023</bcf:citekey>
-    <bcf:citekey order="14">hubelRECEPTIVEFIELDSFUNCTIONAL1965</bcf:citekey>
-    <bcf:citekey order="15">deangelisLengthWidthTuning1994</bcf:citekey>
-    <bcf:citekey order="16">jonesSurroundSuppressionPrimate2001</bcf:citekey>
-    <bcf:citekey order="17">sceniakVisualSpatialCharacterization2001</bcf:citekey>
+    <bcf:citekey order="9">moskovitzComparisonDeepLearning2018</bcf:citekey>
+    <bcf:citekey order="10">durandComparisonVisualResponse2016</bcf:citekey>
+    <bcf:citekey order="11">billehSystematicIntegrationStructural2020</bcf:citekey>
+    <bcf:citekey order="12">vonderheydtMechanismsContourPerception1989</bcf:citekey>
+    <bcf:citekey order="13">panEquivalentRepresentationReal2012</bcf:citekey>
+    <bcf:citekey order="14">pakTopDownFeedbackControls2020</bcf:citekey>
+    <bcf:citekey order="15">wyatteEarlyRecurrentFeedback2014</bcf:citekey>
+    <bcf:citekey order="16">shinRecurrentPatternCompletion2023</bcf:citekey>
+    <bcf:citekey order="17">hubelRECEPTIVEFIELDSFUNCTIONAL1965</bcf:citekey>
+    <bcf:citekey order="18">deangelisLengthWidthTuning1994</bcf:citekey>
+    <bcf:citekey order="19">jonesSurroundSuppressionPrimate2001</bcf:citekey>
+    <bcf:citekey order="20">sceniakVisualSpatialCharacterization2001</bcf:citekey>
+    <bcf:citekey order="21">moskovitzComparisonDeepLearning2018</bcf:citekey>
+    <bcf:citekey order="22">durandComparisonVisualResponse2016</bcf:citekey>
+    <bcf:citekey order="23">billehSystematicIntegrationStructural2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
