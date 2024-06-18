@@ -145,8 +145,8 @@ To stimulate endstopping behaviour the Brain Modeling Toolkit was utilised to de
 % Overview figure
 \begin{figure}[H]
   \centering
-  \includegraphics[width=1.0 \textwidth]{figures/overview.jpg}
-  \caption{Best to change a to Retina dLGN ON and OFF surround cells}
+  \includegraphics[width=1.0 \textwidth]{figures/Overview_Receptive_Field_Methods.png}
+  \caption{Description}
   \label{fig:LIF_connectivity}
 \end{figure}
 
@@ -196,7 +196,7 @@ Our study aimed to achieve orientation selectivity in V1 simple cells by strateg
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1 \textwidth]{figures/figure_simple_orientation_tuning.png}
+    \includegraphics[width=1.0 \textwidth]{figures/figure_simple_orientation_tuning.png}
     \caption{Orientation tuning example of population ON/OFF cells at 0 and 90 degrees. The idea is to make a raster plot of the 90 a path and average modulation plot, then the same for the 0 degrees. So we have raster, under that psth  for both the 0 and the 90 degrees, and next to that a large orientation polar plot for all orientations}
     \label{fig:simple cell orientation tuning}
 \end{figure}
@@ -211,6 +211,7 @@ To create a phase invariant complex cells a small number of retinotopically alig
 In the code implementation, complex cells were created by defining their receptive fields and connecting them to simple cells using a similar selective connection rule. The positions of complex cells were generated within a specified spatial grid, and their receptive fields were aligned with the preferred orientations of the contributing simple cells. The connection rule ensured that each complex cell received input from multiple simple cells with the same orientation preference but different phase preferences. This was accomplished by iterating over all potential simple cell sources for each target complex cell, establishing connections based on the orientation and phase alignment.
 
 Through this method, elliptical receptive fields with distinct ON and OFF regions enabled V1 simple cells to become orientation-selective. By combining these simple cells to form complex cells, we achieved phase invariance, allowing complex cells to respond robustly to a given orientation regardless of the spatial phase of the input. The careful design of the spatial arrangement of the ellipses, the selective connection rules, and the convergence of simple cells onto complex cells ensured that the V1 network exhibited properties similar to those observed in biological visual systems. This approach provided a robust model for studying the mechanisms of orientation selectivity, phase invariance, and the role of specific LGN and simple cell inputs in shaping the response properties of V1 neurons.
+
 
 \begin{figure}[H]
     \centering
@@ -342,7 +343,7 @@ To examine the role of recurrent inhibition in the process of endstopping we con
 
 \begin{figure}[h]
     \centering
-    % \includegraphics[width=0.8\textwidth]{./figures/complex_cell_responses.png}
+    \includegraphics[width=1 \textwidth]{./figures/LIF_endstopping_length_orientation.png}
     \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
     \label{fig:endstopping}
 \end{figure}
@@ -354,13 +355,13 @@ Figure~\ref{fig:complex_cell_responses} illustrates the firing rates of the ends
 
 The recurrent inhibition consistently resulted in a decrease in the firing rate of the endstopped complex cell when the stimulus extended into the receptive field of the adjacent complex cell. The data consistently showed that recurrent inhibition played a crucial role in balancing neural activity during stimulus presentation.
 
-\begin{figure}[h]
-    \centering
-    % \includegraphics[width=0.8\textwidth]{./figures/complex_cell_responses.png}
-    \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
-    \label{fig:complex_cell_responses}
-\end{figure}
 
+  \begin{figure}[h]
+      \centering
+      \includegraphics[width=1 \textwidth]{./figures/illusory_filling.png}
+      \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
+      \label{fig:complex_cell_responses}
+  \end{figure}
 
 
 

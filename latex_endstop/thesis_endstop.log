@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  17 JUN 2024 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  18 JUN 2024 17:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -780,12 +780,12 @@ File: figures/Canonical_laminar_projection.png Graphic file (type png)
 Package pdftex.def Info: figures/Canonical_laminar_projection.png  used on input line 119.
 (pdftex.def)             Requested size: 390.0pt x 203.43214pt.
  [8 <./figures/Canonical_laminar_projection.png>] [9] [10] [11] [12]
-<figures/overview.jpg, id=195, 2561.57pt x 1727.45375pt>
-File: figures/overview.jpg Graphic file (type jpg)
-<use figures/overview.jpg>
-Package pdftex.def Info: figures/overview.jpg  used on input line 148.
-(pdftex.def)             Requested size: 390.0pt x 262.98163pt.
- [13] [14 <./figures/overview.jpg>] [15]
+<figures/Overview_Receptive_Field_Methods.png, id=195, 614.7768pt x 431.6928pt>
+File: figures/Overview_Receptive_Field_Methods.png Graphic file (type png)
+<use figures/Overview_Receptive_Field_Methods.png>
+Package pdftex.def Info: figures/Overview_Receptive_Field_Methods.png  used on input line 148.
+(pdftex.def)             Requested size: 390.0pt x 273.86497pt.
+ [13] [14 <./figures/Overview_Receptive_Field_Methods.png (PNG copy)>] [15]
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 170.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -818,9 +818,25 @@ Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on i
 <figures/Complex_invariancy.png, id=240, 595.2639pt x 503.481pt>
 File: figures/Complex_invariancy.png Graphic file (type png)
 <use figures/Complex_invariancy.png>
-Package pdftex.def Info: figures/Complex_invariancy.png  used on input line 217.
+Package pdftex.def Info: figures/Complex_invariancy.png  used on input line 218.
 (pdftex.def)             Requested size: 390.0pt x 329.87082pt.
- [21 <./figures/Complex_invariancy.png (PNG copy)>] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] (./thesis_endstop.aux)
+ [21 <./figures/Complex_invariancy.png (PNG copy)>] [22] [23] [24] [25] [26] [27] [28]
+<./figures/LIF_endstopping_length_orientation.png, id=288, 579.6054pt x 490.9542pt>
+File: ./figures/LIF_endstopping_length_orientation.png Graphic file (type png)
+<use ./figures/LIF_endstopping_length_orientation.png>
+Package pdftex.def Info: ./figures/LIF_endstopping_length_orientation.png  used on input line 346.
+(pdftex.def)             Requested size: 390.0pt x 330.35345pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29] [30 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>]
+<./figures/illusory_filling.png, id=301, 459.6372pt x 224.2779pt>
+File: ./figures/illusory_filling.png Graphic file (type png)
+<use ./figures/illusory_filling.png>
+Package pdftex.def Info: ./figures/illusory_filling.png  used on input line 361.
+(pdftex.def)             Requested size: 390.0pt x 190.30171pt.
+ [31 <./figures/illusory_filling.png (PNG copy)>] [32] [33] [34] [35] (./thesis_endstop.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -831,18 +847,18 @@ Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19718 strings out of 478287
- 358087 string characters out of 5849288
- 1210983 words of memory out of 5000000
- 37555 multiletter control sequences out of 15000+600000
+ 19733 strings out of 478287
+ 358856 string characters out of 5849288
+ 1210937 words of memory out of 5000000
+ 37567 multiletter control sequences out of 15000+600000
  496282 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,77p,2924b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,12n,77p,2924b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (35 pages, 3516969 bytes).
+Output written on thesis_endstop.pdf (36 pages, 2555952 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 241 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 399 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
