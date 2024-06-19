@@ -1,9 +1,9 @@
-PWD /home/wouterkroot/documents/projects/thesis_endstop/latex_endstop
+PWD /home/wouter/projects/Thesis_endstop/latex_endstop
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex
+INPUT /home/wouter/projects/Thesis_endstop/latex_endstop/thesis_endstop.tex
 OUTPUT thesis_endstop.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls

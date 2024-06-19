@@ -83,7 +83,7 @@
       <file>thesis_endstop.bcf</file>
     </requires>
     <requires type="editable">
-      <file>/mnt/c/Users/woute/Zotero/My Library.bib</file>
+      <file>MyLibrary.bib</file>
     </requires>
   </external>
 </requests>

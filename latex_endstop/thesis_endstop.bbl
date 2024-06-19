@@ -132,7 +132,7 @@
       \verb 10.1016/j.neuron.2020.01.040
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\JPTXN449\Billeh et al. - 2020 - Systematic Integration of Structural and Functiona.pdf
+      \verb /home/wouter/Zotero/storage/JPTXN449/Billeh et al. - 2020 - Systematic Integration of Structural and Functiona.pdf
       \endverb
       \keyw{notion}
     \endentry
@@ -188,6 +188,7 @@
       \verb{doi}
       \verb 10.1152/jn.1994.71.1.347
       \endverb
+      \keyw{notion}
     \endentry
     \entry{durandComparisonVisualResponse2016}{article}{}
       \name{author}{6}{}{%
@@ -266,7 +267,7 @@
       \verb 10.1523/JNEUROSCI.1741-16.2016
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\UTAEZMWA\Durand et al. - 2016 - A Comparison of Visual Response Properties in the .pdf
+      \verb /home/wouter/Zotero/storage/UTAEZMWA/Durand et al. - 2016 - A Comparison of Visual Response Properties in the .pdf
       \endverb
       \keyw{anesthesia,LGN,LP,mouse,visual cortex}
     \endentry
@@ -316,7 +317,7 @@
       \verb 10.1152/jn.1965.28.2.229
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\C6DV8BNP\Hubel and Wiesel - 1965 - RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TW.pdf
+      \verb /home/wouter/Zotero/storage/C6DV8BNP/Hubel and Wiesel - 1965 - RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TW.pdf
       \endverb
     \endentry
     \entry{jonesSurroundSuppressionPrimate2001}{article}{}
@@ -377,6 +378,7 @@
       \verb{doi}
       \verb 10.1152/jn.2001.86.4.2011
       \endverb
+      \keyw{notion}
     \endentry
     \entry{moskovitzComparisonDeepLearning2018}{misc}{}
       \name{author}{3}{}{%
@@ -433,7 +435,7 @@
       \verb 10.1101/463422
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\85FFZIF4\Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
+      \verb /home/wouter/Zotero/storage/85FFZIF4/Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
       \endverb
     \endentry
     \entry{pakTopDownFeedbackControls2020}{article}{}
@@ -495,8 +497,9 @@
       \verb 10.1523/JNEUROSCI.1998-19.2019
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\ZH5NVPC3\Pak et al. - 2020 - Top-Down Feedback Controls the Cortical Representa.pdf
+      \verb /home/wouter/Zotero/storage/ZH5NVPC3/Pak et al. - 2020 - Top-Down Feedback Controls the Cortical Representa.pdf
       \endverb
+      \keyw{notion}
     \endentry
     \entry{panEquivalentRepresentationReal2012}{article}{}
       \name{author}{9}{}{%
@@ -591,8 +594,9 @@
       \verb 10.1523/JNEUROSCI.6140-11.2012
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\4R2S87AK\Pan et al. - 2012 - Equivalent Representation of Real and Illusory Con.pdf
+      \verb /home/wouter/Zotero/storage/4R2S87AK/Pan et al. - 2012 - Equivalent Representation of Real and Illusory Con.pdf
       \endverb
+      \keyw{notion}
     \endentry
     \entry{sceniakVisualSpatialCharacterization2001}{article}{}
       \name{author}{3}{}{%
@@ -647,8 +651,9 @@
       \verb 10.1152/jn.2001.85.5.1873
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\G6Y4EAJ6\Sceniak et al. - 2001 - Visual Spatial Characterization of Macaque V1 Neur.pdf
+      \verb /home/wouter/Zotero/storage/G6Y4EAJ6/Sceniak et al. - 2001 - Visual Spatial Characterization of Macaque V1 Neur.pdf
       \endverb
+      \keyw{notion}
     \endentry
     \entry{shinRecurrentPatternCompletion2023}{misc}{}
       \name{author}{26}{}{%
@@ -835,7 +840,7 @@
       \verb 10.1101/2023.06.05.543698
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\PG2936ET\Shin et al. - 2023 - Recurrent pattern completion drives the neocortica.pdf
+      \verb /home/wouter/Zotero/storage/PG2936ET/Shin et al. - 2023 - Recurrent pattern completion drives the neocortica.pdf
       \endverb
       \keyw{notion}
     \endentry
@@ -886,7 +891,7 @@
       \verb 10.1523/JNEUROSCI.09-05-01731.1989
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\CBADI3DE\Von Der Heydt and Peterhans - 1989 - Mechanisms of contour perception in monkey visual .pdf
+      \verb /home/wouter/Zotero/storage/CBADI3DE/Von Der Heydt and Peterhans - 1989 - Mechanisms of contour perception in monkey visual .pdf
       \endverb
       \keyw{notion}
     \endentry
@@ -943,9 +948,9 @@
       \verb 10.3389/fpsyg.2014.00674
       \endverb
       \verb{file}
-      \verb C:\Users\woute\Zotero\storage\J7IX3KSL\Wyatte et al. - 2014 - Early recurrent feedback facilitates visual object.pdf
+      \verb /home/wouter/Zotero/storage/J7IX3KSL/Wyatte et al. - 2014 - Early recurrent feedback facilitates visual object.pdf
       \endverb
-      \keyw{amodal completion,Feedback,Illusory contours,object recognition,top-down attention}
+      \keyw{amodal completion,Feedback,Illusory contours,notion,object recognition,top-down attention}
     \endentry
   \enddatalist
 \endrefsection
