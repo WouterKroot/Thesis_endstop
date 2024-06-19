@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.18)  19 JUN 2024 10:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  19 JUN 2024 22:48
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/wouter/projects/Thesis_endstop/latex_endstop/thesis_endstop.tex
-(/home/wouter/projects/Thesis_endstop/latex_endstop/thesis_endstop.tex
+**/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex
+(/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -367,7 +367,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip75
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language7
+\blx@langwohyphens=\language87
 \c@mincomprange=\count339
 \c@maxcomprange=\count340
 \c@mincompwidth=\count341
@@ -646,30 +646,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \@quotelevel=\count441
 \@quotereset=\count442
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 39.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 38.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./thesis_endstop.aux)
 \openout1 = `thesis_endstop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count443
@@ -722,9 +722,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis_endstop.bbl' found.
  (./thesis_endstop.bbl)
-Package biblatex Info: Reference section=0 on input line 39.
-Package biblatex Info: Reference segment=0 on input line 39.
-Package hyperref Info: Link coloring OFF on input line 39.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
+Package hyperref Info: Link coloring OFF on input line 38.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -734,129 +734,137 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count449
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
  (./thesis_endstop.out) (./thesis_endstop.out)
 \@outlinefile=\write4
 \openout4 = `thesis_endstop.out'.
 
-<figures/donders_logo.png, id=104, 330.23375pt x 330.23375pt>
+<figures/donders_logo.png, id=108, 330.23375pt x 330.23375pt>
 File: figures/donders_logo.png Graphic file (type png)
 <use figures/donders_logo.png>
-Package pdftex.def Info: figures/donders_logo.png  used on input line 50.
+Package pdftex.def Info: figures/donders_logo.png  used on input line 49.
 (pdftex.def)             Requested size: 195.0pt x 195.00754pt.
-<figures/uva_logo.png, id=106, 332.24126pt x 152.57pt>
+<figures/uva_logo.png, id=110, 332.24126pt x 152.57pt>
 File: figures/uva_logo.png Graphic file (type png)
 <use figures/uva_logo.png>
-Package pdftex.def Info: figures/uva_logo.png  used on input line 51.
+Package pdftex.def Info: figures/uva_logo.png  used on input line 50.
 (pdftex.def)             Requested size: 195.0pt x 89.54758pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/donders_logo.png> <./figures/uva_logo.png>]
-
-Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
-(lipsum)                'english' will be used instead.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/donders_logo.png> <./figures/uva_logo.png>]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \newpage
+l.72 \newpage
               [1] [2] [3]
-<figures/simple_abutting.png, id=129, 249.18094pt x 107.65219pt>
+<figures/simple_abutting.png, id=133, 249.18094pt x 107.65219pt>
 File: figures/simple_abutting.png Graphic file (type png)
 <use figures/simple_abutting.png>
-Package pdftex.def Info: figures/simple_abutting.png  used on input line 92.
+Package pdftex.def Info: figures/simple_abutting.png  used on input line 91.
 (pdftex.def)             Requested size: 370.49881pt x 160.07834pt.
  [4 <./figures/simple_abutting.png>] [5]
-<figures/Kanizsa_Mice.png, id=146, 993.7125pt x 366.36874pt>
+<figures/Kanizsa_Mice.png, id=150, 993.7125pt x 366.36874pt>
 File: figures/Kanizsa_Mice.png Graphic file (type png)
 <use figures/Kanizsa_Mice.png>
-Package pdftex.def Info: figures/Kanizsa_Mice.png  used on input line 107.
+Package pdftex.def Info: figures/Kanizsa_Mice.png  used on input line 106.
 (pdftex.def)             Requested size: 370.49881pt x 136.5997pt.
- [6] [7 <./figures/Kanizsa_Mice.png>]
-<figures/Canonical_laminar_projection.png, id=170, 939.51pt x 490.08093pt>
+ [6 <./figures/Kanizsa_Mice.png>] [7]
+<figures/Canonical_laminar_projection.png, id=174, 939.51pt x 490.08093pt>
 File: figures/Canonical_laminar_projection.png Graphic file (type png)
 <use figures/Canonical_laminar_projection.png>
-Package pdftex.def Info: figures/Canonical_laminar_projection.png  used on input line 121.
+Package pdftex.def Info: figures/Canonical_laminar_projection.png  used on input line 120.
 (pdftex.def)             Requested size: 390.0pt x 203.43214pt.
- [8 <./figures/Canonical_laminar_projection.png>] [9] [10] [11] [12]
-<figures/Overview_Receptive_Field_Methods.png, id=195, 614.7768pt x 431.6928pt>
+ [8 <./figures/Canonical_laminar_projection.png>] [9] [10] [11]
+<figures/Overview_Receptive_Field_Methods.png, id=194, 614.7768pt x 431.6928pt>
 File: figures/Overview_Receptive_Field_Methods.png Graphic file (type png)
 <use figures/Overview_Receptive_Field_Methods.png>
-Package pdftex.def Info: figures/Overview_Receptive_Field_Methods.png  used on input line 150.
+Package pdftex.def Info: figures/Overview_Receptive_Field_Methods.png  used on input line 149.
 (pdftex.def)             Requested size: 390.0pt x 273.86497pt.
- [13] [14 <./figures/Overview_Receptive_Field_Methods.png (PNG copy)>] [15]
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 172.
+ [12] [13 <./figures/Overview_Receptive_Field_Methods.png (PNG copy)>] [14]
+<figures/lgn_response_fig.png, id=215, 581.5326pt x 666.0885pt>
+File: figures/lgn_response_fig.png Graphic file (type png)
+<use figures/lgn_response_fig.png>
+Package pdftex.def Info: figures/lgn_response_fig.png  used on input line 166.
+(pdftex.def)             Requested size: 390.0pt x 446.72418pt.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 178.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 172.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 178.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 172.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 178.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 172.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 178.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 178.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 178.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
- [16] [17] [18]
-<figures/figure_simple_orientation_tuning.png, id=230, 563.706pt x 234.1548pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 178.
+ [15] [16 <./figures/lgn_response_fig.png (PNG copy)>] [17] [18]
+<figures/figure_simple_orientation_tuning.png, id=236, 539.616pt x 214.401pt>
 File: figures/figure_simple_orientation_tuning.png Graphic file (type png)
 <use figures/figure_simple_orientation_tuning.png>
-Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on input line 201.
-(pdftex.def)             Requested size: 390.0pt x 162.00287pt.
- [19 <./figures/figure_simple_orientation_tuning.png (PNG copy)>] [20]
-<figures/Complex_invariancy.png, id=240, 595.2639pt x 503.481pt>
+Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on input line 207.
+(pdftex.def)             Requested size: 390.0pt x 154.96072pt.
+ [19] [20 <./figures/figure_simple_orientation_tuning.png (PNG copy)>]
+<figures/Complex_invariancy.png, id=246, 595.2639pt x 503.481pt>
 File: figures/Complex_invariancy.png Graphic file (type png)
 <use figures/Complex_invariancy.png>
-Package pdftex.def Info: figures/Complex_invariancy.png  used on input line 220.
+Package pdftex.def Info: figures/Complex_invariancy.png  used on input line 226.
 (pdftex.def)             Requested size: 390.0pt x 329.87082pt.
- [21 <./figures/Complex_invariancy.png (PNG copy)>] [22] [23] [24] [25] [26] [27] [28]
-<./figures/LIF_endstopping_length_orientation.png, id=288, 579.6054pt x 490.9542pt>
+ [21] [22 <./figures/Complex_invariancy.png (PNG copy)>] [23] [24] [25] [26]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27] [28] [29]
+<./figures/LIF_endstopping_length_orientation.png, id=298, 579.6054pt x 490.9542pt>
 File: ./figures/LIF_endstopping_length_orientation.png Graphic file (type png)
 <use ./figures/LIF_endstopping_length_orientation.png>
-Package pdftex.def Info: ./figures/LIF_endstopping_length_orientation.png  used on input line 348.
+Package pdftex.def Info: ./figures/LIF_endstopping_length_orientation.png  used on input line 339.
 (pdftex.def)             Requested size: 390.0pt x 330.35345pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29] [30 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>]
-<./figures/illusory_filling.png, id=301, 459.6372pt x 224.2779pt>
+[30]
+<./figures/illusory_filling.png, id=306, 459.6372pt x 224.2779pt>
 File: ./figures/illusory_filling.png Graphic file (type png)
 <use ./figures/illusory_filling.png>
-Package pdftex.def Info: ./figures/illusory_filling.png  used on input line 363.
+Package pdftex.def Info: ./figures/illusory_filling.png  used on input line 354.
 (pdftex.def)             Requested size: 390.0pt x 190.30171pt.
- [31 <./figures/illusory_filling.png (PNG copy)>] [32] [33] [34] [35] (./thesis_endstop.aux)
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>] [32 <./figures/illusory_filling.png (PNG copy)>] [33] [34] [35] [36] [37] [38] (./thesis_endstop.aux)
 Package rerunfilecheck Info: File `thesis_endstop.out' has not changed.
-(rerunfilecheck)             Checksum: 28B6C12E0F3F702347DB9A8F8634B7A8;6233.
+(rerunfilecheck)             Checksum: 18692136874949E33863DB1477094F8C;6823.
 Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 \openout1 = `thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19733 strings out of 480171
- 358676 string characters out of 5894489
- 1205961 words of memory out of 5000000
- 37323 multiletter control sequences out of 15000+600000
+ 19747 strings out of 478287
+ 359046 string characters out of 5849288
+ 1209887 words of memory out of 5000000
+ 37575 multiletter control sequences out of 15000+600000
  496282 words of font info for 77 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 68i,12n,77p,2909b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1141 hyphenation exceptions out of 8191
+ 68i,12n,77p,2924b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (36 pages, 2555955 bytes).
+Output written on thesis_endstop.pdf (39 pages, 2978980 bytes).
 PDF statistics:
- 399 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 87 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 421 PDF objects out of 1000 (max. 8388607)
+ 344 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,6 +16,7 @@
 \usepackage[backend=biber, style=apa,]{biblatex}
 \usepackage{hyperref}
 \usepackage{indentfirst}
+\usepackage{float}
 
 \pagestyle{fancy}
 \doublespacing
@@ -34,15 +35,13 @@
 
 \setlength{\droptitle}{-10em}   % This is your set screw
 
-
-
 \begin{document}
 
 \begin{titlepage}
 \centering
 
 % Adjust font size and family as needed
-{\LARGE\bfseries no test Local Circuit Structure of Mouse Visual Cortex for Generating Illusory Contour Responses\par}
+{\LARGE\bfseries Local Circuit Structure of Mouse Visual Cortex for Generating Illusory Contour Responses\par}
 
 \vspace{5pt} % Adjust space between title and figure as needed
 
@@ -102,7 +101,7 @@ Macaque V2 cells' showed that their tuning to illusory contours is not necessari
 
 \noindent Additional support for the vital role of feedback in the representation of illusory contours is provided by studies illustrating the interactions between V1 and the lateromedial visual area (LM) in mice during the perception of illusory contours \autocite{pakTopDownFeedbackControls2020}. These studies trained mice to differentiate between stimuli with and without illusory contours, linking their behaviour to neural activity (Figure 2). Given the extensive genetic tools available for mice that allow for the precise recording and stimulation of specific cells, they are exceptionally well-suited for investigating the hierarchical processing that underpins perceptual inferences. The findings revealed that, akin to macaques, mice also exhibited a delay (30 ms) in the representation of illusory contours compared to those defined by contrast, suggesting that the processing of illusory contours involves a more complex integration of visual information than that of contours directly derivable from sensory input. Moreover, the representation of illusory contours in V1 was eliminated upon the silencing of LM through optogenetics, indicating a possible similarity in the processing relationship between V1 and LM in mice and that between V2 and V4 in macaques, which aligns with theories of recurrent processing \autocite{wyatteEarlyRecurrentFeedback2014}. Additionally, recent research \cite{shinRecurrentPatternCompletion2023} found that a specific subset of V1 cells in mice could complete the perception of an illusory contour when sufficiently stimulated. Employing decoding techniques and 2-photon stimulation, it was demonstrated that activating a particular set of V1 cells could suffice to generate the perception of illusory contours across the V1 network, even without any visual stimulus. These findings underscore the significance of recurrent activity in the representation of illusory contours and highlight the necessity for further investigation into how these cells are precisely targeted based on the configuration of inducing stimuli.
 
-\begin{figure}
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.95\textwidth]{figures/Kanizsa_Mice.png}
     \caption{Kanizsa illusion (Pak et al., 2020), four spatially synchronous pac-men that induce the impression of a white square overlapping four circles, inducing the percept of a not physically present contour. When presented to mice, orientation-selective cells show activity along the length of the illusory line.}
@@ -138,7 +137,7 @@ Despite these insights, neurophysiological studies have largely overlooked how e
 To investigate the local circuit necessary for endstopping and how endstopping features can be used to generate illusory contours within the visual cortex of the mouse, the current study used two distinct computational frameworks. In the initial phase of the investigation, we utilised leaky integrate-and-fire (LIF) models to simulate the spatial and temporal integration of synaptic input, on the single-cell level. This approach provided a foundational understanding of the mechanisms underpinning orientation selectivity, complex cell features such as polarity invariance, and endstopping. However, the current connectivity between LIF cells was set by hand, and the complexity and computational demands associated with the tuning of each neuron constrained the current study to shift towards population models for the subsequent phase of generating illusory contours. Nevertheless, the LIF network allowed an estimate of the necessary amount of cells needed to create a stable neural mechanism for endstopping, and the population models could abstract this behaviour into a computationally tractable form, enabling the simulation of illusory contour generation efficiently. 
 
 \bigbreak
-\subsection{Simulating the Local Circuit for Endstopping.}
+\subsection{Simulating the Local Circuit for Endstopping using the BMTK.}
 
 To stimulate endstopping behaviour the Brain Modeling Toolkit was utilised to define and connect nodes. To construct an architecture of spiking point neurons it is necessary to initilialise an instance of the NetworkBuilder class provided by the BMTK. The current example will create a network for the dLGN and a network for V1. To present the visual stimuli and connect nodes from the LGN to V1, the Brain Modelling Toolkit was used. This simulation pipeline processed visual information through a series of steps with increasing complexity, starting with presenting the visual stimulus. Visual stimuli were dynamically presented through a three-dimensional array format (t, y, x). Each entry along the first dimension time (t) is a frame with input organised along the vertical (y) and horizontal (x) dimensions. By following these steps, you can effectively use the Brain Modeling Toolkit to create complex neural networks. The toolkit's flexibility allows for precise control over the spatial arrangement and connectivity of neurons, facilitating the modeling of intricate neural circuits and their dynamic behaviors. This guide demonstrates the process of defining, connecting, visualizing, and saving neural networks using BMTK, providing a robust framework for neural network modeling and simulation. An important aspect of BMTK is its support for different simulation environments. In this context, we used two distinct types of simulations: filternet and pointnet. Filternet is employed to simulate the LGN, focusing on the filtering properties of LGN neurons and their responses to visual stimuli. This separate simulation environment is particularly suited for capturing the dynamics of large-scale LGN networks and their pre-processing role in the visual pathway. The importance of using filternet lies in its ability to model the initial stages of visual processing, where the LGN acts as a relay station, refining and filtering visual information before it reaches the cortex. This simulation environment allows for detailed analysis of how LGN neurons process various visual inputs and contribute to the overall visual perception.
 \bigbreak
@@ -149,20 +148,27 @@ To stimulate endstopping behaviour the Brain Modeling Toolkit was utilised to de
   \centering
   \includegraphics[width=1.0 \textwidth]{figures/Overview_Receptive_Field_Methods.png}
   \caption{Description}
-  \label{fig:LIF_connectivity}
+  \label{fig:LIF_Overview}
 \end{figure}
 
 
 \subsection{dLGN during stimulus presentation}
-The dorsal Lateral Geniculate Nucleus (dLGN) is the first relay station in the visual pathway, receiving input from the retina and transmitting visual information to the primary visual cortex (V1). The dLGN processes visual stimuli through two distinct pathways: the ON and OFF pathways, which respond to increases and decreases in light intensity, respectively. These pathways are essential for encoding contrast and edge information in visual scenes, providing the initial processing steps that shape the neural representation of visual stimuli.
+The first relay station in the visual pathway is the dorsal Lateral Geniculate Nucleus (dLGN), which receives input from the retina and transmits visual information to the primary visual cortex (V1) for further processing. The dLGN processes visual stimuli through two distinct pathways: the ON and OFF pathways, which respond to increases and decreases in light intensity, respectively. These pathways are essential for encoding contrast and edge information in visual scenes, providing the initial processing steps that shape the neural representation of visual stimuli. To simulate the dLGN's response to visual stimuli, we used the Brain Modeling Toolkit (BMTK) to construct a network of dLGN cells and present monochromatic greyscale images to the network. The BMTK provides a flexible framework for building and simulating neural networks, allowing us to define the spatial arrangement of dLGN cells, their receptive fields, and their connectivity patterns. By presenting visual stimuli to the dLGN network, we can effectively simulate the translation of light input into neural signals, creating the first layer for contrast detection in the visual system.
 
 Since we are interested in contrast, which is encoded in V1 rather than color, only monochromatic greyscale stimuli were shown. To transform this input array into neural signals, the dLGN was simulated as a linear-non-linear Poisson cascade model. First, visual input within the space of the receptive field of the LGN cell is convolved with a linear filter. Then a nonlinear function is applied to the output of the previous linear filter, giving the neuron's instantaneous spike rate as its output. Finally, this firing rate generates spikes according to an inhomogeneous Poisson process \autocite{moskovitzComparisonDeepLearning2018}.
 
 The current dLGN model consists of two unit types, ON and OFF surround cells, optimized to closely mimic mammalian thalamic cells. The ON and OFF cells of the LGN converge on a layer of simple cells, effectively simulating layer 4 (L4) of V1 (Figure \ref{fig:LIF_connectivity}a). This dual pathway of ON/OFF cells is essential for the initial segregation of visual information, setting the stage for more complex edge detection and contrast processing within higher cortical areas.
 
-We analyzed spiking features in response to static images. Therefore, we focused on modeling ON and OFF cells to have a predominantly sustained response (sON and sOFF). We used the model templates in our node configuration to implement these cells in our network. The parameters for these cells were set based on values derived from electrophysiological recordings from the mouse dLGN, as reported by \autocite{durandComparisonVisualResponse2016} and \autocite{billehSystematicIntegrationStructural2020}.
+We analyzed spiking features in response to static images. Therefore, we focused on modeling ON and OFF cells to have a predominantly sustained responses (sON and sOFF). We used the model templates in our node configuration to implement these cells in our network. The parameters for these cells were set based on values derived from electrophysiological recordings from the mouse dLGN, as reported by \autocite{durandComparisonVisualResponse2016} and \autocite{billehSystematicIntegrationStructural2020}.
 
-For the spatial filtering of the receptive fields, we employed a Gaussian filter characterized by its spatial size and rotation. The default spatial size was set to 5.0 spatial degrees for both rows and columns, with a rotation of 0.0 degrees. The temporal filtering was managed using a double cosine filter. The parameters for this filter included weights, kpeaks, and delays. The weights parameter controlled the amplitude of the two peaks in the cosine filter, with the first value being greater than the second (weights[0] > weights[1]). The kpeaks parameter determined the spread of the peaks, ensuring the second peak had a greater spread than the first.
+\begin{figure}
+  \centering
+  \includegraphics[width=1.0 \textwidth]{figures/lgn_response_fig.png}
+  \caption{Description of the LGN cells response to monochromatic greyscale stimuli, light and black.}
+  \label{fig:LIF_connectivity}
+\end{figure}
+
+\textbf{LGN and V1 parameters} For the spatial filtering of the receptive fields, we employed a Gaussian filter characterized by its spatial size and rotation. The default spatial size was set to 5.0 spatial degrees for both rows and columns, with a rotation of 0.0 degrees. The temporal filtering was managed using a double cosine filter. The parameters for this filter included weights, kpeaks, and delays. The weights parameter controlled the amplitude of the two peaks in the cosine filter, with the first value being greater than the second (weights[0] > weights[1]). The kpeaks parameter determined the spread of the peaks, ensuring the second peak had a greater spread than the first.
 
 The delays parameter controlled the timing of the peaks, with delays[0] setting the delay for the first, larger peak and delays[1] setting the delay for the second, smaller peak. A smaller value for delays[0] resulted in a quicker initial response to brightness changes, while a larger value meant a slower initial response. Similarly, delays[1] determined how quickly the secondary response occurred, with smaller values indicating quicker secondary responses and larger values indicating slower ones. By carefully setting these parameters, we ensured that the LGN cells accurately modeled the sustained neural responses to both ON and OFF input necessary for our study.
 
@@ -322,21 +328,6 @@ Circuit templates define the network structure of the model. The Wilson-Cowan ci
 
 These detailed specifications allow us to simulate complex neural dynamics, capturing both excitatory and inhibitory interactions within the network. By adjusting the weights and incorporating synaptic plasticity models, we can flexibly and realistically represent neural behavior and understand how neurons interact and influence each other over time.
 
-
-
-
-% To get multicol and still have a figure in the middle of the text
-% \begin{figure*}[ht]
-%   \caption{This is a tiger.}
-% \end{figure*}
-% \begin{multicols}{2}
-%   \lipsum[3-4]
-%   \bigbreak
-
-%   test this two times 
-
-% \end{multicols}
-
 \section{Results}
 \subsection{LIF Endstopped Receptive Field properties.}
 %Research Question: Role of recurrent inhibition in creating balanced activity during stimulus presentation. 
@@ -371,19 +362,29 @@ The recurrent inhibition consistently resulted in a decrease in the firing rate 
 
 \subsection{Population activity illusory contours}
 
-\subsection{Representation real contours vs illusory contours}
+\subsection{Representation real contours vs illusory contours in the model}
+
 
 \newpage
 \section{Discussion}
 
-\subsection{Recurrent inhibitory activty balances activity needed for stable endstopping.}
-Our model demonstrates that recurrent inhibition plays a crucial role in balancing neural activity during stimulus presentation, thereby stabilizing the endstopping phenomenon. In a strictly feedforward network, such stabilization is not possible. The presence of recurrent inhibition ensures that the activity of the endstopped complex cells is modulated appropriately based on the spatial extent of the stimulus. The findings provide a clear answer to the research question by demonstrating that recurrent inhibition stabilizes the endstopping feature in the neural model, which is not achievable in a strictly feedforward network. The consistent suppression of the complex cell's activity by the recurrent inhibitory population validates the importance of recurrent inhibition in the model.
-\subsection{Model predictions.}
+\subsection{Model predictions; results in the literature.}
+  \subsubsection{Recurrent inhibitory activty balances activity needed for stable endstopping.}
+  Our model demonstrates that recurrent inhibition plays a crucial role in balancing neural activity during stimulus presentation, thereby stabilizing the endstopping phenomenon. In a strictly feedforward network, such stabilization is not possible. The presence of recurrent inhibition ensures that the activity of the endstopped complex cells is modulated appropriately based on the spatial extent of the stimulus. The findings provide a clear answer to the research question by demonstrating that recurrent inhibition stabilizes the endstopping feature in the neural model, which is not achievable in a strictly feedforward network. The consistent suppression of the complex cell's activity by the recurrent inhibitory population validates the importance of recurrent inhibition in the model.
+
+  \subsubsection{Real vs illusory contour representation}
+  Electrophysiological it seems that the L4 simple cells are dominated by feedforward input and thus should not directly be influenced by illusory contours, the current model is indeed setup so that from L2/3 the endstopped cells converge onto higher visual areas and which send feedback to deeper layers of the visual cortex. 
+  Electrophysiology, deeper layers more active or superficial layers? should be feedback, normally feedback from higher visual areas target deeper layers, but in the case of illusory contours, it seems that feedback from higher visual areas target superficial layers. (need to check this in the literature, done in mice: Wyatte, filling in process; Shin IC encoder where?, Pak et al. 2019, feedback from LM to V1 superficial layers)
 
 \subsection{Feedback allows for orientation interpolation for curved surfaces.}
-
+As seen in the results with current mass models it is possible to instruct orientation specific illusory contours, however in other electrophysiological studies it is clear that there are cases in which the illusory contour is curved. This is not possible with the current model, but it is possible to extend the model to include feedback from higher visual areas to V1 to allow for orientation interpolation. This would allow for the model to generate curved illusory contours, which would be a more accurate representation of the visual system. A possible neuronal mechanism that would result in curved illusory contour is a broad feedback response that integrates multiple orientations around the inducing orientation. In other words, the orientation selective feedforward input from the endstopped cells to the higher visual Pattern cells would be integrated and give feedback to closely matched cells instead of only the same orientation tuning as in the current model. Additionally, known feedback mechanisms to local inhibitory cells in L2/3 could also be included for a more rich feedback response that fills in between occluding visual features.
 \subsection{Limitations}
 \subsubsection{Deep learning optimisation}
+The current model was tuned by hand to achieve the desired endstopping behaviour, combining multiple hierarchical levels of neuronal complexity. In future work, deep learning optimization techniques could be employed to automatically tune the model parameters and connectivity weights to achieve the desired endstopping behaviour. This would allow for a more systematic exploration of the parameter space and potentially uncover novel configurations that enhance the model's performance. Additionally, the use of deep learning optimization could help identify the most critical parameters and connections that contribute to endstopping, providing valuable insights into the underlying neural mechanisms. 
+
+This would make it possible to formulate a model consisting only of LIF cells in contrast to the mass neural models used in the current model. Additionally, the use of deep learning optimisation would make it possible to simulate the model on a larger scale, but also to simulate network responses to more continuously altered input configuration, testing it's robustness better.
+
+
 
 \newpage
 \printbibliography

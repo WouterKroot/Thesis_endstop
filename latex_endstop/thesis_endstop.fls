@@ -1,9 +1,9 @@
-PWD /home/wouter/projects/Thesis_endstop/latex_endstop
+PWD /home/wouterkroot/documents/projects/thesis_endstop/latex_endstop
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/wouter/projects/Thesis_endstop/latex_endstop/thesis_endstop.tex
+INPUT /home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex
 OUTPUT thesis_endstop.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -692,6 +692,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -851,6 +852,11 @@ INPUT ./figures/Overview_Receptive_Field_Methods.png
 INPUT figures/Overview_Receptive_Field_Methods.png
 INPUT ./figures/Overview_Receptive_Field_Methods.png
 INPUT ./figures/Overview_Receptive_Field_Methods.png
+INPUT ./figures/lgn_response_fig.png
+INPUT ./figures/lgn_response_fig.png
+INPUT figures/lgn_response_fig.png
+INPUT ./figures/lgn_response_fig.png
+INPUT ./figures/lgn_response_fig.png
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
