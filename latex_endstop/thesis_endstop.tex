@@ -146,7 +146,7 @@ To stimulate endstopping behaviour the Brain Modeling Toolkit was utilised to de
 % Overview figure
 \begin{figure}[H]
   \centering
-  \includegraphics[width=1.0 \textwidth]{figures/Overview_Receptive_Field_Methods.png}
+  \includegraphics[width=1.0 \textwidth]{figures/LIF_Overview_Receptive_Field_Methods.png}
   \caption{Description}
   \label{fig:LIF_Overview}
 \end{figure}
@@ -161,7 +161,7 @@ The current dLGN model consists of two unit types, ON and OFF surround cells, op
 
 We analyzed spiking features in response to static images. Therefore, we focused on modeling ON and OFF cells to have a predominantly sustained responses (sON and sOFF). We used the model templates in our node configuration to implement these cells in our network. The parameters for these cells were set based on values derived from electrophysiological recordings from the mouse dLGN, as reported by \autocite{durandComparisonVisualResponse2016} and \autocite{billehSystematicIntegrationStructural2020}.
 
-\begin{figure}
+\begin{figure}[H]
   \centering
   \includegraphics[width=1.0 \textwidth]{figures/lgn_response_fig.png}
   \caption{Description of the LGN cells response to monochromatic greyscale stimuli, light and black.}
@@ -223,7 +223,7 @@ Through this method, elliptical receptive fields with distinct ON and OFF region
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1 \textwidth]{figures/Complex_invariancy.png}
+    \includegraphics[width=1 \textwidth]{figures/complex_invariance_figure.png}
     \caption{Polarity invariance of complex cells, 0 and 90; while maintaining the right orientation selectivity}
     \label{fig:polarity invariance}
 \end{figure}
@@ -257,11 +257,12 @@ In order to investigate the generation of illusory contour in the visual cortex,
 
 \subsubsection{Overview of the population model.}
 This text should describe the connectivity patterns used to shape the population model, the parameters used to define the neural dynamics, and the overall structure of the model. It should also explain how the model was used to simulate the generation of illusory contours in the visual cortex and how the results were interpreted to gain insights into the neural mechanisms underlying this phenomenon.
+
 \begin{figure}[H]
   \centering
-  % \includegraphics[width=1 \textwidth]{figures/Population_model.png}
-  \caption{Population model of V1, integrating a microcircuit of simple, complex, endstopping and inhibitory cells into LM pattern cells that give feedback to V1 for filling in an illusory contour response.}
-  \label{fig:population model}
+  \includegraphics[width=1 \textwidth]{./figures/illusory_filling.png}
+  \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
+  \label{fig:illusory_filling}
 \end{figure}
 
 
@@ -333,32 +334,28 @@ These detailed specifications allow us to simulate complex neural dynamics, capt
 %Research Question: Role of recurrent inhibition in creating balanced activity during stimulus presentation. 
 To examine the role of recurrent inhibition in the process of endstopping we constructed a neural model consisting of a microcircuit of simple cells, complex cells and inhibitory interneurons. A simple cell population of a particular retinotopic coordinate is connected to a complex cell which creates an inhibitory feedback loop by connecting to an inhibitory population that inhibits the activity of a neighbouring simple cell population. This configuration allows us to simulate the behaviour of endstopped complex cells in response to different line segments of varying lengths and orientations. The results in Figure~\ref{fig:complex_cell_responses} confirmed that the endstop cell was spiking maximally when a line bar is positioned within its receptive field. However, this activity is then inhibited when the line extends into the receptive field of an adjacent complex cell. This decrease in firing rate was attributed to the inhibition from the recurrent inhibitory population. 
 
-
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1 \textwidth]{./figures/LIF_endstopping_length_orientation.png}
     \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
     \label{fig:endstopping}
 \end{figure}
 
-
+\bigbreak
+\subsubsection{Use average firing rate or modulation for endstopping quantification.}
 We presented the model with various line segments of different lengths and orientations to observe the behavior of the endstopped complex cells. The results showed that the complex cell spiked maximally when a line bar was within its receptive field. As the length of the line segment increased and extended into the receptive field of the neighboring complex cell, the firing rate of the endstopped complex cell decreased. This decrease in firing rate was attributed to the inhibition from the recurrent inhibitory population.
 
 Figure~\ref{fig:complex_cell_responses} illustrates the firing rates of the endstopped complex cells in response to line segments of varying lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell. The results demonstrated that without recurrent inhibition, the complex cell continued to spike even when the line segment extended into the receptive field of the neighboring complex cell. Conversely, with recurrent inhibition, the activity of the complex cell was suppressed when the line segment extended beyond its optimal length.
 
 The recurrent inhibition consistently resulted in a decrease in the firing rate of the endstopped complex cell when the stimulus extended into the receptive field of the adjacent complex cell. The data consistently showed that recurrent inhibition played a crucial role in balancing neural activity during stimulus presentation.
 
-
-  \begin{figure}[h]
-      \centering
-      \includegraphics[width=1 \textwidth]{./figures/illusory_filling.png}
-      \caption{Responses of the endstopped complex cells to different line segment lengths. The x-axis represents the length of the line segment, and the y-axis represents the firing rate of the complex cell.}
-      \label{fig:complex_cell_responses}
+  \subsubsection{Figure activity vs length in optimal endstopping condition}
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=1.0 \textwidth]{figures/endstop_line_length.png}
+    \caption{Description of Endstopped complex cell activity as a function of line segment length.}
+    \label{fig:endstopping_length}
   \end{figure}
-
-
-
-  \subsubsection{Use average firing rate or modulation for endstopping quantification.}
 
 \subsection{Population activity illusory contours}
 
