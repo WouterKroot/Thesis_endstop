@@ -812,6 +812,47 @@
       \endverb
       \keyw{notion}
     \endentry
+    \entry{roelfsemaCORTICALALGORITHMSPERCEPTUAL2006}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b203b9802bca37b299b9ec5c19762d14}{%
+           family={Roelfsema},
+           familyi={R\bibinitperiod},
+           given={Pieter\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b203b9802bca37b299b9ec5c19762d14}
+      \strng{fullhash}{b203b9802bca37b299b9ec5c19762d14}
+      \strng{bibnamehash}{b203b9802bca37b299b9ec5c19762d14}
+      \strng{authorbibnamehash}{b203b9802bca37b299b9ec5c19762d14}
+      \strng{authornamehash}{b203b9802bca37b299b9ec5c19762d14}
+      \strng{authorfullhash}{b203b9802bca37b299b9ec5c19762d14}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A fundamental task of vision is to group the image elements that belong to one object and to segregate them from other objects and the background. This review provides a conceptual framework of how perceptual grouping may be implemented in the visual cortex. According to this framework, two mechanisms are responsible for perceptual grouping: base-grouping and incremental grouping. Base-groupings are coded by single neurons tuned to multiple features, like the combination of a color and an orientation. They are computed rapidly because they reflect the selectivity of feedforward connections. However, not all conceivable feature combinations are coded by dedicated neurons. Therefore, a second, flexible form of grouping is required called incremental grouping. Incremental grouping enhances the responses of neurons coding features that are bound in perception, but it takes more time than does base-grouping because it relies also on horizontal and feedback connections. The modulation of neuronal response strength during incremental grouping has a correlate in psychology because attention is directed to those features that are labeled by the enhanced neuronal response.}
+      \field{issn}{0147-006X, 1545-4126}
+      \field{journaltitle}{Annual Review of Neuroscience}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{{{CORTICAL ALGORITHMS FOR PERCEPTUAL GROUPING}}}
+      \field{urlday}{23}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{203\bibrangedash 227}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1146/annurev.neuro.29.051605.112939
+      \endverb
+    \endentry
     \entry{sceniakVisualSpatialCharacterization2001}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=0733cc864a700ba74d929ccece866c27}{%

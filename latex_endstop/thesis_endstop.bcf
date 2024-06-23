@@ -2794,6 +2794,7 @@
     <bcf:citekey order="1">kirchbergerEssentialRoleFeedback2020</bcf:citekey>
     <bcf:citekey order="2">ashbridgeEffectImageOrientation2000</bcf:citekey>
     <bcf:citekey order="3">wyatteEarlyRecurrentFeedback2014</bcf:citekey>
+    <bcf:citekey order="4">roelfsemaCORTICALALGORITHMSPERCEPTUAL2006</bcf:citekey>
     <bcf:citekey order="4">shushruthStrongRecurrentNetworks2012</bcf:citekey>
     <bcf:citekey order="5">sorianoAbuttingGratingIllusion1996</bcf:citekey>
     <bcf:citekey order="6">kanizsaSubjectiveContours1976</bcf:citekey>
@@ -2813,20 +2814,21 @@
     <bcf:citekey order="18">kirchbergerEssentialRoleFeedback2020</bcf:citekey>
     <bcf:citekey order="19">ashbridgeEffectImageOrientation2000</bcf:citekey>
     <bcf:citekey order="20">wyatteEarlyRecurrentFeedback2014</bcf:citekey>
-    <bcf:citekey order="21">shushruthStrongRecurrentNetworks2012</bcf:citekey>
-    <bcf:citekey order="22">sorianoAbuttingGratingIllusion1996</bcf:citekey>
-    <bcf:citekey order="23">kanizsaSubjectiveContours1976</bcf:citekey>
-    <bcf:citekey order="24">vonderheydtMechanismsContourPerception1989</bcf:citekey>
-    <bcf:citekey order="25">panEquivalentRepresentationReal2012</bcf:citekey>
-    <bcf:citekey order="26">pakTopDownFeedbackControls2020</bcf:citekey>
-    <bcf:citekey order="27">shinRecurrentPatternCompletion2023</bcf:citekey>
-    <bcf:citekey order="28">hubelRECEPTIVEFIELDSFUNCTIONAL1965</bcf:citekey>
-    <bcf:citekey order="29">deangelisLengthWidthTuning1994</bcf:citekey>
-    <bcf:citekey order="30">jonesSurroundSuppressionPrimate2001</bcf:citekey>
-    <bcf:citekey order="31">sceniakVisualSpatialCharacterization2001</bcf:citekey>
-    <bcf:citekey order="32">moskovitzComparisonDeepLearning2018</bcf:citekey>
-    <bcf:citekey order="33">durandComparisonVisualResponse2016</bcf:citekey>
-    <bcf:citekey order="34">billehSystematicIntegrationStructural2020</bcf:citekey>
+    <bcf:citekey order="21">roelfsemaCORTICALALGORITHMSPERCEPTUAL2006</bcf:citekey>
+    <bcf:citekey order="22">shushruthStrongRecurrentNetworks2012</bcf:citekey>
+    <bcf:citekey order="23">sorianoAbuttingGratingIllusion1996</bcf:citekey>
+    <bcf:citekey order="24">kanizsaSubjectiveContours1976</bcf:citekey>
+    <bcf:citekey order="25">vonderheydtMechanismsContourPerception1989</bcf:citekey>
+    <bcf:citekey order="26">panEquivalentRepresentationReal2012</bcf:citekey>
+    <bcf:citekey order="27">pakTopDownFeedbackControls2020</bcf:citekey>
+    <bcf:citekey order="28">shinRecurrentPatternCompletion2023</bcf:citekey>
+    <bcf:citekey order="29">hubelRECEPTIVEFIELDSFUNCTIONAL1965</bcf:citekey>
+    <bcf:citekey order="30">deangelisLengthWidthTuning1994</bcf:citekey>
+    <bcf:citekey order="31">jonesSurroundSuppressionPrimate2001</bcf:citekey>
+    <bcf:citekey order="32">sceniakVisualSpatialCharacterization2001</bcf:citekey>
+    <bcf:citekey order="33">moskovitzComparisonDeepLearning2018</bcf:citekey>
+    <bcf:citekey order="34">durandComparisonVisualResponse2016</bcf:citekey>
+    <bcf:citekey order="35">billehSystematicIntegrationStructural2020</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
