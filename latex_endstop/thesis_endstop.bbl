@@ -80,6 +80,9 @@
       \verb{doi}
       \verb 10.1080/026432900380463
       \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\2DCN3YMU\Ashbridge et al. - 2000 - Effect of Image Orientation and Size on Object Rec.pdf
+      \endverb
     \endentry
     \entry{billehSystematicIntegrationStructural2020}{article}{}
       \name{author}{13}{}{%
@@ -332,6 +335,102 @@
       \verb C:\Users\woute\Zotero\storage\UTAEZMWA\Durand et al. - 2016 - A Comparison of Visual Response Properties in the .pdf
       \endverb
       \keyw{anesthesia,LGN,LP,mouse,visual cortex}
+    \endentry
+    \entry{fellemanDistributedHierarchicalProcessing1991}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d1e156fd7db0a4d42fe592b4987db53d}{%
+           family={Felleman},
+           familyi={F\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a822692fda0b1d8450b708c11993ac6}{%
+           family={Van\bibnamedelima Essen},
+           familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \strng{fullhash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \strng{bibnamehash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \strng{authorbibnamehash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \strng{authornamehash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \strng{authorfullhash}{743e45b08fe2bd72ea1d2c612d91e8c0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, many new cortical areas have been identified in the macaque monkey. The number of identified connections between areas has increased even more dramatically. We report here on (1) a summary of the layout of cortical areas associated with vision and with other modalities, (2) a computerized database for storing and representing large amounts of information on connectivity patterns, and (3) the application of these data to the analysis of hierarchical organization of the cerebral cortex. Our analysis concentrates on the visual system, which includes 25 neocortical areas that are predominantly or exclusively visual in function, plus an additional 7 areas that we regard as visual-association areas on the basis of their extensive visual inputs. A total of 305 connections among these 32 visual and visual-association areas have been reported. This represents 31\% of the possible number of pathways if each area were connected with all others. The actual degree of connectivity is likely to be closer to 40\%. The great majority of pathways involve reciprocal connections between areas. There are also extensive connections with cortical areas outside the visual system proper, including the somatosensory cortex, as well as neocortical, transitional, and archicortical regions in the temporal and frontal lobes. In the somatosensory/motor system, there are 62 identified pathways linking 13 cortical areas, suggesting an overall connectivity of about 40\%. Based on the laminar patterns of connections between areas, we propose a hierarchy of visual areas and of somatosensory/motor areas that is more comprehensive than those suggested in other recent studies. The current version of the visual hierarchy includes 10 levels of cortical processing. Altogether, it contains 14 levels if one includes the retina and lateral geniculate nucleus at the bottom as well as the entorhinal cortex and hippocampus at the top. Within this hierarchy, there are multiple, intertwined processing streams, which, at a low level, are related to the compartmental organization of areas V1 and V2 and, at a high level, are related to the distinction between processing centers in the temporal and parietal lobes. However, there are some pathways and relationships (about 10\% of the total) whose descriptions do not fit cleanly into this hierarchical scheme for one reason or another. In most instances, though, it is unclear whether these represent genuine exceptions to a strict hierarchy rather than inaccuracies or uncertainities in the reported assignment.}
+      \field{issn}{1047-3211}
+      \field{journaltitle}{Cerebral Cortex (New York, N.Y.: 1991)}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Distributed Hierarchical Processing in the Primate Cerebral Cortex}
+      \field{volume}{1}
+      \field{year}{1991}
+      \field{pages}{1\bibrangedash 47}
+      \range{pages}{47}
+      \verb{doi}
+      \verb 10.1093/cercor/1.1.1-a
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\GT7G7G35\Felleman and Van Essen - 1991 - Distributed hierarchical processing in the primate.pdf
+      \endverb
+      \keyw{Animals,Brain Mapping,Cerebral Cortex,Macaca,Mental Processes}
+    \endentry
+    \entry{gamanutAnatomicalFunctionalConnectomes2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=07733ba9024baa8304f55210135018b1}{%
+           family={Gămănuţ},
+           familyi={G\bibinitperiod},
+           given={Răzvan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=827926170070396f44e9bce1af756185}{%
+           family={Shimaoka},
+           familyi={S\bibinitperiod},
+           given={Daisuke},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2127e695580952099970f8f27113dce7}
+      \strng{fullhash}{2127e695580952099970f8f27113dce7}
+      \strng{bibnamehash}{2127e695580952099970f8f27113dce7}
+      \strng{authorbibnamehash}{2127e695580952099970f8f27113dce7}
+      \strng{authornamehash}{2127e695580952099970f8f27113dce7}
+      \strng{authorfullhash}{2127e695580952099970f8f27113dce7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last 10 years, there has been a surge in interest in the rodent visual system resulting from the discovery of visual processing functions shared with primates V1, and of a complex anatomical structure in the extrastriate visual cortex. This surprisingly intricate visual system was elucidated by recent investigations using rapidly growing genetic tools primarily available in the mouse. Here, we examine the structural and functional connections of visual areas that have been identified in mice mostly during the past decade, and the impact of these findings on our understanding of brain functions associated with vision. Special attention is paid to structure--function relationships arising from the hierarchical organization, which is a prominent feature of the primate visual system. Recent evidence supports the existence of a hierarchical organization in rodents that contains levels that are poorly resolved relative to those observed in primates. This shallowness of the hierarchy indicates that the mouse visual system incorporates abundant non-hierarchical processing. Thus, the mouse visual system provides a unique opportunity to study non-hierarchical processing and its relation to hierarchical processing.}
+      \field{issn}{1863-2653, 1863-2661}
+      \field{journaltitle}{Brain Structure and Function}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{Anatomical and Functional Connectomes Underlying Hierarchical Visual Processing in Mouse Visual System}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{227}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \field{pages}{1297\bibrangedash 1315}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s00429-021-02415-4
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
+      \endverb
     \endentry
     \entry{hubelRECEPTIVEFIELDSFUNCTIONAL1965}{article}{}
       \name{author}{2}{}{%
@@ -594,6 +693,288 @@
       \verb C:\Users\woute\Zotero\storage\WL3KTWVH\Kirchberger et al. - 2020 - The essential role of feedback processing for figu.pdf
       \endverb
     \endentry
+    \entry{leeDynamicsSubjectiveContour2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b657b43b69a52a074c2a933a54d7dbc}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Tai\bibnamedelima Sing},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd7f41db1e1394723e23f6424e311313}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={My},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9cf86873f54e74b277544f84fd1e7e36}
+      \strng{fullhash}{9cf86873f54e74b277544f84fd1e7e36}
+      \strng{bibnamehash}{9cf86873f54e74b277544f84fd1e7e36}
+      \strng{authorbibnamehash}{9cf86873f54e74b277544f84fd1e7e36}
+      \strng{authornamehash}{9cf86873f54e74b277544f84fd1e7e36}
+      \strng{authorfullhash}{9cf86873f54e74b277544f84fd1e7e36}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To elucidate the roles of visual areas V1 and V2 and their interaction in early perceptual processing, we studied the responses of V1 and V2 neurons to statically displayed Kanizsa figures. We found evidence that V1 neurons respond to illusory contours of the Kanizsa figures. The illusory contour signals in V1 are weaker than in V2, but are significant, particularly in the superficial layers. The population averaged response to illusory contours emerged 100 msec after stimulus onset in the superficial layers of V1, and around 120--190 msec in the deep layers. The illusory contour response in V2 began earlier, occurring at 70 msec in the superficial layers and at 95 msec in the deep layers. The temporal sequence of the events suggests that the computation of illusory contours involves intercortical interaction, and that early perceptual organization is likely to be an interactive process.}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{Dynamics of Subjective Contour Formation in the Early Visual Cortex}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{98}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \field{pages}{1907\bibrangedash 1911}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1073/pnas.98.4.1907
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\TTRZIDGW\Lee and Nguyen - 2001 - Dynamics of subjective contour formation in the ea.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{luongoMicePrimatesUse2023}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=8fcf530764bae0d24ca9167637dea01b}{%
+           family={Luongo},
+           familyi={L\bibinitperiod},
+           given={Francisco\bibnamedelima J},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b70d85f003fa30a5cae684a692c6e97}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9729fbf3e75e87a8099d3999771dffc2}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Chun\bibnamedelimb Lum\bibnamedelima Andy},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35495f2ec4132b798cd57bc80b0de0da}{%
+           family={Hesse},
+           familyi={H\bibinitperiod},
+           given={Janis\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf7e77d9e3ebaede96e0b1a70b6b458}{%
+           family={Wekselblatt},
+           familyi={W\bibinitperiod},
+           given={Joseph\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af33db9eb645157f2e829c5d552172c3}{%
+           family={Lanfranchi},
+           familyi={L\bibinitperiod},
+           given={Frank\bibnamedelima F},
+           giveni={F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73bc21ba4f8e096ab6eff8d0e9cd0f77}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd456c0a5fdb56a56ad759a82038c1f2}{%
+           family={Tsao},
+           familyi={T\bibinitperiod},
+           given={Doris\bibnamedelima Y},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=f3407937e04db709427637cfd17608c8}{%
+           family={Vinck},
+           familyi={V\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=526195020d8c5a2b6af989f52fe4c4ec}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Joshua\bibnamedelima I},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=1bfd674bb5a3db5bdd9ec13616b7820c}{%
+           family={Self},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications, Ltd}%
+      }
+      \strng{namehash}{7541646a87f37ca9e67f97d6a53cbdf1}
+      \strng{fullhash}{276703cb297159a6aba61a803f9ffd6c}
+      \strng{bibnamehash}{276703cb297159a6aba61a803f9ffd6c}
+      \strng{authorbibnamehash}{276703cb297159a6aba61a803f9ffd6c}
+      \strng{authornamehash}{7541646a87f37ca9e67f97d6a53cbdf1}
+      \strng{authorfullhash}{276703cb297159a6aba61a803f9ffd6c}
+      \strng{editorbibnamehash}{b2459125d46804db5ded4aec633a9f8b}
+      \strng{editornamehash}{6a194f3f33cbde8e977d9c4a59aff197}
+      \strng{editorfullhash}{b2459125d46804db5ded4aec633a9f8b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The rodent visual system has attracted great interest in recent years due to its experimental tractability, but the fundamental mechanisms used by the mouse to represent the visual world remain unclear. In the primate, researchers have argued from both behavioral and neural evidence that a key step in visual representation is `figure-ground segmentation', the delineation of figures as distinct from backgrounds. To determine if mice also show behavioral and neural signatures of figure-ground segmentation, we trained mice on a figure-ground segmentation task where figures were defined by gratings and naturalistic textures moving counterphase to the background. Unlike primates, mice were severely limited in their ability to segment figure from ground using the opponent motion cue, with segmentation behavior strongly dependent on the specific carrier pattern. Remarkably, when mice were forced to localize naturalistic patterns defined by opponent motion, they adopted a strategy of brute force memorization of texture patterns. In contrast, primates, including humans, macaques, and mouse lemurs, could readily segment figures independent of carrier pattern using the opponent motion cue. Consistent with mouse behavior, neural responses to the same stimuli recorded in mouse visual areas V1, RL, and LM also did not support texture-invariant segmentation of figures using opponent motion. Modeling revealed that the texture dependence of both the mouse's behavior and neural responses could be explained by a feedforward neural network lacking explicit segmentation capabilities. These findings reveal a fundamental limitation in the ability of mice to segment visual objects compared to primates.}
+      \field{issn}{2050-084X}
+      \field{journaltitle}{eLife}
+      \field{month}{2}
+      \field{title}{Mice and Primates Use Distinct Strategies for Visual Segmentation}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{e74394}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7554/eLife.74394
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\SABEJERZ\Luongo et al. - 2023 - Mice and primates use distinct strategies for visu.pdf
+      \endverb
+      \keyw{macaque,mouse lemur,mouse vision,notion,object localization,segmentation,treeshrew}
+    \endentry
+    \entry{markovAnatomyHierarchyFeedforward2014}{article}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=3633f90981b6a740dfd1244586225e2e}{%
+           family={Markov},
+           familyi={M\bibinitperiod},
+           given={Nikola\bibnamedelima T.},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=450a154f14fa03c88a399eaa706115c4}{%
+           family={Vezoli},
+           familyi={V\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6b892affb5b68421a3ddd0f73dae63f}{%
+           family={Chameau},
+           familyi={C\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca6491aad2945f611bac692ba4630492}{%
+           family={Falchier},
+           familyi={F\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=196def4b5b2429d1f5ab81a3e21a667b}{%
+           family={Quilodran},
+           familyi={Q\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4eaf22e45e6e56005fb5ef49d35b58c2}{%
+           family={Huissoud},
+           familyi={H\bibinitperiod},
+           given={Cyril},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a50878d05bf58bdf43cd9407a5b10bf}{%
+           family={Lamy},
+           familyi={L\bibinitperiod},
+           given={Camille},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b79c80080b57a99804877209a336446}{%
+           family={Misery},
+           familyi={M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7559c2d7d461848fd20e1e4b07dcfc7c}{%
+           family={Giroud},
+           familyi={G\bibinitperiod},
+           given={Pascale},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8133859ad8a921160e7ec3015a5aa96}{%
+           family={Ullman},
+           familyi={U\bibinitperiod},
+           given={Shimon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbeb377ec07a26c1c2737dec447ddf92}{%
+           family={Barone},
+           familyi={B\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36472f3429c29aafeee167b4081e9204}{%
+           family={Dehay},
+           familyi={D\bibinitperiod},
+           given={Colette},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d7cdf5d806da5525a53308593066df3}{%
+           family={Knoblauch},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd10516375ab6ff0f9854c52ffc3b37b}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{908f16e9b3898653fab4a606d25cc683}
+      \strng{fullhash}{8863fa90b1d08268b4cdb9dc9377247c}
+      \strng{bibnamehash}{8863fa90b1d08268b4cdb9dc9377247c}
+      \strng{authorbibnamehash}{8863fa90b1d08268b4cdb9dc9377247c}
+      \strng{authornamehash}{908f16e9b3898653fab4a606d25cc683}
+      \strng{authorfullhash}{8863fa90b1d08268b4cdb9dc9377247c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The laminar location of the cell bodies and terminals of interareal connections determines the hierarchical structural organization of the cortex and has been intensively studied. However, we still have only a rudimentary understanding of the connectional principles of feedforward (FF) and feedback (FB) pathways. Quantitative analysis of retrograde tracers was used to extend the notion that the laminar distribution of neurons interconnecting visual areas provides an index of hierarchical distance (percentage of supragranular labeled neurons [SLN]). We show that: 1) SLN values constrain models of cortical hierarchy, revealing previously unsuspected areal relations; 2) SLN reflects the operation of a combinatorial distance rule acting differentially on sets of connections between areas; 3) Supragranular layers contain highly segregated bottom-up and top-down streams, both of which exhibit point-to-point connectivity. This contrasts with the infragranular layers, which contain diffuse bottom-up and top-down streams; 4) Cell filling of the parent neurons of FF and FB pathways provides further evidence of compartmentalization; 5) FF pathways have higher weights, cross fewer hierarchical levels, and are less numerous than FB pathways. Taken together, the present results suggest that cortical hierarchies are built from supra- and infragranular counterstreams. This compartmentalized dual counterstream organization allows point-to-point connectivity in both bottom-up and top-down directions. J. Comp. Neurol. 522:225--259, 2014. {©} 2013 Wiley Periodicals, Inc.}
+      \field{issn}{1096-9861}
+      \field{journaltitle}{Journal of Comparative Neurology}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Anatomy of Hierarchy}
+      \field{title}{Anatomy of Hierarchy: {{Feedforward}} and Feedback Pathways in Macaque Visual Cortex}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{522}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{225\bibrangedash 259}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1002/cne.23458
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\woute\\Zotero\\storage\\LHDJ3CNF\\Markov et al. - 2014 - Anatomy of hierarchy Feedforward and feedback pat.pdf;C\:\\Users\\woute\\Zotero\\storage\\NCMB5AB9\\cne.html
+      \endverb
+      \keyw{cell morphology,monkey,neocortex,retrograde tracing}
+    \endentry
     \entry{moskovitzComparisonDeepLearning2018}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6af5d48c773d697a4bfcc339c67c5154}{%
@@ -651,6 +1032,53 @@
       \verb{file}
       \verb C:\Users\woute\Zotero\storage\85FFZIF4\Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
       \endverb
+    \endentry
+    \entry{niellHighlySelectiveReceptive2008}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3cfda89f09df13a0838b1c562f5b2d37}{%
+           family={Niell},
+           familyi={N\bibinitperiod},
+           given={Cristopher\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8b71e6305a019623088404ca30d39f7}{%
+           family={Stryker},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{884ad5811d1193135109ba89e61e9345}
+      \strng{fullhash}{884ad5811d1193135109ba89e61e9345}
+      \strng{bibnamehash}{884ad5811d1193135109ba89e61e9345}
+      \strng{authorbibnamehash}{884ad5811d1193135109ba89e61e9345}
+      \strng{authornamehash}{884ad5811d1193135109ba89e61e9345}
+      \strng{authorfullhash}{884ad5811d1193135109ba89e61e9345}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Genetic methods available in mice are likely to be powerful tools in dissecting cortical circuits. However, the visual cortex, in which sensory coding has been most thoroughly studied in other species, has essentially been neglected in mice perhaps because of their poor spatial acuity and the lack of columnar organization such as orientation maps. We have now applied quantitative methods to characterize visual receptive fields in mouse primary visual cortex V1 by making extracellular recordings with silicon electrode arrays in anesthetized mice. We used current source density analysis to determine laminar location and spike waveforms to discriminate putative excitatory and inhibitory units. We find that, although the spatial scale of mouse receptive fields is up to one or two orders of magnitude larger, neurons show selectivity for stimulus parameters such as orientation and spatial frequency that is near to that found in other species. Furthermore, typical response properties such as linear versus nonlinear spatial summation (i.e., simple and complex cells) and contrast-invariant tuning are also present in mouse V1 and correlate with laminar position and cell type. Interestingly, we find that putative inhibitory neurons generally have less selective, and nonlinear, responses. This quantitative description of receptive field properties should facilitate the use of mouse visual cortex as a system to address longstanding questions of visual neuroscience and cortical processing.}
+      \field{issn}{1529-2401}
+      \field{journaltitle}{The Journal of Neuroscience: The Official Journal of the Society for Neuroscience}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{30}
+      \field{title}{Highly Selective Receptive Fields in Mouse Visual Cortex}
+      \field{volume}{28}
+      \field{year}{2008}
+      \field{pages}{7520\bibrangedash 7536}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.0623-08.2008
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\2IJ7L577\Niell and Stryker - 2008 - Highly selective receptive fields in mouse visual .pdf
+      \endverb
+      \keyw{Action Potentials,Animals,Linear Models,Mice,Mice Inbred C57BL,Neural Inhibition,Neurons,Nonlinear Dynamics,Orientation,Photic Stimulation,Psychophysics,Spectrum Analysis,Visual Cortex,Visual Fields}
     \endentry
     \entry{pakTopDownFeedbackControls2020}{article}{}
       \name{author}{4}{}{%
@@ -714,6 +1142,58 @@
       \verb C:\Users\woute\Zotero\storage\ZH5NVPC3\Pak et al. - 2020 - Top-Down Feedback Controls the Cortical Representa.pdf
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{palmerLateInfluencesPerceptual2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c70406ccac8917ea614a8667f17079d9}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={Stephen\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f84b0aa9a5bb5d02272b64067ac7a2b7}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af3e5481b47abb7cd36b11ef088980a7}
+      \strng{fullhash}{af3e5481b47abb7cd36b11ef088980a7}
+      \strng{bibnamehash}{af3e5481b47abb7cd36b11ef088980a7}
+      \strng{authorbibnamehash}{af3e5481b47abb7cd36b11ef088980a7}
+      \strng{authornamehash}{af3e5481b47abb7cd36b11ef088980a7}
+      \strng{authorfullhash}{af3e5481b47abb7cd36b11ef088980a7}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Two experiments demonstrate that grouping can be strongly influenced by the presence of figures defined by illusory contours. Rectangular arrays were constructed in which a central column of figures could group either with those on one side, on the basis of perception of figures defined by illusory contours, or with those on the other side, on the basis of physically present inducing elements. In all displays, subjects grouped according to the illusory figures significantly more often than for control displays that contained the same inducing elements, but rearranged so that illusory contours were degraded or eliminated. A second experiment showed that in objectively defined grouping tasks, subjects grouped faster by illusory figures than by inducing elements. These results indicate that grouping can occur after illusory contours have been perceived.}
+      \field{issn}{1532-5962}
+      \field{journaltitle}{Perception \& Psychophysics}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7}
+      \field{shorttitle}{Late Influences on Perceptual Grouping}
+      \field{title}{Late Influences on Perceptual Grouping: {{Illusory}} Figures}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{62}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{1321\bibrangedash 1331}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3758/BF03212134
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\HXTMJDME\Palmer and Nelson - 2000 - Late influences on perceptual grouping Illusory f.pdf
+      \endverb
+      \keyw{Central Column,Illusory Contour,Induce Element,Perceptual Grouping,Rectangular Array}
     \endentry
     \entry{panEquivalentRepresentationReal2012}{article}{}
       \name{author}{9}{}{%
@@ -811,6 +1291,49 @@
       \verb C:\Users\woute\Zotero\storage\4R2S87AK\Pan et al. - 2012 - Equivalent Representation of Real and Illusory Con.pdf
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{rocklandWhatWeKnow2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8616635a69f20ee6e6de1ac670ef061}{%
+           family={Rockland},
+           familyi={R\bibinitperiod},
+           given={Kathleen\bibnamedelima S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8616635a69f20ee6e6de1ac670ef061}
+      \strng{fullhash}{d8616635a69f20ee6e6de1ac670ef061}
+      \strng{bibnamehash}{d8616635a69f20ee6e6de1ac670ef061}
+      \strng{authorbibnamehash}{d8616635a69f20ee6e6de1ac670ef061}
+      \strng{authornamehash}{d8616635a69f20ee6e6de1ac670ef061}
+      \strng{authorfullhash}{d8616635a69f20ee6e6de1ac670ef061}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this brief review, I attempt an overview of the main components of anatomical laminar-level connectivity. These are: extrinsic outputs, excitatory and inhibitory intrinsic connectivity, and intrinsic inputs. Supporting data are biased from the visual system of nonhuman primates (NHPs), but I have drawn as much as possible from a broader span in order to treat the important issue of area-specific variability. In a second part, I briefly discuss laminar connectivity in the context of network organization (feedforward/feedback cortical connections, and the major types of corticothalamic connections). I also point out anatomical issues in need of clarification, including more systematic, whole brain coverage of tracer injections; more data on anterogradely labeled terminations; more complete, area-specific quantitative data about projection neurons, and quantitative data on terminal density and convergence. Postsynaptic targets are largely unknown, but their identification is essential for understanding the finer analysis and principles of laminar patterns. Laminar resolution MRI offers a promising new tool for exploring laminar connectivity: it is potentially fast and macro-scale, and allows for repeated investigation under different stimulus conditions. Conversely, anatomical resolution, although detailed beyond the current level of MRI visualization, offers a rich trove for experimental design and interpretation of fMRI activation patterns.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{8}
+      \field{title}{What Do We Know about Laminar Connectivity?}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{197}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{772\bibrangedash 784}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2017.07.032
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\952P73QB\S1053811917306018.html
+      \endverb
+      \keyw{Anterograde,Distributed,Feedback,Feedforward,Inputs,Interneurons,Projections}
     \endentry
     \entry{roelfsemaCORTICALALGORITHMSPERCEPTUAL2006}{article}{}
       \name{author}{1}{}{%
@@ -1277,6 +1800,53 @@
       \verb C:\Users\woute\Zotero\storage\CBADI3DE\Von Der Heydt and Peterhans - 1989 - Mechanisms of contour perception in monkey visual .pdf
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{wangAreaMapMouse2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b9944a769397e04db74408c475aa3c6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Quanxin},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9dc0ee3f5c6fe3cefb22a5399d9a4296}{%
+           family={Burkhalter},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01a2f220a802a9c7e3234e32dabe6088}
+      \strng{fullhash}{01a2f220a802a9c7e3234e32dabe6088}
+      \strng{bibnamehash}{01a2f220a802a9c7e3234e32dabe6088}
+      \strng{authorbibnamehash}{01a2f220a802a9c7e3234e32dabe6088}
+      \strng{authornamehash}{01a2f220a802a9c7e3234e32dabe6088}
+      \strng{authorfullhash}{01a2f220a802a9c7e3234e32dabe6088}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract It is controversial whether mouse extrastriate cortex has a ``simple'' organization in which lateral primary visual cortex (V1) is adjoined by a single area V2 or has a ``complex'' organization, in which lateral V1 is adjoined by multiple distinct areas, all of which share the vertical meridian with V1. Resolving this issue is important for understanding the evolution and development of cortical arealization. We have used triple pathway tracing combined with receptive field recordings to map azimuth and elevation in the same brain and have referenced these maps against callosal landmarks. We found that V1 projects to 15 cortical fields. At least nine of these contain maps with complete and orderly representations of the entire visual hemifield and therefore represent distinct areas. One of these, PM, adjoins V1 at the medial border. Five areas, P, LM, AL, RL, and A, adjoin V1 on the lateral border, but only LM shares the vertical meridian representation with V1. This suggests that LM is homologous to V2 and that the lateral extrastriate areas do not represent modules within a single area V2. Thus, mouse visual cortex is ``simple'' in the sense that lateral V1 is adjoined by a single V2-like area, LM, and ``complex'' in having a string of areas in lateral extrastriate cortex, which receive direct V1 input. The results suggest that large numbers of areas with topologically equivalent maps of the visual field emerge early in evolution and that homologous areas are inherited in different mammalian lineages. J. Comp. Neurol. 502:339--357, 2007. {©} 2007 Wiley-Liss, Inc.}
+      \field{issn}{0021-9967, 1096-9861}
+      \field{journaltitle}{Journal of Comparative Neurology}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Area Map of Mouse Visual Cortex}
+      \field{urlday}{24}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{502}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{339\bibrangedash 357}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/cne.21286
+      \endverb
     \endentry
     \entry{wyatteEarlyRecurrentFeedback2014}{article}{}
       \name{author}{3}{}{%
