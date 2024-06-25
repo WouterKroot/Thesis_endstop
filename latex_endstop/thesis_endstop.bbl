@@ -432,6 +432,55 @@
       \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
       \endverb
     \endentry
+    \entry{hubelReceptiveFieldsBinocular1962}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dd78b0965a1fbcb42a037804e3d7772e}{%
+           family={Hubel},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56b1a28b981938e77754702e3a0a19a1}{%
+           family={Wiesel},
+           familyi={W\bibinitperiod},
+           given={T.\bibnamedelimi N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \strng{fullhash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \strng{bibnamehash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \strng{authorbibnamehash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \strng{authornamehash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \strng{authorfullhash}{c22fdea310ab2c8e0f75a9a65abaa6ff}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3751, 1469-7793}
+      \field{journaltitle}{The Journal of Physiology}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Receptive Fields, Binocular Interaction and Functional Architecture in the Cat's Visual Cortex}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{160}
+      \field{year}{1962}
+      \field{urldateera}{ce}
+      \field{pages}{106\bibrangedash 154}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1113/jphysiol.1962.sp006837
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\RDESTAGT\Hubel and Wiesel - 1962 - Receptive fields, binocular interaction and functi.pdf
+      \endverb
+    \endentry
     \entry{hubelRECEPTIVEFIELDSFUNCTIONAL1965}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=bd60e0ff340eedf45ac4f5f2ae90159b}{%
@@ -453,11 +502,11 @@
       \strng{authorbibnamehash}{a2b6710b3764273599eb886e1d51d495}
       \strng{authornamehash}{a2b6710b3764273599eb886e1d51d495}
       \strng{authorfullhash}{a2b6710b3764273599eb886e1d51d495}
+      \field{extraname}{2}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0022-3077, 1522-1598}
@@ -701,12 +750,12 @@
            given={Tai\bibnamedelima Sing},
            giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cd7f41db1e1394723e23f6424e311313}{%
+        {{un=1,uniquepart=given,hash=cd7f41db1e1394723e23f6424e311313}{%
            family={Nguyen},
            familyi={N\bibinitperiod},
            given={My},
            giveni={M\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
       }
       \strng{namehash}{9cf86873f54e74b277544f84fd1e7e36}
       \strng{fullhash}{9cf86873f54e74b277544f84fd1e7e36}
@@ -1033,6 +1082,60 @@
       \verb C:\Users\woute\Zotero\storage\85FFZIF4\Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
       \endverb
     \endentry
+    \entry{nguyenModelOriginDevelopment2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=a80beef1a4c2b58f82363a24e62a4863}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Gratia},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=18bd70bd6f7034772ed49438753f1212}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={Alan\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \strng{fullhash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \strng{bibnamehash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \strng{authorbibnamehash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \strng{authornamehash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \strng{authorfullhash}{1f7198ff3a9957b03a8434924bbecf9c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Orientation selectivity is a key property of primary visual cortex that contributes, downstream, to object recognition. The origin of orientation selectivity, however, has been debated for decades. It is known that on- and off-centre subcortical pathways converge onto single neurons in primary visual cortex, and that the spatial offset between these pathways gives rise to orientation selectivity. On- and off-centre pathways are intermingled, however, so it is unclear how their inputs to cortex come to be spatially segregated. We here describe a model in which the segregation occurs through Hebbian strengthening and weakening of geniculocortical synapses during the development of the visual system. Our findings include the following. 1. Neighbouring on- and off-inputs to cortex largely cancelled each other at the start of development. At each receptive field location, the Hebbian process increased the strength of one input sign at the expense of the other sign, producing a spatial segregation of on- and off-inputs. 2. The resulting orientation selectivity was precise in that the bandwidths of the orientation tuning functions fell within empirical estimates. 3. The model produced maps of preferred orientation--complete with iso-orientation domains and pinwheels--similar to those found in real cortex. 4. These maps did not originate in cortical processes, but from clustering of off-centre subcortical pathways and the relative location of neighbouring on-centre clusters. We conclude that a model with intermingled on- and off-pathways shaped by Hebbian synaptic plasticity can explain both the origin and development of orientation selectivity.}
+      \field{issn}{1553-7358}
+      \field{journaltitle}{PLOS Computational Biology}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{A Model for the Origin and Development of Visual Orientation Selectivity}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{e1007254}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1007254
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\4MPKDLRM\Nguyen and Freeman - 2019 - A model for the origin and development of visual o.pdf
+      \endverb
+      \keyw{Action potentials,Ganglion cells,Membrane potential,Neuronal tuning,Neurons,Retinal ganglion cells,Synapses,Vision}
+    \endentry
     \entry{niellHighlySelectiveReceptive2008}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=3cfda89f09df13a0838b1c562f5b2d37}{%
@@ -1292,6 +1395,50 @@
       \endverb
       \keyw{notion}
     \endentry
+    \entry{priebeMechanismsOrientationSelectivity2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9036d11cd32f9ae88d35ce466fb2fa6a}{%
+           family={Priebe},
+           familyi={P\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \strng{fullhash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \strng{bibnamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \strng{authorbibnamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \strng{authornamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \strng{authorfullhash}{9036d11cd32f9ae88d35ce466fb2fa6a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The mechanisms underlying the emergence of orientation selectivity in the visual cortex have been, and continue to be, the subjects of intense scrutiny. Orientation selectivity reflects a dramatic change in the representation of the visual world: Whereas afferent thalamic neurons are generally orientation insensitive, neurons in the primary visual cortex (V1) are extremely sensitive to stimulus orientation. This profound change in the receptive field structure along the visual pathway has positioned V1 as a model system for studying the circuitry that underlies neural computations across the neocortex. The neocortex is characterized anatomically by the relative uniformity of its circuitry despite its role in processing distinct signals from region to region. A combination of physiological, anatomical, and theoretical studies has shed some light on the circuitry components necessary for generating orientation selectivity in V1. This targeted effort has led to critical insights, as well as controversies, concerning how neural circuits in the neocortex perform computations.}
+      \field{issn}{2374-4642, 2374-4650}
+      \field{journaltitle}{Annual Review of Vision Science}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{Mechanisms of {{Orientation Selectivity}} in the {{Primary Visual Cortex}}}
+      \field{urlday}{25}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{85\bibrangedash 107}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1146/annurev-vision-111815-114456
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\47TJAXY4\Priebe - 2016 - Mechanisms of Orientation Selectivity in the Prima.pdf
+      \endverb
+    \endentry
     \entry{rocklandWhatWeKnow2019}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d8616635a69f20ee6e6de1ac670ef061}{%
@@ -1432,6 +1579,65 @@
       \verb C:\Users\woute\Zotero\storage\G6Y4EAJ6\Sceniak et al. - 2001 - Visual Spatial Characterization of Macaque V1 Neur.pdf
       \endverb
       \keyw{notion}
+    \endentry
+    \entry{schollEmergenceOrientationSelectivity2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b2d2a0fa44292996263f92fbf3f3ab27}{%
+           family={Scholl},
+           familyi={S\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d08b299675b423491148b81ca3874fff}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Andrew\bibnamedelimb Y.\bibnamedelimi Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ece4a7c38194890b355e99f8b0fd27ab}{%
+           family={Corey},
+           familyi={C\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9036d11cd32f9ae88d35ce466fb2fa6a}{%
+           family={Priebe},
+           familyi={P\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{89ecbf55fcba8fd6b31f0a5df4f49be3}
+      \strng{fullhash}{925877e02cd03e81f0ca1f1d5495d56c}
+      \strng{bibnamehash}{925877e02cd03e81f0ca1f1d5495d56c}
+      \strng{authorbibnamehash}{925877e02cd03e81f0ca1f1d5495d56c}
+      \strng{authornamehash}{89ecbf55fcba8fd6b31f0a5df4f49be3}
+      \strng{authorfullhash}{925877e02cd03e81f0ca1f1d5495d56c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Orientation selectivity is a property of mammalian primary visual cortex (V1) neurons, yet its emergence along the visual pathway varies across species. In carnivores and primates, elongated receptive fields first appear in V1, whereas in lagomorphs such receptive fields emerge earlier, in the retina. Here we examine the mouse visual pathway and reveal the existence of orientation selectivity in lateral geniculate nucleus (LGN) relay cells. Cortical inactivation does not reduce this orientation selectivity, indicating that cortical feedback is not its source. Orientation selectivity is similar for LGN relay cells spiking and subthreshold input to V1 neurons, suggesting that cortical orientation selectivity is inherited from the LGN in mouse. In contrast, orientation selectivity of cat LGN relay cells is small relative to subthreshold inputs onto V1 simple cells. Together, these differences show that although orientation selectivity exists in visual neurons of both rodents and carnivores, its emergence along the visual pathway, and thus its underlying neuronal circuitry, is fundamentally different.}
+      \field{issn}{1529-2401}
+      \field{journaltitle}{The Journal of Neuroscience: The Official Journal of the Society for Neuroscience}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{26}
+      \field{title}{Emergence of Orientation Selectivity in the {{Mammalian}} Visual Pathway}
+      \field{volume}{33}
+      \field{year}{2013}
+      \field{pages}{10616\bibrangedash 10624}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.0404-13.2013
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\LBFDC5A2\Scholl et al. - 2013 - Emergence of orientation selectivity in the Mammal.pdf
+      \endverb
+      \keyw{Algorithms,Animals,Cats,Electrophysiological Phenomena,Extracellular Space,Female,Geniculate Bodies,Mice,Mice Inbred C57BL,Neurons,Orientation,Patch-Clamp Techniques,Photic Stimulation,Species Specificity,Visual Cortex,Visual Pathways}
     \endentry
     \entry{shinRecurrentPatternCompletion2023}{misc}{}
       \name{author}{26}{}{%
