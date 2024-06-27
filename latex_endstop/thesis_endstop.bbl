@@ -336,6 +336,53 @@
       \endverb
       \keyw{anesthesia,LGN,LP,mouse,visual cortex}
     \endentry
+    \entry{fanChallengingDeepLearning2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ad1e747b78ed2bfb9c6de73d8c3e40e}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Jinyu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60c00f70f37621de7cc58e36574885af}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2c074c370674d24a45c4b9ee0764f55d}
+      \strng{fullhash}{2c074c370674d24a45c4b9ee0764f55d}
+      \strng{bibnamehash}{2c074c370674d24a45c4b9ee0764f55d}
+      \strng{authorbibnamehash}{2c074c370674d24a45c4b9ee0764f55d}
+      \strng{authornamehash}{2c074c370674d24a45c4b9ee0764f55d}
+      \strng{authorfullhash}{2c074c370674d24a45c4b9ee0764f55d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Even state-of-the-art deep learning models lack fundamental abilities compared with humans. While many image distortions have been proposed to compare deep learning with humans, they depend on mathematical transformations instead of human cognitive functions. Here, we propose an image distortion based on the abutting grating illusion, which is a phenomenon discovered in humans and animals. The distortion generates illusory contour perception using line gratings abutting each other. We applied the method to MNIST, high-resolution MNIST, and "16-class-ImageNet" silhouettes. Many models, including models trained from scratch and 109 models pretrained with ImageNet or various data augmentation techniques, were tested. Our results show that abutting grating distortion is challenging even for state-of-the-art deep learning models. We discovered that DeepAugment models outperformed other pretrained models. Visualization of early layers indicates that better-performing models exhibit the endstopping property, which is consistent with neuroscience discoveries. Twenty-four human subjects classified distorted samples to validate the distortion.}
+      \field{issn}{2666-3899}
+      \field{journaltitle}{Patterns (New York, N.Y.)}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Challenging Deep Learning Models with Image Distortion Based on the Abutting Grating Illusion}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{pages}{100695}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.patter.2023.100695
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\QWZH5Y82\Fan and Zeng - 2023 - Challenging deep learning models with image distor.pdf
+      \endverb
+      \keyw{abutting grating illusion,deep learning,DeepAugment,endstopping,illusory contour,image distortion,robustness}
+    \endentry
     \entry{fellemanDistributedHierarchicalProcessing1991}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d1e156fd7db0a4d42fe592b4987db53d}{%
@@ -487,6 +534,98 @@
       \endverb
       \verb{file}
       \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
+      \endverb
+    \endentry
+    \entry{grossbergHowVisualIllusions2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
+           family={Grossberg},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{fullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{bibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authorbibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authornamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authorfullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Neural models of perception clarify how visual illusions arise from adaptive neural processes. Illusions also provide important insights into how adaptive neural processes work. This article focuses on two illusions that illustrate a fundamental property of global brain organization; namely, that advanced brains are organized into parallel cortical processing streams with computationally complementary properties. That is, in order to process certain combinations of properties, each cortical stream cannot process complementary properties. Interactions between these streams, across multiple processing stages, overcome their complementary deficiencies to compute effective representations of the world, and to thereby achieve the property of complementary consistency. The two illusions concern how illusory depth can vary with brightness, and how apparent motion of illusory contours can occur. Illusory depth from brightness arises from the complementary properties of boundary and surface processes, notably boundary completion and surface-filling in, within the parvocellular form processing cortical stream. This illusion depends upon how surface contour signals from the V2 thin stripes to the V2 interstripes ensure complementary consistency of a unified boundary/surface percept. Apparent motion of illusory contours arises from the complementary computations of form and motion processing across the parvocellular and magnocellular cortical processing streams. This illusion depends upon how illusory contours help to complete boundary representations for object recognition, how apparent motion signals can help to form continuous trajectories for target tracking and prediction, and how formotion interactions from V2-to-MT enable completed object representations to be continuously tracked even when they move behind intermittently occluding objects through time.}
+      \field{issn}{1662-5161}
+      \field{journaltitle}{Frontiers in Human Neuroscience}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{How Visual Illusions Illuminate Complementary Brain Processes}
+      \field{title}{How Visual Illusions Illuminate Complementary Brain Processes: Illusory Depth from Brightness and Apparent Motion of Illusory Contours}
+      \field{urlday}{25}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3389/fnhum.2014.00854
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\D3VTZ897\Grossberg - 2014 - How visual illusions illuminate complementary brai.pdf
+      \endverb
+      \keyw{Apparent motion,brightness perception,Depth Perception,filling-in,formotion,formotion perception,Illusory contours,notion,Visual illusion}
+    \endentry
+    \entry{grossbergTextureSegregationSurface1998}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
+           family={Grossberg},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9091f9ac3929a82c651b02a265f166c}{%
+           family={Pessoa},
+           familyi={P\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f096a53da3255f18dbfd550ede926f30}
+      \strng{fullhash}{f096a53da3255f18dbfd550ede926f30}
+      \strng{bibnamehash}{f096a53da3255f18dbfd550ede926f30}
+      \strng{authorbibnamehash}{f096a53da3255f18dbfd550ede926f30}
+      \strng{authornamehash}{f096a53da3255f18dbfd550ede926f30}
+      \strng{authorfullhash}{f096a53da3255f18dbfd550ede926f30}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00426989}
+      \field{journaltitle}{Vision Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{17}
+      \field{title}{Texture Segregation, Surface Representation and Figure--Ground Separation}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{38}
+      \field{year}{1998}
+      \field{urldateera}{ce}
+      \field{pages}{2657\bibrangedash 2684}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1016/S0042-6989(97)00180-6
       \endverb
     \endentry
     \entry{hooserOrientationSelectivityOrientation2005}{article}{}
