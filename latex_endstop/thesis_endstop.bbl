@@ -382,6 +382,63 @@
       \endverb
       \keyw{Animals,Brain Mapping,Cerebral Cortex,Macaca,Mental Processes}
     \endentry
+    \entry{fersterOrientationSelectivityThalamic1996}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0137e2d9dae28876e3dc6e1c1d067b14}{%
+           family={Ferster},
+           familyi={F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88c411ed636fdbf29c962817871602cb}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Sooyoung},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a328b9f87b88fb701f2d602cb9ee86a8}{%
+           family={Wheat},
+           familyi={W\bibinitperiod},
+           given={Heidi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{c23993997149285499a3a47860f777ac}
+      \strng{fullhash}{629f42b27b4967cb5f68ea15487d8151}
+      \strng{bibnamehash}{629f42b27b4967cb5f68ea15487d8151}
+      \strng{authorbibnamehash}{629f42b27b4967cb5f68ea15487d8151}
+      \strng{authornamehash}{c23993997149285499a3a47860f777ac}
+      \strng{authorfullhash}{629f42b27b4967cb5f68ea15487d8151}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{MORE than 30 years after Hubel and Wiesel1 first described orientation selectivity in the mammalian visual cortex, the mechanism that gives rise to this property is still controversial. Hubel and Wiesel1 proposed a simple model for the origin of orientation tuning, in which the circularly symmetrical receptive fields of neurons in the lateral geniculate nucleus that excite a cortical simple cell are arranged in rows. Since this model was proposed, several experiments2--6 and neuronal simulations7,8 have suggested that the connectivity between the lateral geniculate nucleus and the cortex is not well organized in an orientation-specific fashion, and that orientation tuning arises instead from extensive interactions within the cortex. To test these models we have recorded visually evoked synaptic potentials in simple cells while cooling the cortex9, which largely inactivates the cortical network, but leaves geniculate synaptic input functional. We report that the orientation tuning of these potentials is almost unaffected by cooling the cortex, in agreement with Hubel and Wiesel's original proposal1.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{6571}
+      \field{title}{Orientation Selectivity of Thalamic Input to Simple Cells of Cat Visual Cortex}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{380}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \field{pages}{249\bibrangedash 252}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/380249a0
+      \endverb
+      \keyw{Humanities and Social Sciences,multidisciplinary,Science}
+    \endentry
     \entry{gamanutAnatomicalFunctionalConnectomes2022}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=07733ba9024baa8304f55210135018b1}{%
@@ -431,6 +488,79 @@
       \verb{file}
       \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
       \endverb
+    \endentry
+    \entry{hooserOrientationSelectivityOrientation2005}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d40c7bc5d5f56a5d287ebef62a25b024}{%
+           family={Hooser},
+           familyi={H\bibinitperiod},
+           given={Stephen\bibnamedelimb D.\bibnamedelimi Van},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bacebca1df6bd456723e142b5781033}{%
+           family={Heimel},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi Alexander\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88c411ed636fdbf29c962817871602cb}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Sooyoung},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=942e5ced043fdea1961dc615968d3f91}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Sacha\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceaca27375c4383ab201f7ef6baade24}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Louis\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{80b9f6333b87dcf5a2ab84c296066e78}
+      \strng{fullhash}{ad356478177600681e69e6fa98e21fc0}
+      \strng{bibnamehash}{ad356478177600681e69e6fa98e21fc0}
+      \strng{authorbibnamehash}{ad356478177600681e69e6fa98e21fc0}
+      \strng{authornamehash}{80b9f6333b87dcf5a2ab84c296066e78}
+      \strng{authorfullhash}{ad356478177600681e69e6fa98e21fc0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In mammalian neocortex, the orderly arrangement of columns of neurons is thought to be a fundamental organizing principle. In primary visual cortex (V1), neurons respond preferentially to bars of a particular orientation, and, in many mammals, these orientation-selective cells are arranged in a semiregular, smoothly varying map across the cortical surface. Curiously, orientation maps have not been found in rodents or lagomorphs. To explore whether this lack of organization in previously studied rodents could be attributable to low visual acuity, poorly differentiated visual brain areas, or small absolute V1 size, we examined V1 organization of a larger, highly visual rodent, the gray squirrel. Using intrinsic signal optical imaging and single-cell recordings, we found no evidence of an orientation map, suggesting that formation of orientation maps depends on mechanisms not found in rodents. We did find robust orientation tuning of single cells, and this tuning was invariant to stimulus contrast. Therefore, it seems unlikely that orientation maps are important for orientation tuning or its contrast invariance in V1. In vertical electrode penetrations, we found little evidence for columnar organization of orientation-selective neurons and little evidence for local anisotropy of orientation preferences. We conclude that an orderly and columnar arrangement of functional response properties is not a universal characteristic of cortical architecture.}
+      \field{chapter}{Behavioral/Systems/Cognitive}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Orientation {{Selectivity}} without {{Orientation Maps}} in {{Visual Cortex}} of a {{Highly Visual Mammal}}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{25}
+      \field{year}{2005}
+      \field{urldateera}{ce}
+      \field{pages}{19\bibrangedash 28}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.4042-04.2005
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\WU6MX3BS\Hooser et al. - 2005 - Orientation Selectivity without Orientation Maps i.pdf
+      \endverb
+      \keyw{columns,functional map,gray squirrel,orientation,primary visual cortex,rodent,V1}
     \endentry
     \entry{hubelReceptiveFieldsBinocular1962}{article}{}
       \name{author}{2}{}{%
@@ -1024,6 +1154,133 @@
       \endverb
       \keyw{cell morphology,monkey,neocortex,retrograde tracing}
     \endentry
+    \entry{martinezReceptiveFieldStructure2005}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=03ddf5a75507755a99323386ea09e925}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Luis\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9a39d3c86bd7ae24d2b951b9cfe3009}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qingbo},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca179d2c376652eba5c67b33866d8b9c}{%
+           family={Reid},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi Clay},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f93250480553ec9cc8b57f872284af94}{%
+           family={Pillai},
+           familyi={P\bibinitperiod},
+           given={Cinthi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0349f6f0d73858994f37f8c935296057}{%
+           family={Alonso},
+           familyi={A\bibinitperiod},
+           given={José-Mañuel},
+           giveni={J\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d791867c446c667397bae27a6a1f71e}{%
+           family={Sommer},
+           familyi={S\bibinitperiod},
+           given={Friedrich\bibnamedelima T.},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33ac9e14e9d3d6604f1a5c9d0005957a}{%
+           family={Hirsch},
+           familyi={H\bibinitperiod},
+           given={Judith\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{22b382bc0f8000f76b57273691a18b96}
+      \strng{fullhash}{1645a9d0af1f5be5ea67d648b44e3e4b}
+      \strng{bibnamehash}{1645a9d0af1f5be5ea67d648b44e3e4b}
+      \strng{authorbibnamehash}{1645a9d0af1f5be5ea67d648b44e3e4b}
+      \strng{authornamehash}{22b382bc0f8000f76b57273691a18b96}
+      \strng{authorfullhash}{1645a9d0af1f5be5ea67d648b44e3e4b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Here we ask whether visual response pattern varies with position in the cortical microcircuit by comparing the structure of receptive fields recorded from the different layers of the cat's primary visual cortex. We used whole-cell recording in vivo to show the spatial distribution of visually evoked excitatory and inhibitory inputs and to stain individual neurons. We quantified the distribution of 'On' and 'Off' responses and the presence of spatially opponent excitation and inhibition within the receptive field. The thalamorecipient layers (4 and upper 6) were dominated by simple cells, as defined by two criteria: they had separated On and Off subregions, and they had push-pull responses (in a given subregion, stimuli of the opposite contrast evoked responses of the opposite sign). Other types of response profile correlated with laminar location as well. Thus, connections unique to each visual cortical layer are likely to serve distinct functions.}
+      \field{issn}{1097-6256}
+      \field{journaltitle}{Nature Neuroscience}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{Receptive Field Structure Varies with Layer in the Primary Visual Cortex}
+      \field{volume}{8}
+      \field{year}{2005}
+      \field{pages}{372\bibrangedash 379}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/nn1404
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\B6GEB4HR\Martinez et al. - 2005 - Receptive field structure varies with layer in the.pdf
+      \endverb
+      \keyw{Action Potentials,Animals,Brain Mapping,Cats,Electrophysiology,Geniculate Bodies,Models Neurological,Neural Inhibition,Neurons,Photic Stimulation,Reaction Time,Synaptic Transmission,Thalamus,Visual Cortex,Visual Fields,Visual Pathways}
+    \endentry
+    \entry{mechlerClassificationSimpleComplex2002}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7c3158bce22f933ea33b901579ce794}{%
+           family={Mechler},
+           familyi={M\bibinitperiod},
+           given={Ferenc},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc685130a720c723784d9b89ba8f1319}{%
+           family={Ringach},
+           familyi={R\bibinitperiod},
+           given={Dario\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7fd1be51519fa126c11550f691711e1f}
+      \strng{fullhash}{7fd1be51519fa126c11550f691711e1f}
+      \strng{bibnamehash}{7fd1be51519fa126c11550f691711e1f}
+      \strng{authorbibnamehash}{7fd1be51519fa126c11550f691711e1f}
+      \strng{authornamehash}{7fd1be51519fa126c11550f691711e1f}
+      \strng{authorfullhash}{7fd1be51519fa126c11550f691711e1f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In their pioneering studies of primary visual cortex, Hubel and Wiesel described the existence of two classes of cells, which they termed ``simple'' and ``complex''. The original classification scheme was based on a number of partly subjective tests of linear spatial summation. Later, investigators adopted an objective classification method based on the ratio between the amplitude of the first harmonic of the response and the mean spike rate (or the F1/F0 ratio) when the neuron is stimulated with drifting sinusoidal gratings. This measure is bimodally distributed over the population and divides neurons into two classes that correspond closely to the classical definition by Hubel and Wiesel. Here we show that a simple rectification model can predict the observed bimodal distribution of F1/F0 in primary visual cortex when the distributions of the intracellular response modulation and mean are unimodal. Thus, contrary to common belief, the bimodality of F1/F0 does not necessarily imply the existence of two discrete cell classes. Furthermore, in reviewing the literature, we find no independent support for a simple/complex dichotomy. These results suggest that the existence of two distinct neural populations in primary visual cortex, and the associated hierarchical model of receptive field organization, need to be re-evaluated.}
+      \field{issn}{0042-6989}
+      \field{journaltitle}{Vision Research}
+      \field{month}{4}
+      \field{number}{8}
+      \field{title}{On the Classification of Simple and Complex Cells}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{42}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{1017\bibrangedash 1033}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/S0042-6989(02)00025-1
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\woute\\Zotero\\storage\\JC3BDG8C\\Mechler and Ringach - 2002 - On the classification of simple and complex cells.pdf;C\:\\Users\\woute\\Zotero\\storage\\GMBB4R65\\S0042698902000251.html
+      \endverb
+      \keyw{Bimodal distribution,Classification,Clustering,Sigmoid non-linearity,V1 neurons}
+    \endentry
     \entry{moskovitzComparisonDeepLearning2018}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6af5d48c773d697a4bfcc339c67c5154}{%
@@ -1395,50 +1652,6 @@
       \endverb
       \keyw{notion}
     \endentry
-    \entry{priebeMechanismsOrientationSelectivity2016}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9036d11cd32f9ae88d35ce466fb2fa6a}{%
-           family={Priebe},
-           familyi={P\bibinitperiod},
-           given={Nicholas\bibnamedelima J.},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \strng{fullhash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \strng{bibnamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \strng{authorbibnamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \strng{authornamehash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \strng{authorfullhash}{9036d11cd32f9ae88d35ce466fb2fa6a}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The mechanisms underlying the emergence of orientation selectivity in the visual cortex have been, and continue to be, the subjects of intense scrutiny. Orientation selectivity reflects a dramatic change in the representation of the visual world: Whereas afferent thalamic neurons are generally orientation insensitive, neurons in the primary visual cortex (V1) are extremely sensitive to stimulus orientation. This profound change in the receptive field structure along the visual pathway has positioned V1 as a model system for studying the circuitry that underlies neural computations across the neocortex. The neocortex is characterized anatomically by the relative uniformity of its circuitry despite its role in processing distinct signals from region to region. A combination of physiological, anatomical, and theoretical studies has shed some light on the circuitry components necessary for generating orientation selectivity in V1. This targeted effort has led to critical insights, as well as controversies, concerning how neural circuits in the neocortex perform computations.}
-      \field{issn}{2374-4642, 2374-4650}
-      \field{journaltitle}{Annual Review of Vision Science}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{number}{1}
-      \field{title}{Mechanisms of {{Orientation Selectivity}} in the {{Primary Visual Cortex}}}
-      \field{urlday}{25}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{2}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \field{pages}{85\bibrangedash 107}
-      \range{pages}{23}
-      \verb{doi}
-      \verb 10.1146/annurev-vision-111815-114456
-      \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\47TJAXY4\Priebe - 2016 - Mechanisms of Orientation Selectivity in the Prima.pdf
-      \endverb
-    \endentry
     \entry{rocklandWhatWeKnow2019}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d8616635a69f20ee6e6de1ac670ef061}{%
@@ -1579,65 +1792,6 @@
       \verb C:\Users\woute\Zotero\storage\G6Y4EAJ6\Sceniak et al. - 2001 - Visual Spatial Characterization of Macaque V1 Neur.pdf
       \endverb
       \keyw{notion}
-    \endentry
-    \entry{schollEmergenceOrientationSelectivity2013}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b2d2a0fa44292996263f92fbf3f3ab27}{%
-           family={Scholl},
-           familyi={S\bibinitperiod},
-           given={Benjamin},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d08b299675b423491148b81ca3874fff}{%
-           family={Tan},
-           familyi={T\bibinitperiod},
-           given={Andrew\bibnamedelimb Y.\bibnamedelimi Y.},
-           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ece4a7c38194890b355e99f8b0fd27ab}{%
-           family={Corey},
-           familyi={C\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9036d11cd32f9ae88d35ce466fb2fa6a}{%
-           family={Priebe},
-           familyi={P\bibinitperiod},
-           given={Nicholas\bibnamedelima J.},
-           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{89ecbf55fcba8fd6b31f0a5df4f49be3}
-      \strng{fullhash}{925877e02cd03e81f0ca1f1d5495d56c}
-      \strng{bibnamehash}{925877e02cd03e81f0ca1f1d5495d56c}
-      \strng{authorbibnamehash}{925877e02cd03e81f0ca1f1d5495d56c}
-      \strng{authornamehash}{89ecbf55fcba8fd6b31f0a5df4f49be3}
-      \strng{authorfullhash}{925877e02cd03e81f0ca1f1d5495d56c}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Orientation selectivity is a property of mammalian primary visual cortex (V1) neurons, yet its emergence along the visual pathway varies across species. In carnivores and primates, elongated receptive fields first appear in V1, whereas in lagomorphs such receptive fields emerge earlier, in the retina. Here we examine the mouse visual pathway and reveal the existence of orientation selectivity in lateral geniculate nucleus (LGN) relay cells. Cortical inactivation does not reduce this orientation selectivity, indicating that cortical feedback is not its source. Orientation selectivity is similar for LGN relay cells spiking and subthreshold input to V1 neurons, suggesting that cortical orientation selectivity is inherited from the LGN in mouse. In contrast, orientation selectivity of cat LGN relay cells is small relative to subthreshold inputs onto V1 simple cells. Together, these differences show that although orientation selectivity exists in visual neurons of both rodents and carnivores, its emergence along the visual pathway, and thus its underlying neuronal circuitry, is fundamentally different.}
-      \field{issn}{1529-2401}
-      \field{journaltitle}{The Journal of Neuroscience: The Official Journal of the Society for Neuroscience}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{26}
-      \field{title}{Emergence of Orientation Selectivity in the {{Mammalian}} Visual Pathway}
-      \field{volume}{33}
-      \field{year}{2013}
-      \field{pages}{10616\bibrangedash 10624}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1523/JNEUROSCI.0404-13.2013
-      \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\LBFDC5A2\Scholl et al. - 2013 - Emergence of orientation selectivity in the Mammal.pdf
-      \endverb
-      \keyw{Algorithms,Animals,Cats,Electrophysiological Phenomena,Extracellular Space,Female,Geniculate Bodies,Mice,Mice Inbred C57BL,Neurons,Orientation,Patch-Clamp Techniques,Photic Stimulation,Species Specificity,Visual Cortex,Visual Pathways}
     \endentry
     \entry{shinRecurrentPatternCompletion2023}{misc}{}
       \name{author}{26}{}{%
@@ -1904,6 +2058,76 @@
       \endverb
       \verb{file}
       \verb C:\Users\woute\Zotero\storage\GSBEXIAG\Shushruth et al. - 2012 - Strong Recurrent Networks Compute the Orientation .pdf
+      \endverb
+    \endentry
+    \entry{skottunClassifyingSimpleComplex1991}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6781dfe714c6c3ad5f0b9bfe2ae2ccd3}{%
+           family={Skottun},
+           familyi={S\bibinitperiod},
+           given={Bernt\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08bb2fa1bd7e88000021d8e0555e6135}{%
+           family={De\bibnamedelima Valois},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Russell\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab71815b9d6e10a78ee543e068a09eaf}{%
+           family={Grosof},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36c3ba42f6e20be54daf78bf60980ca9}{%
+           family={Movshon},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi Anthony},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d261d26d26341e92066f705472eb99ac}{%
+           family={Albrecht},
+           familyi={A\bibinitperiod},
+           given={Duane\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fe9e6aba282eeb1745b554fdf51134c}{%
+           family={Bonds},
+           familyi={B\bibinitperiod},
+           given={A.B.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e3f1d8a694bd327018d88c01a2266ff}
+      \strng{fullhash}{ffb2c023331a7ececf2e886c758620c2}
+      \strng{bibnamehash}{ffb2c023331a7ececf2e886c758620c2}
+      \strng{authorbibnamehash}{ffb2c023331a7ececf2e886c758620c2}
+      \strng{authornamehash}{7e3f1d8a694bd327018d88c01a2266ff}
+      \strng{authorfullhash}{ffb2c023331a7ececf2e886c758620c2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00426989}
+      \field{journaltitle}{Vision Research}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{7-8}
+      \field{title}{Classifying Simple and Complex Cells on the Basis of Response Modulation}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{31}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \field{pages}{1078\bibrangedash 1086}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/0042-6989(91)90033-2
       \endverb
     \endentry
     \entry{sorianoAbuttingGratingIllusion1996}{article}{}

@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber thesis_endstop"] 1719301589 "thesis_endstop.bcf" "thesis_endstop.bbl" "thesis_endstop" 1719302348
-  "MyLibrary.bib" 1719301376 254636 979eb4265192b0d2530e474b42295c12 ""
-  "thesis_endstop.bcf" 1719302347 128833 6d04c6856d6ffa95d84adb656e07ee16 "pdflatex"
+["biber thesis_endstop"] 1719489793 "thesis_endstop.bcf" "thesis_endstop.bbl" "thesis_endstop" 1719492243
+  "MyLibrary.bib" 1719487874 271549 e00e6299e40dcf0745f3f0cd90339b2c ""
+  "thesis_endstop.bcf" 1719492243 129696 290a6554f8c49b4ebca10be1464078a0 "pdflatex"
   (generated)
   "thesis_endstop.bbl"
   "thesis_endstop.blg"
-["pdflatex"] 1719302342 "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" "thesis_endstop.pdf" "thesis_endstop" 1719302348
+["pdflatex"] 1719492241 "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" "thesis_endstop.pdf" "thesis_endstop" 1719492243
   "/etc/texmf/web2c/texmf.cnf" 1670946837 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" 1719302341 71681 85e7877248a6dacc358208a497a4aad1 ""
+  "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" 1719492236 76547 11db8c855b4b2fdbfa8099c2393dd23a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -145,11 +145,11 @@
   "figures/lgn_response_fig.png" 1718975284 415362 c3bce9f2d0d1e5a6de8958ef3bf9c8ae ""
   "figures/simple_abutting.png" 1718520893 6756 d5329e05c28b206833633c7d68544b41 ""
   "figures/uva_logo.png" 1718520893 3402 e0d78f0f4f912f9650240e0c584837b6 ""
-  "thesis_endstop.aux" 1719302347 20602 5b2c270fb2cc23e8e9ce82ffd159ae9a "pdflatex"
-  "thesis_endstop.bbl" 1719301591 127900 d881fc116ef3e3f2d0f30324c9c716f3 "biber thesis_endstop"
-  "thesis_endstop.out" 1719302347 9408 27e4b8d0f1272b39e4914443bdd30edb "pdflatex"
-  "thesis_endstop.run.xml" 1719302347 2496 4741342cdaedeb5c817c02141221f820 "pdflatex"
-  "thesis_endstop.tex" 1719302341 71681 85e7877248a6dacc358208a497a4aad1 ""
+  "thesis_endstop.aux" 1719492243 21956 f8b6de4c0d16f3d9481b38708064d176 "pdflatex"
+  "thesis_endstop.bbl" 1719489795 139775 9d239060dab75d7dc572e46531cdb714 "biber thesis_endstop"
+  "thesis_endstop.out" 1719492243 9408 27e4b8d0f1272b39e4914443bdd30edb "pdflatex"
+  "thesis_endstop.run.xml" 1719492243 2496 4741342cdaedeb5c817c02141221f820 "pdflatex"
+  "thesis_endstop.tex" 1719492236 76547 11db8c855b4b2fdbfa8099c2393dd23a ""
   (generated)
   "thesis_endstop.aux"
   "thesis_endstop.bcf"
