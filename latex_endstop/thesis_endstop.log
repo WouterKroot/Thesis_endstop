@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  28 JUN 2024 23:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  30 JUN 2024 00:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -843,7 +843,12 @@ File: figures/endstop_line_length.png Graphic file (type png)
 <use figures/endstop_line_length.png>
 Package pdftex.def Info: figures/endstop_line_length.png  used on input line 424.
 (pdftex.def)             Requested size: 390.0pt x 217.63676pt.
- [42 <./figures/endstop_line_length.png (PNG copy)>] [43] [44] [45] [46] [47] [48] [49] [50] (./thesis_endstop.aux)
+<figures/Figure_Population_configs.png, id=408, 595.7457pt x 606.5862pt>
+File: figures/Figure_Population_configs.png Graphic file (type png)
+<use figures/Figure_Population_configs.png>
+Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 432.
+(pdftex.def)             Requested size: 390.0pt x 397.10861pt.
+ [42 <./figures/endstop_line_length.png (PNG copy)>] [43 <./figures/Figure_Population_configs.png (PNG copy)>] [44] [45] [46] [47] [48] [49] [50] [51] (./thesis_endstop.aux)
 Package rerunfilecheck Info: File `thesis_endstop.out' has not changed.
 (rerunfilecheck)             Checksum: D5BE26923F8657D16C52EA21CAE4D4AF;6311.
 Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
@@ -851,18 +856,18 @@ Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20117 strings out of 478287
- 372868 string characters out of 5849288
- 1214503 words of memory out of 5000000
- 37881 multiletter control sequences out of 15000+600000
+ 20127 strings out of 478287
+ 373199 string characters out of 5849288
+ 1214622 words of memory out of 5000000
+ 37888 multiletter control sequences out of 15000+600000
  496596 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,77p,3481b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (51 pages, 3162270 bytes).
+Output written on thesis_endstop.pdf (52 pages, 3722741 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
- 126 named destinations out of 1000 (max. 500000)
- 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 486 compressed objects within 5 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 

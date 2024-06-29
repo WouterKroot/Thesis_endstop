@@ -939,6 +939,11 @@ INPUT ./figures/endstop_line_length.png
 INPUT figures/endstop_line_length.png
 INPUT ./figures/endstop_line_length.png
 INPUT ./figures/endstop_line_length.png
+INPUT ./figures/Figure_Population_configs.png
+INPUT ./figures/Figure_Population_configs.png
+INPUT figures/Figure_Population_configs.png
+INPUT ./figures/Figure_Population_configs.png
+INPUT ./figures/Figure_Population_configs.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT thesis_endstop.aux
 INPUT ./thesis_endstop.out
