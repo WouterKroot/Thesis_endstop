@@ -628,6 +628,62 @@
       \verb 10.1016/S0042-6989(97)00180-6
       \endverb
     \endentry
+    \entry{hanselMechanismOrientationSelectivity2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=86e7f4a587547cf5bf0a5a57d8298484}{%
+           family={Hansel},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f5e522a2353c2d08f88c7b47393215c}{%
+           family={Vreeswijk},
+           familyi={V\bibinitperiod},
+           given={Carl},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \strng{fullhash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \strng{bibnamehash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \strng{authorbibnamehash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \strng{authornamehash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \strng{authorfullhash}{5dd8a14eb6eb4a31a66df2b9e6a6bb17}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Neurons in primary visual cortex (V1) display substantial orientation selectivity even in species where V1 lacks an orientation map, such as in mice and rats. The mechanism underlying orientation selectivity in V1 with such a salt-and-pepper organization is unknown; it is unclear whether a connectivity that depends on feature similarity is required, or a random connectivity suffices. Here we argue for the latter. We study the response to a drifting grating of a network model of layer 2/3 with random recurrent connectivity and feedforward input from layer 4 neurons with random preferred orientations. We show that even though the total feedforward and total recurrent excitatory and inhibitory inputs all have a very weak orientation selectivity, strong selectivity emerges in the neuronal spike responses if the network operates in the balanced excitation/inhibition regime. This is because in this regime the (large) untuned components in the excitatory and inhibitory contributions approximately cancel. As a result the untuned part of the input into a neuron as well as its modulation with orientation and time all have a size comparable to the neuronal threshold. However, the tuning of the F0 and F1 components of the input are uncorrelated and the high-frequency fluctuations are not tuned. This is reflected in the subthreshold voltage response. Remarkably, due to the nonlinear voltage-firing rate transfer function, the preferred orientation of the F0 and F1 components of the spike response are highly correlated.}
+      \field{chapter}{Articles}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{12}
+      \field{title}{The {{Mechanism}} of {{Orientation Selectivity}} in {{Primary Visual Cortex}} without a {{Functional Map}}}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{32}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{4049\bibrangedash 4064}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.6284-11.2012
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\GWJL2JAZ\Hansel and Vreeswijk - 2012 - The Mechanism of Orientation Selectivity in Primar.pdf
+      \endverb
+    \endentry
     \entry{hooserOrientationSelectivityOrientation2005}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d40c7bc5d5f56a5d287ebef62a25b024}{%
@@ -1476,6 +1532,73 @@
       \endverb
       \verb{file}
       \verb C:\Users\woute\Zotero\storage\85FFZIF4\Moskovitz et al. - 2018 - A comparison of deep learning and linear-nonlinear.pdf
+      \endverb
+    \endentry
+    \entry{muirSpecificExcitatoryConnectivity2017}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=33f3f6a1c0c0ab1afc513adec9622d42}{%
+           family={Muir},
+           familyi={M\bibinitperiod},
+           given={Dylan\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea5a013ae8afb01b32e2746804f42591}{%
+           family={{Molina-Luna}},
+           familyi={M\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b11f2a4bfe84360c70e68d0ded94579c}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={Morgane\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5b80f3987bc0312ee0eb7101c68d315}{%
+           family={Helmchen},
+           familyi={H\bibinitperiod},
+           given={Fritjof},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6392540184ff580922a550c1b625f7c1}{%
+           family={Kampa},
+           familyi={K\bibinitperiod},
+           given={Björn\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{936a9e2cbb302e991973845fd1edd726}
+      \strng{fullhash}{1fea7d38b727deeaa1945533a00954f1}
+      \strng{bibnamehash}{1fea7d38b727deeaa1945533a00954f1}
+      \strng{authorbibnamehash}{1fea7d38b727deeaa1945533a00954f1}
+      \strng{authornamehash}{936a9e2cbb302e991973845fd1edd726}
+      \strng{authorfullhash}{1fea7d38b727deeaa1945533a00954f1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Local excitatory connections in mouse primary visual cortex (V1) are stronger and more prevalent between neurons that share similar functional response features. However, the details of how functional rules for local connectivity shape neuronal responses in V1 remain unknown. We hypothesised that complex responses to visual stimuli may arise as a consequence of rules for selective excitatory connectivity within the local network in the superficial layers of mouse V1. In mouse V1 many neurons respond to overlapping grating stimuli (plaid stimuli) with highly selective and facilitatory responses, which are not simply predicted by responses to single gratings presented alone. This complexity is surprising, since excitatory neurons in V1 are considered to be mainly tuned to single preferred orientations. Here we examined the consequences for visual processing of two alternative connectivity schemes: in the first case, local connections are aligned with visual properties inherited from feedforward input (a `like-to-like' scheme specifically connecting neurons that share similar preferred orientations); in the second case, local connections group neurons into excitatory subnetworks that combine and amplify multiple feedforward visual properties (a `feature binding' scheme). By comparing predictions from large scale computational models with in vivo recordings of visual representations in mouse V1, we found that responses to plaid stimuli were best explained by assuming feature binding connectivity. Unlike under the like-to-like scheme, selective amplification within feature-binding excitatory subnetworks replicated experimentally observed facilitatory responses to plaid stimuli; explained selective plaid responses not predicted by grating selectivity; and was consistent with broad anatomical selectivity observed in mouse V1. Our results show that visual feature binding can occur through local recurrent mechanisms without requiring feedforward convergence, and that such a mechanism is consistent with visual responses and cortical anatomy in mouse V1., The brain is a highly complex structure, with abundant connectivity between nearby neurons in the neocortex, the outermost and evolutionarily most recent part of the brain. Although the network architecture of the neocortex can appear disordered, connections between neurons seem to follow certain rules. These rules most likely determine how information flows through the neural circuits of the brain, but the relationship between particular connectivity rules and the function of the cortical network is not known. We built models of visual cortex in the mouse, assuming distinct rules for connectivity, and examined how the various rules changed the way the models responded to visual stimuli. We also recorded responses to visual stimuli of populations of neurons in anesthetized mice, and compared these responses with our model predictions. We found that connections in neocortex probably follow a connectivity rule that groups together neurons that differ in simple visual properties, to build more complex representations of visual stimuli. This finding is surprising because primary visual cortex is assumed to support mainly simple visual representations. We show that including specific rules for non-random connectivity in cortical models, and precisely measuring those rules in cortical tissue, is essential to understanding how information is processed by the brain.}
+      \field{issn}{1553-734X}
+      \field{journaltitle}{PLoS Computational Biology}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Specific Excitatory Connectivity for Feature Integration in Mouse Primary Visual Cortex}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \field{pages}{e1005888}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pcbi.1005888
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\XHPJG746\Muir et al. - 2017 - Specific excitatory connectivity for feature integ.pdf
       \endverb
     \endentry
     \entry{nguyenModelOriginDevelopment2019}{article}{}
@@ -2527,6 +2650,133 @@
       \verb C:\Users\woute\Zotero\storage\J7IX3KSL\Wyatte et al. - 2014 - Early recurrent feedback facilitates visual object.pdf
       \endverb
       \keyw{amodal completion,Feedback,Illusory contours,notion,object recognition,top-down attention}
+    \endentry
+    \entry{yazdanbakhshEndStoppingV12006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dddbbce8c4f39641436f7518cfae755e}{%
+           family={Yazdanbakhsh},
+           familyi={Y\bibinitperiod},
+           given={Arash},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c749d3b1a2c0229a590d6d28aec7119}{%
+           family={Livingstone},
+           familyi={L\bibinitperiod},
+           given={Margaret\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \strng{fullhash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \strng{bibnamehash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \strng{authorbibnamehash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \strng{authornamehash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \strng{authorfullhash}{c0ceb4d3fd171a32b65f2aaf46dfaad4}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Common situations that result in different perceptions of grouping and border ownership, such as shadows and occlusion, have distinct sign-of-contrast relationships at their edge-crossing junctions. Here we report a property of end stopping in V1 that distinguishes among different sign-of-contrast situations, thereby obviating the need for explicit junction detectors. We show that the inhibitory effect of the end zones in end-stopped cells is highly selective for the relative sign of contrast between the central activating stimulus and stimuli presented at the end zones. Conversely, the facilitatory effect of end zones in length-summing cells is not selective for the relative sign of contrast between the central activating stimulus and stimuli presented at the end zones. This finding indicates that end stopping belongs in the category of cortical computations that are selective for sign of contrast, such as direction selectivity and disparity selectivity, but length summation does not.}
+      \field{issn}{1097-6256}
+      \field{journaltitle}{Nature neuroscience}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{End Stopping in {{V1}} Is Sensitive to Contrast}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{9}
+      \field{year}{2006}
+      \field{urldateera}{ce}
+      \field{pages}{697\bibrangedash 702}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nn1693
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\YIZTRDHR\Yazdanbakhsh and Livingstone - 2006 - End stopping in V1 is sensitive to contrast.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
+    \entry{znamenskiyFunctionalSpecificityRecurrent2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d19b37368429e4f561cbfa922a2bf72a}{%
+           family={Znamenskiy},
+           familyi={Z\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2da1f9ac3d7051d33bcdf41c8c93f54}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Mean-Hwan},
+           giveni={M\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33f3f6a1c0c0ab1afc513adec9622d42}{%
+           family={Muir},
+           familyi={M\bibinitperiod},
+           given={Dylan\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59676c7b5156df4855d08bc8e500abe8}{%
+           family={Iacaruso},
+           familyi={I\bibinitperiod},
+           given={M.\bibnamedelimi Florencia},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cfba80263068ea1ec11b9eb695e7265}{%
+           family={Hofer},
+           familyi={H\bibinitperiod},
+           given={Sonja\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dd1fbd28e9d7acb14800c2e7a051498}{%
+           family={{Mrsic-Flogel}},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f0c1644d43db4ba405266ce76240ce86}
+      \strng{fullhash}{8dc0bcf13226482cc3d7c54b7888d114}
+      \strng{bibnamehash}{8dc0bcf13226482cc3d7c54b7888d114}
+      \strng{authorbibnamehash}{8dc0bcf13226482cc3d7c54b7888d114}
+      \strng{authornamehash}{f0c1644d43db4ba405266ce76240ce86}
+      \strng{authorfullhash}{8dc0bcf13226482cc3d7c54b7888d114}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0896-6273}
+      \field{journaltitle}{Neuron}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{6}
+      \field{title}{Functional Specificity of Recurrent Inhibition in Visual Cortex}
+      \field{urlday}{1}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{112}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{991\bibrangedash 1000.e8}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.neuron.2023.12.013
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\QHBFM2Z8\Znamenskiy et al. - 2024 - Functional specificity of recurrent inhibition in .pdf
+      \endverb
+      \keyw{cortical circuits,inhibitory neurons,neuronal connectivity,visual cortex}
     \endentry
   \enddatalist
 \endrefsection
