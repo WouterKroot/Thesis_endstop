@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  8 JUL 2024 01:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  8 JUL 2024 01:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -857,20 +857,20 @@ File: ./figures/LIF_endstopping_length_orientation.png Graphic file (type png)
 <use ./figures/LIF_endstopping_length_orientation.png>
 Package pdftex.def Info: ./figures/LIF_endstopping_length_orientation.png  used on input line 418.
 (pdftex.def)             Requested size: 390.0pt x 330.35345pt.
- [37] [38] [39] [40 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>]
-<adjusted_figures/endstop_line_length_physiology.png, id=331, 599.841pt x 666.0885pt>
+ [37] [38] [39] [40 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>] [41]
+<adjusted_figures/endstop_line_length_physiology.png, id=337, 599.841pt x 666.0885pt>
 File: adjusted_figures/endstop_line_length_physiology.png Graphic file (type png)
 <use adjusted_figures/endstop_line_length_physiology.png>
-Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 429.
+Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 427.
 (pdftex.def)             Requested size: 390.0pt x 433.08452pt.
- [41] [42 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>] [43]
-<figures/Figure_Population_configs.png, id=348, 595.7457pt x 606.5862pt>
+ [42 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>] [43]
+<figures/Figure_Population_configs.png, id=350, 595.7457pt x 606.5862pt>
 File: figures/Figure_Population_configs.png Graphic file (type png)
 <use figures/Figure_Population_configs.png>
-Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 448.
+Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 446.
 (pdftex.def)             Requested size: 390.0pt x 397.10861pt.
  [44] [45 <./figures/Figure_Population_configs.png (PNG copy)>] [46] [47] [48] [49] [50]
-Underfull \hbox (badness 10000) in paragraph at lines 499--512
+Underfull \hbox (badness 10000) in paragraph at lines 497--510
 
  []
 
@@ -890,10 +890,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  68i,12n,84p,3837b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (64 pages, 4246722 bytes).
+Output written on thesis_endstop.pdf (64 pages, 4247012 bytes).
 PDF statistics:
- 578 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
+ 580 PDF objects out of 1000 (max. 8388607)
+ 477 compressed objects within 5 object streams
  122 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
