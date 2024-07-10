@@ -1,15 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
-[1] Config.pm:310> INFO - Logfile is 'thesis_endstop.blg'
-[113] biber:340> INFO - === Tue Jul  9, 2024, 20:54:51
-[136] Biber.pm:418> INFO - Reading 'thesis_endstop.bcf'
-[240] Biber.pm:972> INFO - Found 44 citekeys in bib section 0
-[262] Biber.pm:4383> INFO - Processing section 0
-[280] Biber.pm:4574> INFO - Looking for bibtex file 'MyLibrary.bib' for section 0
-[360] bibtex.pm:1713> INFO - LaTeX decoding ...
-[948] bibtex.pm:1518> INFO - Found BibTeX data source 'MyLibrary.bib'
-[2010] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2010] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2010] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[2010] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[2094] bbl.pm:654> INFO - Writing 'thesis_endstop.bbl' with encoding 'UTF-8'
-[2190] bbl.pm:757> INFO - Output to thesis_endstop.bbl
+[0] Config.pm:310> INFO - Logfile is 'thesis_endstop.blg'
+[69] biber:340> INFO - === Wed Jul 10, 2024, 14:59:12
+[84] Biber.pm:418> INFO - Reading 'thesis_endstop.bcf'
+[155] Biber.pm:972> INFO - Found 47 citekeys in bib section 0
+[166] Biber.pm:4383> INFO - Processing section 0
+[174] Biber.pm:4574> INFO - Looking for bibtex file 'MyLibrary.bib' for section 0
+[225] bibtex.pm:1713> INFO - LaTeX decoding ...
+[582] bibtex.pm:1518> INFO - Found BibTeX data source 'MyLibrary.bib'
+[1081] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1081] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1081] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1082] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1135] bbl.pm:654> INFO - Writing 'thesis_endstop.bbl' with encoding 'UTF-8'
+[1198] bbl.pm:757> INFO - Output to thesis_endstop.bbl
+[1199] Biber.pm:130> WARN - Range field 'pages' in entry 'grossbergFillingInFormsSurface2003' is malformed, falling back to literal
+[1199] Biber.pm:132> INFO - WARNINGS: 1

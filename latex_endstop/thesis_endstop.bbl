@@ -603,6 +603,68 @@
       \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
       \endverb
     \endentry
+    \entry{grossbergFillingInFormsSurface2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
+           family={Grossberg},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b9091f9ac3929a82c651b02a265f166c}{%
+           family={Pessoa},
+           familyi={P\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=df8cea7bf35a6ceabdf5d35b5a44933a}{%
+           family={De\bibnamedelima Weerd},
+           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{fullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{bibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authorbibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authornamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{authorfullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \strng{editorbibnamehash}{92bed43fab844606cb24b4f560e6be9b}
+      \strng{editornamehash}{92bed43fab844606cb24b4f560e6be9b}
+      \strng{editorfullhash}{92bed43fab844606cb24b4f560e6be9b}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This chapter outlines how filling-in may play a key role in surface perception, ranging from lower-level uses, such as recovering surface brightness and color after discounting the illuminant and filling-in the blind spot, to higher-level uses, such as completing depthful modal and amodal surface representations during 3D vision and figure-ground separation. Surface filling-in plays a central role in visual percepts because boundary and surface computations are complementary. Boundaries and surfaces need to interact reciprocally to merge these complementary properties into a consistent visual percept. Boundaries help to trigger depth-selective surface filling-in, and successfully filled-in surfaces reorganize the global patterning of boundary and surface signals via feedforward and feedback signals.}
+      \field{booktitle}{Filling-{{In}}: {{From Perceptual Completion}} to {{Cortical Reorganization}}}
+      \field{isbn}{978-0-19-514013-2}
+      \field{month}{4}
+      \field{shorttitle}{Filling-{{In}} the {{Forms}}}
+      \field{title}{Filling-{{In}} the {{Forms}}: {{Surface}} and {{Boundary Interactions}} in {{Visual Cortex}}}
+      \field{urlday}{27}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \field{pages}{0}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1093/acprof:oso/9780195140132.003.0002
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\2434YDNE\194887470.html
+      \endverb
+      \warn{\item Range field 'pages' in entry 'grossbergFillingInFormsSurface2003' is malformed, falling back to literal}
+    \endentry
     \entry{grossbergHowVisualIllusions2014}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
@@ -621,6 +683,7 @@
       \strng{authorbibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
       \strng{authornamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
       \strng{authorfullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
+      \field{extraname}{2}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -648,6 +711,62 @@
       \verb C:\Users\woute\Zotero\storage\D3VTZ897\Grossberg - 2014 - How visual illusions illuminate complementary brai.pdf
       \endverb
       \keyw{Apparent motion,brightness perception,Depth Perception,filling-in,formotion,formotion perception,Illusory contours,notion,Visual illusion}
+    \endentry
+    \entry{grossbergVisualBrainVisual1997}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
+           family={Grossberg},
+           familyi={G\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83f84eb72e3a1c0167f106d1fbba3003}{%
+           family={Mingolla},
+           familyi={M\bibinitperiod},
+           given={Ennio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f806ea1bc61a14724fb39447a63b647}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={William\bibnamedelima D},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{478d80b69fdd86bb7aae7e1033c43991}
+      \strng{fullhash}{ac6825bb39ee05037824d433af03b9a8}
+      \strng{bibnamehash}{ac6825bb39ee05037824d433af03b9a8}
+      \strng{authorbibnamehash}{ac6825bb39ee05037824d433af03b9a8}
+      \strng{authornamehash}{478d80b69fdd86bb7aae7e1033c43991}
+      \strng{authorfullhash}{ac6825bb39ee05037824d433af03b9a8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{01662236}
+      \field{journaltitle}{Trends in Neurosciences}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shorttitle}{Visual Brain and Visual Perception}
+      \field{title}{Visual Brain and Visual Perception: How Does the Cortex Do Perceptual Grouping?}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{20}
+      \field{year}{1997}
+      \field{urldateera}{ce}
+      \field{pages}{106\bibrangedash 111}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0166-2236(96)01002-8
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\5GGFD7FU\Grossberg et al. - 1997 - Visual brain and visual perception how does the c.pdf
+      \endverb
     \endentry
     \entry{grossbergTextureSegregationSurface1998}{article}{}
       \name{author}{2}{}{%
@@ -2712,6 +2831,55 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1002/cne.21286
+      \endverb
+    \endentry
+    \entry{wilsonExcitatoryInhibitoryInteractions1972}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1752c104557bcd72f737f416c649674d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Hugh\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f17564c872ebb69b37e6689ae644c70e}{%
+           family={Cowan},
+           familyi={C\bibinitperiod},
+           given={Jack\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{fullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{bibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authorbibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authornamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authorfullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00063495}
+      \field{journaltitle}{Biophysical Journal}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Excitatory and {{Inhibitory Interactions}} in {{Localized Populations}} of {{Model Neurons}}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{1972}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(72)86068-5
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\ST24JVLY\Wilson and Cowan - 1972 - Excitatory and Inhibitory Interactions in Localize.pdf
       \endverb
     \endentry
     \entry{wyatteEarlyRecurrentFeedback2014}{article}{}
