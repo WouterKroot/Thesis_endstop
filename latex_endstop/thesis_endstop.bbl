@@ -985,6 +985,52 @@
       \verb C:\Users\woute\Zotero\storage\C6DV8BNP\Hubel and Wiesel - 1965 - RECEPTIVE FIELDS AND FUNCTIONAL ARCHITECTURE IN TW.pdf
       \endverb
     \endentry
+    \entry{jaderbergSpatialTransformerNetworks2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7dc1446dea7ff50b2b02fb83780cc9c6}{%
+           family={Jaderberg},
+           familyi={J\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c72fc39e94030f67717052309266a44d}{%
+           family={Zisserman},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6373e6f74e9bf37ec2dc2f2504c49358}
+      \strng{fullhash}{c4dd331e488d54845fb05bda40bd388e}
+      \strng{bibnamehash}{c4dd331e488d54845fb05bda40bd388e}
+      \strng{authorbibnamehash}{c4dd331e488d54845fb05bda40bd388e}
+      \strng{authornamehash}{6373e6f74e9bf37ec2dc2f2504c49358}
+      \strng{authorfullhash}{c4dd331e488d54845fb05bda40bd388e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Spatial Transformer Networks}
+      \field{urlday}{11}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{28}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\D527NSTR\Jaderberg et al. - 2015 - Spatial transformer networks.pdf
+      \endverb
+    \endentry
     \entry{jonesSurroundSuppressionPrimate2001}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=259730bf839d2ffa7f96852145ec64d7}{%
@@ -1949,6 +1995,60 @@
       \endverb
       \keyw{Action Potentials,Animals,Linear Models,Mice,Mice Inbred C57BL,Neural Inhibition,Neurons,Nonlinear Dynamics,Orientation,Photic Stimulation,Psychophysics,Spectrum Analysis,Visual Cortex,Visual Fields}
     \endentry
+    \entry{orbanDimensionsPropertiesEndzone1979}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e6b2ec12ec25a546afcbd751e22e7628}{%
+           family={Orban},
+           familyi={O\bibinitperiod},
+           given={G.\bibnamedelimi A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60b9f8d0cba57b410ca5488388f1f7f2}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f44fffb0a41675363e1d4eecc9b4f7ef}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={P.\bibnamedelimi O.},
+           giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society}%
+      }
+      \strng{namehash}{7eddda16a872c19b3ad5f9594b4e860d}
+      \strng{fullhash}{e49994cae6ce34f2b836269c537b6c53}
+      \strng{bibnamehash}{e49994cae6ce34f2b836269c537b6c53}
+      \strng{authorbibnamehash}{e49994cae6ce34f2b836269c537b6c53}
+      \strng{authornamehash}{7eddda16a872c19b3ad5f9594b4e860d}
+      \strng{authorfullhash}{e49994cae6ce34f2b836269c537b6c53}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3077}
+      \field{journaltitle}{Journal of Neurophysiology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Dimensions and Properties of End-Zone Inhibitory Areas in Receptive Fields of Hypercomplex Cells in Cat Striate Cortex}
+      \field{urlday}{3}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{42}
+      \field{year}{1979}
+      \field{urldateera}{ce}
+      \field{pages}{833\bibrangedash 849}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1152/jn.1979.42.3.833
+      \endverb
+    \endentry
     \entry{pakTopDownFeedbackControls2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8bf197bcee7c7d04e4efa51d4f5e0b94}{%
@@ -2831,55 +2931,6 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1002/cne.21286
-      \endverb
-    \endentry
-    \entry{wilsonExcitatoryInhibitoryInteractions1972}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=1752c104557bcd72f737f416c649674d}{%
-           family={Wilson},
-           familyi={W\bibinitperiod},
-           given={Hugh\bibnamedelima R.},
-           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f17564c872ebb69b37e6689ae644c70e}{%
-           family={Cowan},
-           familyi={C\bibinitperiod},
-           given={Jack\bibnamedelima D.},
-           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \strng{fullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \strng{bibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \strng{authorbibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \strng{authornamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \strng{authorfullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00063495}
-      \field{journaltitle}{Biophysical Journal}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{title}{Excitatory and {{Inhibitory Interactions}} in {{Localized Populations}} of {{Model Neurons}}}
-      \field{urlday}{10}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{volume}{12}
-      \field{year}{1972}
-      \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 24}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1016/S0006-3495(72)86068-5
-      \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\ST24JVLY\Wilson and Cowan - 1972 - Excitatory and Inhibitory Interactions in Localize.pdf
       \endverb
     \endentry
     \entry{wyatteEarlyRecurrentFeedback2014}{article}{}
