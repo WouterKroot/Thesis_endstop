@@ -268,6 +268,63 @@
       \endverb
       \keyw{notion}
     \endentry
+    \entry{deweerdCuedependentDeficitsGrating1996}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=df8cea7bf35a6ceabdf5d35b5a44933a}{%
+           family={De\bibnamedelima Weerd},
+           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fafdb322442e02d25d6b86411ee08ad}{%
+           family={Desimone},
+           familyi={D\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f69f9a456d81b38c1cc468f355a4f319}{%
+           family={Ungerleider},
+           familyi={U\bibinitperiod},
+           given={Leslie\bibnamedelima G.},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64d2c56e330b4c8bc40aeafcb539a3ed}
+      \strng{fullhash}{e6facd415d3235ed4be44188c76a4c3d}
+      \strng{bibnamehash}{e6facd415d3235ed4be44188c76a4c3d}
+      \strng{authorbibnamehash}{e6facd415d3235ed4be44188c76a4c3d}
+      \strng{authornamehash}{64d2c56e330b4c8bc40aeafcb539a3ed}
+      \strng{authorfullhash}{e6facd415d3235ed4be44188c76a4c3d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To examine the role of visual area V4 in pattern vision, we tested two monkeys with lesions of V4 on tasks that required them to discriminate the orientation of contours defined by several different cues. The cues used to separate the contours from their background included luminance, color, motion, and texture, as well as phase-shifted abutting gratings that created an "illusory" contour. The monkeys were trained to maintain fixation on a fixation target while discriminating extrafoveal stimuli, which were located in either a normal control quadrant of the visual field or in a quadrant affected by a lesion of area V4 in one hemisphere. Comparing performance in the two quadrants, we found significant deficits for contours defined by texture and for the illusory contour, but smaller or no deficits for motion-, color-, and luminance-defined contours. The data suggest a specific role of V4 in the perception of illusory contours and contours defined by texture.}
+      \field{issn}{0952-5238, 1469-8714}
+      \field{journaltitle}{Visual Neuroscience}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Cue-Dependent Deficits in Grating Orientation Discrimination after {{V4}} Lesions in Macaques}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{volume}{13}
+      \field{year}{1996}
+      \field{urldateera}{ce}
+      \field{pages}{529\bibrangedash 538}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1017/S0952523800008208
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\G9LHPLJF\De Weerd et al. - 1996 - Cue-dependent deficits in grating orientation disc.pdf
+      \endverb
+      \keyw{notion}
+    \endentry
     \entry{deangelisLengthWidthTuning1994}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=bcc36a466c171e17dcefa84c116a1376}{%
@@ -1714,6 +1771,75 @@
       \verb C\:\\Users\\woute\\Zotero\\storage\\JC3BDG8C\\Mechler and Ringach - 2002 - On the classification of simple and complex cells.pdf;C\:\\Users\\woute\\Zotero\\storage\\GMBB4R65\\S0042698902000251.html
       \endverb
       \keyw{Bimodal distribution,Classification,Clustering,Sigmoid non-linearity,V1 neurons}
+    \endentry
+    \entry{mendolaRepresentationIllusoryReal1999}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1d39dc7446dbbd5724adddc83caec7a0}{%
+           family={Mendola},
+           familyi={M\bibinitperiod},
+           given={Janine\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2139ff0c90c2e8b9eef57b68cad07e3}{%
+           family={Dale},
+           familyi={D\bibinitperiod},
+           given={Anders\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4210e5a0305aced45740a9ccb645743}{%
+           family={Fischl},
+           familyi={F\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e6f2e791357d979212b3d8e41ff1c57}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Arthur\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e771d93b7f193c93eb2f6cc980f8b770}{%
+           family={Tootell},
+           familyi={T\bibinitperiod},
+           given={Roger\bibnamedelimb B.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a70c0d89e4f6e59d181b77d866019c01}
+      \strng{fullhash}{d3ba20735830f288d9f103e34c6c5e7b}
+      \strng{bibnamehash}{d3ba20735830f288d9f103e34c6c5e7b}
+      \strng{authorbibnamehash}{d3ba20735830f288d9f103e34c6c5e7b}
+      \strng{authornamehash}{a70c0d89e4f6e59d181b77d866019c01}
+      \strng{authorfullhash}{d3ba20735830f288d9f103e34c6c5e7b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Illusory contours (perceived edges that exist in the absence of local stimulus borders) demonstrate that perception is an active process, creating features not present in the light patterns striking the retina. Illusory contours are thought to be processed using mechanisms that partially overlap with those of ``real'' contours, but questions about the neural substrate of these percepts remain. Here, we employed functional magnetic resonance imaging to obtain physiological signals from human visual cortex while subjects viewed different types of contours, both real and illusory. We sampled these signals independently from nine visual areas, each defined by retinotopic or other independent criteria. Using both within- and across-subject analysis, we found evidence for overlapping sites of processing; most areas responded to most types of contours. However, there were distinctive differences in the strength of activity across areas and contour types. Two types of illusory contours differed in the strength of activation of the retinotopic areas, but both types activated crudely retinotopic visual areas, including V3A, V4v, V7, and V8, bilaterally. The extent of activation was largely invariant across a range of stimulus sizes that produce illusory contours perceptually, but it was related to the spatial frequency of displaced-grating stimuli. Finally, there was a striking similarity in the pattern of results for the illusory contour-defined shape and a similar shape defined by stereoscopic depth. These and other results suggest a role in surface perception for this lateral occipital region that includes V3A, V4v, V7, and V8.}
+      \field{issn}{0270-6474, 1529-2401}
+      \field{journaltitle}{The Journal of Neuroscience}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{19}
+      \field{title}{The {{Representation}} of {{Illusory}} and {{Real Contours}} in {{Human Cortical Visual Areas Revealed}} by {{Functional Magnetic Resonance Imaging}}}
+      \field{urlday}{25}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{volume}{19}
+      \field{year}{1999}
+      \field{urldateera}{ce}
+      \field{pages}{8560\bibrangedash 8572}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.19-19-08560.1999
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\RVVT7CFJ\Mendola et al. - 1999 - The Representation of Illusory and Real Contours i.pdf
+      \endverb
+      \keyw{notion}
     \endentry
     \entry{moskovitzComparisonDeepLearning2018}{misc}{}
       \name{author}{3}{}{%
