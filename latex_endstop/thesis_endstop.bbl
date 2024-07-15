@@ -693,7 +693,6 @@
       \strng{editorbibnamehash}{92bed43fab844606cb24b4f560e6be9b}
       \strng{editornamehash}{92bed43fab844606cb24b4f560e6be9b}
       \strng{editorfullhash}{92bed43fab844606cb24b4f560e6be9b}
-      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -721,109 +720,6 @@
       \verb C:\Users\woute\Zotero\storage\2434YDNE\194887470.html
       \endverb
       \warn{\item Range field 'pages' in entry 'grossbergFillingInFormsSurface2003' is malformed, falling back to literal}
-    \endentry
-    \entry{grossbergHowVisualIllusions2014}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
-           family={Grossberg},
-           familyi={G\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Frontiers}%
-      }
-      \strng{namehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{fullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{bibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authorbibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authornamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authorfullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \field{extraname}{2}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Neural models of perception clarify how visual illusions arise from adaptive neural processes. Illusions also provide important insights into how adaptive neural processes work. This article focuses on two illusions that illustrate a fundamental property of global brain organization; namely, that advanced brains are organized into parallel cortical processing streams with computationally complementary properties. That is, in order to process certain combinations of properties, each cortical stream cannot process complementary properties. Interactions between these streams, across multiple processing stages, overcome their complementary deficiencies to compute effective representations of the world, and to thereby achieve the property of complementary consistency. The two illusions concern how illusory depth can vary with brightness, and how apparent motion of illusory contours can occur. Illusory depth from brightness arises from the complementary properties of boundary and surface processes, notably boundary completion and surface-filling in, within the parvocellular form processing cortical stream. This illusion depends upon how surface contour signals from the V2 thin stripes to the V2 interstripes ensure complementary consistency of a unified boundary/surface percept. Apparent motion of illusory contours arises from the complementary computations of form and motion processing across the parvocellular and magnocellular cortical processing streams. This illusion depends upon how illusory contours help to complete boundary representations for object recognition, how apparent motion signals can help to form continuous trajectories for target tracking and prediction, and how formotion interactions from V2-to-MT enable completed object representations to be continuously tracked even when they move behind intermittently occluding objects through time.}
-      \field{issn}{1662-5161}
-      \field{journaltitle}{Frontiers in Human Neuroscience}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{shorttitle}{How Visual Illusions Illuminate Complementary Brain Processes}
-      \field{title}{How Visual Illusions Illuminate Complementary Brain Processes: Illusory Depth from Brightness and Apparent Motion of Illusory Contours}
-      \field{urlday}{25}
-      \field{urlmonth}{4}
-      \field{urlyear}{2024}
-      \field{volume}{8}
-      \field{year}{2014}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.3389/fnhum.2014.00854
-      \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\D3VTZ897\Grossberg - 2014 - How visual illusions illuminate complementary brai.pdf
-      \endverb
-      \keyw{Apparent motion,brightness perception,Depth Perception,filling-in,formotion,formotion perception,Illusory contours,notion,Visual illusion}
-    \endentry
-    \entry{grossbergVisualBrainVisual1997}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
-           family={Grossberg},
-           familyi={G\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=83f84eb72e3a1c0167f106d1fbba3003}{%
-           family={Mingolla},
-           familyi={M\bibinitperiod},
-           given={Ennio},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2f806ea1bc61a14724fb39447a63b647}{%
-           family={Ross},
-           familyi={R\bibinitperiod},
-           given={William\bibnamedelima D},
-           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{478d80b69fdd86bb7aae7e1033c43991}
-      \strng{fullhash}{ac6825bb39ee05037824d433af03b9a8}
-      \strng{bibnamehash}{ac6825bb39ee05037824d433af03b9a8}
-      \strng{authorbibnamehash}{ac6825bb39ee05037824d433af03b9a8}
-      \strng{authornamehash}{478d80b69fdd86bb7aae7e1033c43991}
-      \strng{authorfullhash}{ac6825bb39ee05037824d433af03b9a8}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{01662236}
-      \field{journaltitle}{Trends in Neurosciences}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{3}
-      \field{shorttitle}{Visual Brain and Visual Perception}
-      \field{title}{Visual Brain and Visual Perception: How Does the Cortex Do Perceptual Grouping?}
-      \field{urlday}{10}
-      \field{urlmonth}{7}
-      \field{urlyear}{2024}
-      \field{volume}{20}
-      \field{year}{1997}
-      \field{urldateera}{ce}
-      \field{pages}{106\bibrangedash 111}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1016/S0166-2236(96)01002-8
-      \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\5GGFD7FU\Grossberg et al. - 1997 - Visual brain and visual perception how does the c.pdf
-      \endverb
     \endentry
     \entry{grossbergTextureSegregationSurface1998}{article}{}
       \name{author}{2}{}{%
