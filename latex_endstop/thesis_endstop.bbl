@@ -660,66 +660,70 @@
       \verb C:\Users\woute\Zotero\storage\9MT2ZI7I\Gămănuţ and Shimaoka - 2022 - Anatomical and functional connectomes underlying h.pdf
       \endverb
     \endentry
-    \entry{grossbergFillingInFormsSurface2003}{inbook}{}
-      \name{author}{1}{}{%
+    \entry{grossbergRoleIllusoryContours1987}{inbook}{}
+      \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
            family={Grossberg},
            familyi={G\bibinitperiod},
            given={Stephen},
            giveni={S\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=83f84eb72e3a1c0167f106d1fbba3003}{%
+           family={Mingolla},
+           familyi={M\bibinitperiod},
+           given={Ennio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{2}{}{%
-        {{hash=b9091f9ac3929a82c651b02a265f166c}{%
-           family={Pessoa},
+        {{hash=d9a1986b0f7f8dad15abe4b0096e07db}{%
+           family={Petry},
            familyi={P\bibinitperiod},
-           given={Luiz},
-           giveni={L\bibinitperiod}}}%
-        {{hash=df8cea7bf35a6ceabdf5d35b5a44933a}{%
-           family={De\bibnamedelima Weerd},
-           familyi={D\bibinitperiod\bibinitdelim W\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=58bf0d03f5b1da4de7647d15fe94b858}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Glenn\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
       }
       \list{publisher}{1}{%
-        {Oxford University Press}%
+        {Springer}%
       }
-      \strng{namehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{fullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{bibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authorbibnamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authornamehash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{authorfullhash}{02559e7a1e7f6f93b21cdb5c4794c4ed}
-      \strng{editorbibnamehash}{92bed43fab844606cb24b4f560e6be9b}
-      \strng{editornamehash}{92bed43fab844606cb24b4f560e6be9b}
-      \strng{editorfullhash}{92bed43fab844606cb24b4f560e6be9b}
+      \strng{namehash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{fullhash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{bibnamehash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{authorbibnamehash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{authornamehash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{authorfullhash}{699b442618fdda29e7e7bc89421518ed}
+      \strng{editorbibnamehash}{77bd4aa55f2a2fc37a9a00a385ba00fd}
+      \strng{editornamehash}{77bd4aa55f2a2fc37a9a00a385ba00fd}
+      \strng{editorfullhash}{77bd4aa55f2a2fc37a9a00a385ba00fd}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{This chapter outlines how filling-in may play a key role in surface perception, ranging from lower-level uses, such as recovering surface brightness and color after discounting the illuminant and filling-in the blind spot, to higher-level uses, such as completing depthful modal and amodal surface representations during 3D vision and figure-ground separation. Surface filling-in plays a central role in visual percepts because boundary and surface computations are complementary. Boundaries and surfaces need to interact reciprocally to merge these complementary properties into a consistent visual percept. Boundaries help to trigger depth-selective surface filling-in, and successfully filled-in surfaces reorganize the global patterning of boundary and surface signals via feedforward and feedback signals.}
-      \field{booktitle}{Filling-{{In}}: {{From Perceptual Completion}} to {{Cortical Reorganization}}}
-      \field{isbn}{978-0-19-514013-2}
-      \field{month}{4}
-      \field{shorttitle}{Filling-{{In}} the {{Forms}}}
-      \field{title}{Filling-{{In}} the {{Forms}}: {{Surface}} and {{Boundary Interactions}} in {{Visual Cortex}}}
-      \field{urlday}{27}
-      \field{urlmonth}{6}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many paradoxical percepts are expressions of adaptive brain designs aimed at achieving informative visual representations of the external world. Paradoxical percepts may therefore be used as probes and tests of the mechanisms that are hypothesized to instantiate these adaptive brain designs. Illusory contour percepts, in particular, provide numerous clues and constraints for a theory of boundary formation and textural segmentation, because they involve subtle interactions of form and color processing. A main theme of this chapter is the role of illusory contours in perceptual grouping processes. Our theory makes precise the sense in which percepts of illusory contours---or contour percepts that do not correspond to one-dimensional luminance differences in a scenic image---and percepts of ``real contours'' are both synthesized by the same mechanisms.This discussion clarifies why, despite the visual system's manifestly adaptive design, illusory contours are so abundant in visual percepts. We also suggest how illusory contours that are at best marginally visible can have powerful effects on perceptual grouping and object recognition processes.}
+      \field{booktitle}{The {{Perception}} of {{Illusory Contours}}}
+      \field{isbn}{978-1-4612-4760-9}
+      \field{langid}{english}
+      \field{title}{The {{Role}} of {{Illusory Contours}} in {{Visual Segmentation}}}
+      \field{urlday}{15}
+      \field{urlmonth}{7}
       \field{urlyear}{2024}
-      \field{year}{2003}
+      \field{year}{1987}
       \field{urldateera}{ce}
-      \field{pages}{0}
-      \range{pages}{-1}
+      \field{pages}{116\bibrangedash 125}
+      \range{pages}{10}
       \verb{doi}
-      \verb 10.1093/acprof:oso/9780195140132.003.0002
+      \verb 10.1007/978-1-4612-4760-9_12
       \endverb
-      \verb{file}
-      \verb C:\Users\woute\Zotero\storage\2434YDNE\194887470.html
-      \endverb
-      \warn{\item Range field 'pages' in entry 'grossbergFillingInFormsSurface2003' is malformed, falling back to literal}
     \endentry
     \entry{grossbergTextureSegregationSurface1998}{article}{}
       \name{author}{2}{}{%
