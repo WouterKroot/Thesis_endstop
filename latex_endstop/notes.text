@@ -159,7 +159,18 @@ The findings revealed that, akin to macaques, mice also exhibited a delay (30 ms
 Moreover, the representation of illusory contours in V1 was eliminated upon silencing of LM through optogenetics, indicating a possible similarity in the processing relationship between V1 and LM in mice and that between V2 and V4 in macaques, which aligns with theories of recurrent processing \autocite{wyatteEarlyRecurrentFeedback2014}. Additionally, recent research by \cite{shinRecurrentPatternCompletion2023} found that a specific subset of V1 cells in mice could complete the perception of an illusory contour when sufficiently stimulated. Employing decoding techniques and 2-photon stimulation, it was demonstrated that activating a particular set of V1 cells (5\%) could suffice to generate the perception of illusory contours across the V1 network without any visual stimulation. These findings propose a model where recurrent feedback activity between V1 and LM underlies illusory contour representations in mice, highlighting the necessity for further investigation into how these cells are precisely targeted based on the configuration of inducing stimuli.
 
 
+% The visual systems of mice and primates differ both anatomically and functionally. The primate visual cortex accounts for over half of their neocortex and comprises approximately 30 areas \hyperref[fig
+% ]{(figure 2 a and b.)} \autocite{fellemanDistributedHierarchicalProcessing1991}. In contrast, the mouse visual cortex includes roughly nine areas \autocite{wangAreaMapMouse2007}. This anatomical disparity reflects the fact that mice do not primarily rely on their vision and have limited ability to segment figures from the background compared to primates \autocite{luongoMicePrimatesUse2023}. While primates can easily segment figures using complex visual cues such as motion and texture, mice struggle with these tasks. Experiments have shown that mice cannot effectively use opponent motion cues for segmentation and resort to brute force memorisation of specific patterns. Nevertheless, mice can utilise texture-based strategies for figure-ground discrimination using patterns with different orientations and/or phases \autocite{kirchbergerEssentialRoleFeedback2020}.
 
+Interestingly, both the mouse lateral medial area (LM) and the primate V2, implicated in the generation of illusory contours, represent the vertical meridian along their border with V1. This suggests that LM could be the homologue of primate V2 \autocite{gamanutAnatomicalFunctionalConnectomes2022}. The consistency between illusory contour representations in both species highlights the potential to generalise findings from mice to primates. Furthermore, primates and mice also share visual processing functions such as orientation and spatial frequency selectivity \autocite{niellHighlySelectiveReceptive2008}. Additionally, processing information within the cortical column follows a hierarchical structure in mice, similar to that of primates, with a clear distinction between feedforward and feedback connections. In primates, feedforward projections arise from the dLGN and target layer 4 (L4) of V1. These signals are then transmitted from L4 to layers 2/3 and 5 within the cortical column and subsequently up into the hierarchy \autocite{markovAnatomyHierarchyFeedforward2014}. In contrast, feedback projections originate mainly from infragranular layer 6 (L6) and supragranular layer 2/3 and target layers 1 and 6 in the lower visual stream \autocite{rocklandWhatWeKnow2019}. The connectivity patterns of the cortical column in mice are similar to those in primates, with the main difference being that feedforward connections are not isolated to L4 but also target supra- and infragranular layers \hyperref[fig
+]{(figure 2c)}. Still, feedforward information is relayed to similar cell types, predominantly targeting excitatory pyramidal cells and inhibitory parvalbumin (PV) interneurons \hyperref[fig
+]{(figure 2d)}. Thus, despite the smaller size and relatively lower complexity, mice have a hierarchical structure similar to that of primates. This similarity suggests that both primates and mice might process illusory contours based on these basic visual features. 
+
+
+% \bigbreak
+% The visual systems of mice and primates differ both anatomically and functionally from each other. Whilst the mouse visual cortex comprises roughly nine areas \autocite{wangAreaMapMouse2007}, the primate visual cortex extends across approximately 30 areas \hyperref[fig:Laminar_Figure]{(figure 2 a and b.)}, accounting for over half of their neocortex \autocite{fellemanDistributedHierarchicalProcessing1991}. This anatomical disparity is reflected by the fact that mice do not primarily rely on their vision and that they are limited in their ability to segment figures from the background compared to primates \autocite{luongoMicePrimatesUse2023}. Whilst primates can easily segment figures using complex visual cues such as motion and texture, mice struggle with these tasks. Experiments demonstrated that mice could not effectively use opponent motion cues for segmentation, resorting instead to brute force memorisation of specific patterns. Nevertheless, mice have demonstrated the ability to utilise texture-based strategies for figure-ground discrimination, in which patterns with different orientations and/or phases are used \autocite{kirchbergerEssentialRoleFeedback2020}. Understanding how illusory contours are represented in the mouse visual cortex using computationally straightforward methods could offer insights that are generalisable to the more complex integrations observed in the primate visual cortex. Interestingly, both the mouse lateral medial area (LM) and the primate V2, which are implicated in the generation of illusory contours, represent the vertical meridian along their border with V1, suggesting that LM could be the homologue of primate V2 \autocite{gamanutAnatomicalFunctionalConnectomes2022}. The consistency between illusory contour representation highlights the potential to generalise findings from mice to primates.
+% \bigbreak
+% Furthermore, primates and mice also share visual processing functions, such as orientation and spatial frequency selectivity \autocite{niellHighlySelectiveReceptive2008}. This similarity indicates that is might be possible that primates process illusory contours based on these basic visual features. Therefore, it is important to mechanically explain the representation of illusory contours in a simplified setting with a computationally straightforward method using visual features like orientation selectivity and retinotopic integration. Importantly, processing information within the cortical column follows a hierarchical structure in mice as well as in primates. There is a clear distinction between feedforward and feedback connections. In primates, feedforward projections arise from the dLGN and target layer 4 (L4) of V1. These feedforward signals are then transmitted from L4 to L2/3 and L5 within the cortical column. From L2/3 and L5 the feedforward signals are transmitted up into the hierarchy to L4 \autocite{markovAnatomyHierarchyFeedforward2014}. In contrast, feedback projections originate mainly from infragranular L6 and supragranular L2/3 and target layers L1 and L6 in the lower visual stream \autocite{rocklandWhatWeKnow2019}. The connectivity patterns of the cortical column of the mouse are similar to that of the primate, with the main difference being that feedforward connections are not isolated to L4 but also target supra- and infragranular layers \hyperref[fig:Laminar_Figure]{(figure 2c)}. Thus, apart from the small size and relatively lower complexity, mice still have a hierarchical structure similar to that of the primate. Feedforward signals from the dLGN predominantly project to both PV and pyramidal cells \hyperref[fig:Laminar_Figure]{(figure 2d)}. Therefore, to understand the generation of illusory contours, it is first necessary to examine how feedforward illusory inducer cues can be  used to complete an illusory boundary. 
 
 
 
@@ -284,3 +295,66 @@ Despite these insights, neurophysiological studies have largely overlooked how e
 This study investigates whether endstopping in V1 can occur solely through feedforward signals without direct inhibition or if a feedback mechanism is essential for activating inhibitory end zones. By simulating the representation of the abutting grating illusion via endstopped cell-driven recurrent activity, we explore the physiological constraints on integrating orientation-tuned endstopped cells in higher visual areas. Our goal is to elucidate how endstopped cells contribute to the perception of illusory contours and their integration within the visual cortex hierarchy. We hypothesize that endstopped cells are crucial for the representation of illusory contours and that their orientation tuning is modulated by feedback signals from higher visual areas. Our results will provide insights into the neural mechanisms underlying illusory contour perception and the hierarchical processing of visual information in the mammalian visual system.
 
 \newpage
+
+
+%old chatgpt dLGN and V1 parameters LIF cell
+\begin{table}[H]
+  \centering
+  \caption{Parameters and Weights for LGN Cells}
+  \begin{tabular}{lll}
+  \toprule
+  \textbf{Cell Type} & \textbf{Parameter} & \textbf{Description} \\
+  \midrule
+  \multirow{4}{*}{LGN} 
+      & Optimised weight      & (7, -1) \\
+      & Delays   & (0, 0) \\
+      & K-peaks   & (30, 55) \\
+  \bottomrule
+  \end{tabular}
+\end{table}
+
+For the spatial filtering of the receptive fields, we employed a Gaussian filter characterised by its spatial size and rotation. The default spatial size was set to 5.0 spatial degrees, which means the filter covered a 5-degree area in both the horizontal and vertical directions. The rotation of the filter was set to 0.0 degrees, indicating no rotation and ensuring alignment with the primary axes.
+
+Temporal filtering was managed using a double cosine filter, which incorporates two cosine waves to model the time-dependent response of the neurons. This filter is defined by several key parameters: weights, k-peaks, and delays. The weight parameter controlled the amplitude of the two peaks in the cosine filter. The first peak had a higher amplitude (weights[0]) compared to the second peak (weights[1]). This reflects the biological observation that the initial response to a stimulus is typically stronger than subsequent responses. The k-peaks parameter determined the spread or width of the peaks. The first peak, associated with the initial response, had a narrower spread, while the second peak, representing the later response, was negative and had a broader spread. This setup ensures that the initial peak is sharp and quick, capturing rapid changes, whereas the second peak is more prolonged, capturing sustained responses.
+
+The delay parameter controlled the timing of the peaks. The first delay (delays[0]) set the timing for the initial, larger peak, and the second delay (delays[1]) set the timing for the secondary, smaller peak. A smaller value for delays[0] resulted in a quicker initial response to changes in brightness, indicating that the neuron reacts promptly to the onset of a stimulus. Conversely, a larger value meant a slower initial response. Similarly, the value of delays[1] determined how quickly the secondary response occurred, with smaller values indicating quicker secondary responses and larger values indicating slower ones. By carefully configuring these parameters—weights for amplitude, k-peaks for spread, and delays for timing—we ensured that the dLGN cells accurately modelled the sustained neural responses to both ON and OFF inputs necessary for our study.
+
+The leaky integrate-and-fire (LIF) neuron model was used to represent the V1 cells. The dynamics of the membrane potential \(V(t)\) of the neuron are described by the following differential equation:
+
+\begin{equation}
+\tau_m \frac{dV(t)}{dt} = - (V(t) - V_{\text{rest}}) + R_m I(t),
+\label{eq:LIF}
+\end{equation}
+
+where \(\tau_m\) is the membrane time constant, representing the rate at which the membrane potential decays to the resting potential in the absence of input. It is given by \(\tau_m = R_m C_m\), where \(R_m\) is the membrane resistance and \(C_m\) is the membrane capacitance. The term \(V(t)\) is the membrane potential at time \(t\), \(V_{\text{rest}}\) is the resting membrane potential, which is the potential across the membrane in the absence of any synaptic input, \(R_m\) is the membrane resistance, which determines how much the membrane potential changes in response to a given synaptic current, and \(I(t)\) is the synaptic input current at time \(t\).
+
+The LIF model also includes a mechanism to generate spikes. When the membrane potential \(V(t)\) reaches a certain threshold \(V_{\text{th}}\), a spike is generated, and the membrane potential is reset to a reset potential \(V_{\text{reset}}\):
+
+\begin{equation}
+\text{if } V(t) \geq V_{\text{th}} \text{ then } \begin{cases}
+V(t) \rightarrow V_{\text{reset}}, \\
+t \rightarrow t + t_{\text{ref}},
+\end{cases}
+\end{equation}
+
+where \(V_{\text{th}}\) is the threshold potential at which a spike is generated, \(V_{\text{reset}}\) is the reset potential to which the membrane potential is set after a spike, and \(t_{\text{ref}}\) is the refractory period during which the neuron is unable to fire another spike immediately after generating one. During this period, the membrane potential is held at \(V_{\text{reset}}\).
+
+\begin{table}[H]
+  \centering
+  \caption{Parameters for V1 Cells}
+  \begin{tabular}{lll}
+  \toprule
+  \textbf{Cell Type} & \textbf{Parameter} & \textbf{Values} \\
+  \midrule
+  \multirow{8}{*}{$\text{V1}_{\text{LIF}}$} 
+      & External current         & 0.0 nA \\
+      & Membrane time constant        & 44.9 ms \\
+      & Membrane capacitance          & 239.0 pF \\
+      & Membrane resistance           & 188.29 M$\Omega$ \\  % Calculated as tau_m / C_m
+      & Refractory period       & 3.0 ms \\
+      & Resting potential          & -78.0 mV \\
+      & Threshold potential         & -43.0 mV \\
+      & Reset potential      & -55.0 mV \\
+  \bottomrule
+  \end{tabular}
+\end{table}
