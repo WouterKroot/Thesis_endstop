@@ -838,7 +838,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
@@ -853,8 +852,6 @@ INPUT ./adjusted_figures/illusory_figures_kanizsa_grating.png
 INPUT adjusted_figures/illusory_figures_kanizsa_grating.png
 INPUT ./adjusted_figures/illusory_figures_kanizsa_grating.png
 INPUT ./adjusted_figures/illusory_figures_kanizsa_grating.png
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT ./adjusted_figures/Laminar_Figure.png
 INPUT ./adjusted_figures/Laminar_Figure.png
 INPUT adjusted_figures/Laminar_Figure.png
