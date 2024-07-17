@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  15 JUL 2024 19:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  17 JUL 2024 21:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -869,23 +869,29 @@ File: adjusted_figures/endstop_line_length_physiology.png Graphic file (type png
 <use adjusted_figures/endstop_line_length_physiology.png>
 Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 655.
 (pdftex.def)             Requested size: 390.0pt x 433.08452pt.
- [43] [44 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>] [45]
-<figures/Figure_Population_configs.png, id=380, 595.7457pt x 606.5862pt>
+ [43] [44 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>]
+<adjusted_figures/figure_networks_bar.png, id=373, 805.0878pt x 702.9462pt>
+File: adjusted_figures/figure_networks_bar.png Graphic file (type png)
+<use adjusted_figures/figure_networks_bar.png>
+Package pdftex.def Info: adjusted_figures/figure_networks_bar.png  used on input line 664.
+(pdftex.def)             Requested size: 390.0pt x 340.5209pt.
+ [45 <./adjusted_figures/figure_networks_bar.png (PNG copy)>] [46]
+<figures/Figure_Population_configs.png, id=386, 595.7457pt x 606.5862pt>
 File: figures/Figure_Population_configs.png Graphic file (type png)
 <use figures/Figure_Population_configs.png>
-Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 674.
+Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 682.
 (pdftex.def)             Requested size: 390.0pt x 397.10861pt.
- [46] [47 <./figures/Figure_Population_configs.png (PNG copy)>] [48] [49] [50] [51] [52]
-Underfull \hbox (badness 1005) in paragraph at lines 723--724
+ [47] [48 <./figures/Figure_Population_configs.png (PNG copy)>] [49] [50] [51] [52] [53]
+Underfull \hbox (badness 1005) in paragraph at lines 730--731
 \OT1/ptm/m/n/12 that ex-hibit a highly se-lec-tive, like-to-like con-nec-tiv-ity pat-tern. Al-though
  []
 
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 727--740
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 734--747
 
  []
 
-[54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] (./thesis_endstop.aux)
+[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] (./thesis_endstop.aux)
 Package rerunfilecheck Info: File `thesis_endstop.out' has not changed.
 (rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
 Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
@@ -893,18 +899,18 @@ Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20615 strings out of 478287
- 384245 string characters out of 5849288
- 1232357 words of memory out of 5000000
- 38346 multiletter control sequences out of 15000+600000
+ 20625 strings out of 478287
+ 384584 string characters out of 5849288
+ 1232419 words of memory out of 5000000
+ 38353 multiletter control sequences out of 15000+600000
  498264 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,15n,80p,3665b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (67 pages, 4336280 bytes).
+Output written on thesis_endstop.pdf (68 pages, 4484078 bytes).
 PDF statistics:
- 635 PDF objects out of 1000 (max. 8388607)
- 521 compressed objects within 6 object streams
- 134 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 641 PDF objects out of 1000 (max. 8388607)
+ 525 compressed objects within 6 object streams
+ 136 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
