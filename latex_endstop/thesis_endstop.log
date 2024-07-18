@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  17 JUL 2024 21:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  18 JUL 2024 21:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -791,7 +791,10 @@ File: adjusted_figures/Laminar_Figure.png Graphic file (type png)
 <use adjusted_figures/Laminar_Figure.png>
 Package pdftex.def Info: adjusted_figures/Laminar_Figure.png  used on input line 121.
 (pdftex.def)             Requested size: 390.0pt x 401.16676pt.
- [8] [9 <./adjusted_figures/Laminar_Figure.png (PNG copy)>] [10] [11] [12]
+ [8]
+Overfull \vbox (66.66684pt too high) has occurred while \output is active []
+
+ [9 <./adjusted_figures/Laminar_Figure.png (PNG copy)>] [10] [11] [12]
 <adjusted_figures/endstop_mechanism.png, id=167, 584.6643pt x 307.8702pt>
 File: adjusted_figures/endstop_mechanism.png Graphic file (type png)
 <use adjusted_figures/endstop_mechanism.png>
@@ -850,7 +853,11 @@ File: adjusted_figures/illusory_filling.png Graphic file (type png)
 <use adjusted_figures/illusory_filling.png>
 Package pdftex.def Info: adjusted_figures/illusory_filling.png  used on input line 355.
 (pdftex.def)             Requested size: 390.0pt x 182.98695pt.
- [35 <./adjusted_figures/illusory_filling.png (PNG copy)>] [36] [37]
+ [35 <./adjusted_figures/illusory_filling.png (PNG copy)>] [36]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -858,40 +865,43 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 63
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<./figures/LIF_endstopping_length_orientation.png, id=333, 579.6054pt x 490.9542pt>
-File: ./figures/LIF_endstopping_length_orientation.png Graphic file (type png)
-<use ./figures/LIF_endstopping_length_orientation.png>
-Package pdftex.def Info: ./figures/LIF_endstopping_length_orientation.png  used on input line 646.
-(pdftex.def)             Requested size: 390.0pt x 330.35345pt.
- [38] [39] [40] [41 <./figures/LIF_endstopping_length_orientation.png (PNG copy)>] [42]
-<adjusted_figures/endstop_line_length_physiology.png, id=361, 599.841pt x 666.0885pt>
+<./adjusted_figures/LIF_endstopping_length_orientation.png, id=335, 593.3367pt x 502.9992pt>
+File: ./adjusted_figures/LIF_endstopping_length_orientation.png Graphic file (type png)
+<use ./adjusted_figures/LIF_endstopping_length_orientation.png>
+Package pdftex.def Info: ./adjusted_figures/LIF_endstopping_length_orientation.png  used on input line 646.
+(pdftex.def)             Requested size: 390.0pt x 330.62967pt.
+ [38] [39] [40] [41] [42 <./adjusted_figures/LIF_endstopping_length_orientation.png (PNG copy)>] [43]
+<adjusted_figures/endstop_line_length_physiology.png, id=367, 599.841pt x 666.0885pt>
 File: adjusted_figures/endstop_line_length_physiology.png Graphic file (type png)
 <use adjusted_figures/endstop_line_length_physiology.png>
 Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 655.
 (pdftex.def)             Requested size: 390.0pt x 433.08452pt.
- [43] [44 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>]
-<adjusted_figures/figure_networks_bar.png, id=373, 805.0878pt x 702.9462pt>
+ [44] [45 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>]
+<adjusted_figures/figure_networks_bar.png, id=379, 806.5332pt x 702.9462pt>
 File: adjusted_figures/figure_networks_bar.png Graphic file (type png)
 <use adjusted_figures/figure_networks_bar.png>
 Package pdftex.def Info: adjusted_figures/figure_networks_bar.png  used on input line 664.
-(pdftex.def)             Requested size: 390.0pt x 340.5209pt.
- [45 <./adjusted_figures/figure_networks_bar.png (PNG copy)>] [46]
-<figures/Figure_Population_configs.png, id=386, 595.7457pt x 606.5862pt>
-File: figures/Figure_Population_configs.png Graphic file (type png)
-<use figures/Figure_Population_configs.png>
-Package pdftex.def Info: figures/Figure_Population_configs.png  used on input line 682.
-(pdftex.def)             Requested size: 390.0pt x 397.10861pt.
- [47] [48 <./figures/Figure_Population_configs.png (PNG copy)>] [49] [50] [51] [52] [53]
-Underfull \hbox (badness 1005) in paragraph at lines 730--731
+(pdftex.def)             Requested size: 390.0pt x 339.92024pt.
+ [46 <./adjusted_figures/figure_networks_bar.png (PNG copy)>] [47]
+<adjusted_figures/Figure_Population.png, id=392, 595.7457pt x 616.9449pt>
+File: adjusted_figures/Figure_Population.png Graphic file (type png)
+<use adjusted_figures/Figure_Population.png>
+Package pdftex.def Info: adjusted_figures/Figure_Population.png  used on input line 682.
+(pdftex.def)             Requested size: 390.0pt x 403.89006pt.
+ [48]
+Overfull \vbox (1.3901pt too high) has occurred while \output is active []
+
+ [49 <./adjusted_figures/Figure_Population.png (PNG copy)>] [50] [51] [52] [53] [54]
+Underfull \hbox (badness 1005) in paragraph at lines 728--729
 \OT1/ptm/m/n/12 that ex-hibit a highly se-lec-tive, like-to-like con-nec-tiv-ity pat-tern. Al-though
  []
 
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 734--747
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 732--745
 
  []
 
-[55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] (./thesis_endstop.aux)
+[56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] (./thesis_endstop.aux)
 Package rerunfilecheck Info: File `thesis_endstop.out' has not changed.
 (rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
 Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
@@ -899,18 +909,18 @@ Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20625 strings out of 478287
- 384584 string characters out of 5849288
- 1232419 words of memory out of 5000000
+ 20626 strings out of 478287
+ 384652 string characters out of 5849288
+ 1235841 words of memory out of 5000000
  38353 multiletter control sequences out of 15000+600000
  498264 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,15n,80p,3665b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (68 pages, 4484078 bytes).
+Output written on thesis_endstop.pdf (69 pages, 4408590 bytes).
 PDF statistics:
- 641 PDF objects out of 1000 (max. 8388607)
- 525 compressed objects within 6 object streams
- 136 named destinations out of 1000 (max. 500000)
+ 647 PDF objects out of 1000 (max. 8388607)
+ 529 compressed objects within 6 object streams
+ 137 named destinations out of 1000 (max. 500000)
  79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
