@@ -1741,6 +1741,76 @@
       \endverb
       \keyw{notion}
     \endentry
+    \entry{meyerInhibitoryInterneuronsCortical2011}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=82516b4890eba809296999f5be086093}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Hanno\bibnamedelima S},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07a6b4bc9f0265315a98027b03866a0f}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=332c43c119d64c3c7b9c58222036711e}{%
+           family={Wimmer},
+           familyi={W\bibinitperiod},
+           given={Verena\bibnamedelima C},
+           giveni={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbb9b39aedc11ba880cb0c91c440a246}{%
+           family={Schmitt},
+           familyi={S\bibinitperiod},
+           given={Arno\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=866ef4c7c3c3a8193ec8e9796df7ea42}{%
+           family={Kerr},
+           familyi={K\bibinitperiod},
+           given={Jason\bibnamedelima ND},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd976ef2a692f54af47155e3ea294a66}{%
+           family={Sakmann},
+           familyi={S\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d27d34da05d38f697ad27c1842e22682}{%
+           family={Helmstaedter},
+           familyi={H\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{24d81524e763180079e0bd720abd256a}
+      \strng{fullhash}{08d883497aedfea89020580fff45261f}
+      \strng{bibnamehash}{08d883497aedfea89020580fff45261f}
+      \strng{authorbibnamehash}{08d883497aedfea89020580fff45261f}
+      \strng{authornamehash}{24d81524e763180079e0bd720abd256a}
+      \strng{authorfullhash}{08d883497aedfea89020580fff45261f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-8424}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{40}
+      \field{title}{Inhibitory Interneurons in a Cortical Column Form Hot Zones of Inhibition in Layers 2 and {{5A}}}
+      \field{volume}{108}
+      \field{year}{2011}
+      \field{pages}{16807\bibrangedash 16812}
+      \range{pages}{6}
+    \endentry
     \entry{moskovitzComparisonDeepLearning2018}{misc}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6af5d48c773d697a4bfcc339c67c5154}{%
@@ -2860,6 +2930,41 @@
       \verb 10.1016/0042-6989(95)00107-b
       \endverb
       \keyw{Animals,Contrast Sensitivity,Haplorhini,Humans,Models Biological,Optical Illusions,Pattern Recognition Visual,Psychophysics,Rotation}
+    \endentry
+    \entry{vanrossumPythonTutorial1995}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e504145eff12cd8803c227c919ccfacd}{%
+           family={Van\bibnamedelima Rossum},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf4b931c97bf1765ef2a50cdb0a42969}{%
+           family={Drake\bibnamedelima Jr},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Fred\bibnamedelima L},
+           giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Centrum voor Wiskunde en Informatica Amsterdam, The Netherlands}%
+      }
+      \strng{namehash}{7ef38a15b789891031dc3c2618872607}
+      \strng{fullhash}{7ef38a15b789891031dc3c2618872607}
+      \strng{bibnamehash}{7ef38a15b789891031dc3c2618872607}
+      \strng{authorbibnamehash}{7ef38a15b789891031dc3c2618872607}
+      \strng{authornamehash}{7ef38a15b789891031dc3c2618872607}
+      \strng{authorfullhash}{7ef38a15b789891031dc3c2618872607}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Python Tutorial}
+      \field{volume}{620}
+      \field{year}{1995}
     \endentry
     \entry{vonderheydtMechanismsContourPerception1989}{article}{}
       \name{author}{2}{}{%

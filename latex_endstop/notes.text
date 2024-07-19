@@ -358,3 +358,19 @@ where \(V_{\text{th}}\) is the threshold potential at which a spike is generated
   \bottomrule
   \end{tabular}
 \end{table}
+
+
+
+%Discussion
+%no direct inhibition (check the original paper: silito 1977), why not? recurrent inhibition plays a role in balancing activation  \autocite{znamenskiyFunctionalSpecificityRecurrent2024}, \autocite{hanselMechanismOrientationSelectivity2012}
+% Results from the LIF model showed that recurrent inhibitory signals can be used to generate endstopping behaviour robust to stimuli variations of length and orientation. Functional connectivity studies in mouse V1 have found that inhibition can stabalise excitatory activity ()
+% See how Skotton shows that orientation selectivity chagnes endstopping (Skottun 2005, \autocite{orbanDimensionsPropertiesEndzone1979})
+%\subsection{Recurrent inhibition stabilises endstopping.} 
+%1- endstopped cells are excitatory and inhibitory endzones are indirect
+% 2- Results demonstrate gradual decline in endstopping while varying input features, physiologically relevant see Orban dimension properties 1979.
+% 3- No direct inhibition Silitio 1977, maybe indirect inhibitory recurrency can have stabilising effects Znamenskiy 2024 and hansel 2012 
+%4- the indirect inhibition of complex endstopped cells might explain the second order spiking features yazdanbakhs 2006.
+% 1.
+% Inhibition plays a vital role in both the LIF and population models, PV interneurons play a major role in visual processing, shaping how sensory information is processed. In the context of the LIF model, endstoped cells are influenced by direct excitation from feedforward inputs and indirect inhibition through recurrent feedback connections. These inputs form distinct receptive fields, a feedforward classical receptive field and a retinotopically offset receptive field that functions as an inhibitory endzone. In alignment with observations from \textcite{sillitoContributionExcitatoryInhibitory1977}, inhibitory influences are not exerted directly at the level of the endstopped cells. We propose that the segregation of inhibition serves a functional purpose to generate stable endstopping. Current results showed by varying the stimulus length and orientation that endstopping is gradually reduced when stimuli diverged from its optimal configuration, and we propose that PV interneuons play a pivotal role in moderating excitatory and inhibitory interactions. The indirect inhibitory feedback, facilitated by PV interneurons, allows for a more adaptable and nuanced modulation of the excitatory signals depending on the visual context. This adaptive modulation is crucial, especially when the visual stimuli vary in length and orientation, leading to changes in the perceived endstopping effect. The dynamic regulation by PV interneurons helps maintain a balance that can prevent excessive excitatory activity that might otherwise lead to neural saturation or noise dominance in the signal processing.
+
+% Moreover, the organisation of synaptic weights in PV interneurons as described by \textcite{znamenskiyFunctionalSpecificityRecurrent2024}, highlights the functional benefits of indirect inhibition used in the current model. By preferentially inhibiting those pyramidal neurons that share similar visual selectivities and provide strong excitatory feedback, PV interneurons not only suppress potential excitatory overshoots but also enhance the overall selectivity and sharpness of neural responses. This targeted inhibition is essential for refining the output of neural assemblies, ensuring that the response patterns are both specific and contextually appropriate. Furthermore, indirect inhibitory effects might be able to explain why endstopped cells exhibit contrast sensitivity in their second order spiking features.
