@@ -725,52 +725,6 @@
       \verb 10.1007/978-1-4612-4760-9_12
       \endverb
     \endentry
-    \entry{grossbergTextureSegregationSurface1998}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=02559e7a1e7f6f93b21cdb5c4794c4ed}{%
-           family={Grossberg},
-           familyi={G\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b9091f9ac3929a82c651b02a265f166c}{%
-           family={Pessoa},
-           familyi={P\bibinitperiod},
-           given={Luiz},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f096a53da3255f18dbfd550ede926f30}
-      \strng{fullhash}{f096a53da3255f18dbfd550ede926f30}
-      \strng{bibnamehash}{f096a53da3255f18dbfd550ede926f30}
-      \strng{authorbibnamehash}{f096a53da3255f18dbfd550ede926f30}
-      \strng{authornamehash}{f096a53da3255f18dbfd550ede926f30}
-      \strng{authorfullhash}{f096a53da3255f18dbfd550ede926f30}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00426989}
-      \field{journaltitle}{Vision Research}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{number}{17}
-      \field{title}{Texture Segregation, Surface Representation and Figure--Ground Separation}
-      \field{urlday}{27}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{38}
-      \field{year}{1998}
-      \field{urldateera}{ce}
-      \field{pages}{2657\bibrangedash 2684}
-      \range{pages}{28}
-      \verb{doi}
-      \verb 10.1016/S0042-6989(97)00180-6
-      \endverb
-    \endentry
     \entry{hooserOrientationSelectivityOrientation2005}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=d40c7bc5d5f56a5d287ebef62a25b024}{%
@@ -3017,6 +2971,59 @@
       \endverb
       \keyw{notion}
     \endentry
+    \entry{vonderheydtIllusoryContoursCortical1984}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5f60d193e48a9d24344d959ae8f16060}{%
+           family={Von\bibnamedelimb Der\bibnamedelima Heydt},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9fb7412090e6480485350d304f6c6bb}{%
+           family={Peterhans},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a91dbb153bb11efbbac9939f66fbfea3}{%
+           family={Baumgartner},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d31a51d6eeec1b16982c6720be2bf297}
+      \strng{fullhash}{dd7f511fab39b9b6d2853f621c1d21b0}
+      \strng{bibnamehash}{dd7f511fab39b9b6d2853f621c1d21b0}
+      \strng{authorbibnamehash}{dd7f511fab39b9b6d2853f621c1d21b0}
+      \strng{authornamehash}{d31a51d6eeec1b16982c6720be2bf297}
+      \strng{authorfullhash}{dd7f511fab39b9b6d2853f621c1d21b0}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Figures in which human observers perceive "illusory contours" were found to evoke responses in cells of area 18 in the visual cortex of alert monkeys. The cells responded as if the contours were formed by real lines or edges. Modifications that weakened the perception of contours also reduced the neuronal responses. In contrast, cells in area 17 were apparently unable to "see" these contours.}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{4654}
+      \field{title}{Illusory {{Contours}} and {{Cortical Neuron Responses}}}
+      \field{urlday}{20}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{224}
+      \field{year}{1984}
+      \field{urldateera}{ce}
+      \field{pages}{1260\bibrangedash 1262}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.6539501
+      \endverb
+    \endentry
     \entry{wangAreaMapMouse2007}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6b9944a769397e04db74408c475aa3c6}{%
@@ -3062,6 +3069,55 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1002/cne.21286
+      \endverb
+    \endentry
+    \entry{wilsonExcitatoryInhibitoryInteractions1972}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1752c104557bcd72f737f416c649674d}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Hugh\bibnamedelima R.},
+           giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f17564c872ebb69b37e6689ae644c70e}{%
+           family={Cowan},
+           familyi={C\bibinitperiod},
+           given={Jack\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{fullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{bibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authorbibnamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authornamehash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \strng{authorfullhash}{3247bf00e4fb5b5b847192fdc604fc3c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00063495}
+      \field{journaltitle}{Biophysical Journal}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Excitatory and {{Inhibitory Interactions}} in {{Localized Populations}} of {{Model Neurons}}}
+      \field{urlday}{10}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{12}
+      \field{year}{1972}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/S0006-3495(72)86068-5
+      \endverb
+      \verb{file}
+      \verb C:\Users\woute\Zotero\storage\ST24JVLY\Wilson and Cowan - 1972 - Excitatory and Inhibitory Interactions in Localize.pdf
       \endverb
     \endentry
     \entry{wyatteEarlyRecurrentFeedback2014}{article}{}
