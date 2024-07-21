@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  21 JUL 2024 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.13)  22 JUL 2024 00:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -766,128 +766,126 @@ LaTeX Info: Redefining \nameref on input line 53.
 <figures/donders_logo.png, id=4, 330.23375pt x 330.23375pt>
 File: figures/donders_logo.png Graphic file (type png)
 <use figures/donders_logo.png>
-Package pdftex.def Info: figures/donders_logo.png  used on input line 66.
-(pdftex.def)             Requested size: 195.0pt x 195.00754pt.
+Package pdftex.def Info: figures/donders_logo.png  used on input line 75.
+(pdftex.def)             Requested size: 155.99762pt x 156.00099pt.
 <figures/uva_logo.png, id=6, 332.24126pt x 152.57pt>
 File: figures/uva_logo.png Graphic file (type png)
 <use figures/uva_logo.png>
-Package pdftex.def Info: figures/uva_logo.png  used on input line 67.
-(pdftex.def)             Requested size: 195.0pt x 89.54758pt.
+Package pdftex.def Info: figures/uva_logo.png  used on input line 82.
+(pdftex.def)             Requested size: 155.99762pt x 71.63573pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/donders_logo.png> <./figures/uva_logo.png>]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106 \newpage
+l.125 \newpage
                [1] [2]
-<adjusted_figures/illusory_figures_kanizsa_grating.png, id=33, 595.023pt x 301.8477pt>
+<adjusted_figures/illusory_figures_kanizsa_grating.png, id=35, 595.023pt x 301.8477pt>
 File: adjusted_figures/illusory_figures_kanizsa_grating.png Graphic file (type png)
 <use adjusted_figures/illusory_figures_kanizsa_grating.png>
-Package pdftex.def Info: adjusted_figures/illusory_figures_kanizsa_grating.png  used on input line 116.
+Package pdftex.def Info: adjusted_figures/illusory_figures_kanizsa_grating.png  used on input line 135.
 (pdftex.def)             Requested size: 390.0pt x 197.84755pt.
  [3] [4 <./adjusted_figures/illusory_figures_kanizsa_grating.png (PNG copy)>] [5] [6] [7]
-<adjusted_figures/Laminar_Figure.png, id=103, 597.6729pt x 614.7768pt>
+<adjusted_figures/Laminar_Figure.png, id=107, 597.6729pt x 614.7768pt>
 File: adjusted_figures/Laminar_Figure.png Graphic file (type png)
 <use adjusted_figures/Laminar_Figure.png>
-Package pdftex.def Info: adjusted_figures/Laminar_Figure.png  used on input line 137.
+Package pdftex.def Info: adjusted_figures/Laminar_Figure.png  used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 401.16676pt.
  [8]
 Overfull \vbox (66.66684pt too high) has occurred while \output is active []
 
  [9 <./adjusted_figures/Laminar_Figure.png (PNG copy)>] [10] [11] [12]
-<adjusted_figures/endstop_mechanism.png, id=163, 584.6643pt x 307.8702pt>
+<adjusted_figures/endstop_mechanism.png, id=166, 584.6643pt x 307.8702pt>
 File: adjusted_figures/endstop_mechanism.png Graphic file (type png)
 <use adjusted_figures/endstop_mechanism.png>
-Package pdftex.def Info: adjusted_figures/endstop_mechanism.png  used on input line 152.
+Package pdftex.def Info: adjusted_figures/endstop_mechanism.png  used on input line 172.
 (pdftex.def)             Requested size: 390.0pt x 205.3653pt.
  [13] [14 <./adjusted_figures/endstop_mechanism.png (PNG copy)>] [15] [16] [17]
-<adjusted_figures/LIF_Overview_Receptive_Field_Methods.png, id=197, 614.7768pt x 428.5611pt>
+<adjusted_figures/LIF_Overview_Receptive_Field_Methods.png, id=200, 614.7768pt x 428.5611pt>
 File: adjusted_figures/LIF_Overview_Receptive_Field_Methods.png Graphic file (type png)
 <use adjusted_figures/LIF_Overview_Receptive_Field_Methods.png>
-Package pdftex.def Info: adjusted_figures/LIF_Overview_Receptive_Field_Methods.png  used on input line 201.
+Package pdftex.def Info: adjusted_figures/LIF_Overview_Receptive_Field_Methods.png  used on input line 224.
 (pdftex.def)             Requested size: 390.0pt x 271.87823pt.
  [18 <./adjusted_figures/LIF_Overview_Receptive_Field_Methods.png (PNG copy)>] [19]
-<adjusted_figures/lgn_response_fig.png, id=215, 620.0766pt x 666.0885pt>
+<adjusted_figures/lgn_response_fig.png, id=218, 620.0766pt x 666.0885pt>
 File: adjusted_figures/lgn_response_fig.png Graphic file (type png)
 <use adjusted_figures/lgn_response_fig.png>
-Package pdftex.def Info: adjusted_figures/lgn_response_fig.png  used on input line 212.
+Package pdftex.def Info: adjusted_figures/lgn_response_fig.png  used on input line 235.
 (pdftex.def)             Requested size: 390.0pt x 418.94684pt.
  [20] [21 <./adjusted_figures/lgn_response_fig.png (PNG copy)>] [22]
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 226.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 249.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 226.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 249.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 226.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 249.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 226.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 249.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 249.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 249.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 226.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 249.
  [23] [24]
-<figures/figure_simple_orientation_tuning.png, id=252, 539.616pt x 214.401pt>
+<figures/figure_simple_orientation_tuning.png, id=254, 539.616pt x 214.401pt>
 File: figures/figure_simple_orientation_tuning.png Graphic file (type png)
 <use figures/figure_simple_orientation_tuning.png>
-Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on input line 345.
+Package pdftex.def Info: figures/figure_simple_orientation_tuning.png  used on input line 368.
 (pdftex.def)             Requested size: 390.0pt x 154.96072pt.
  [25] [26 <./figures/figure_simple_orientation_tuning.png (PNG copy)>]
-<figures/complex_invariance_figure.png, id=265, 588.5187pt x 372.9132pt>
+<figures/complex_invariance_figure.png, id=268, 588.5187pt x 372.9132pt>
 File: figures/complex_invariance_figure.png Graphic file (type png)
 <use figures/complex_invariance_figure.png>
-Package pdftex.def Info: figures/complex_invariance_figure.png  used on input line 364.
+Package pdftex.def Info: figures/complex_invariance_figure.png  used on input line 387.
 (pdftex.def)             Requested size: 390.0pt x 247.12494pt.
  [27] [28 <./figures/complex_invariance_figure.png (PNG copy)>] [29]
-<adjusted_figures/illusory_filling.png, id=282, 594.0594pt x 278.7213pt>
+<adjusted_figures/illusory_filling.png, id=285, 594.0594pt x 278.7213pt>
 File: adjusted_figures/illusory_filling.png Graphic file (type png)
 <use adjusted_figures/illusory_filling.png>
-Package pdftex.def Info: adjusted_figures/illusory_filling.png  used on input line 403.
+Package pdftex.def Info: adjusted_figures/illusory_filling.png  used on input line 427.
 (pdftex.def)             Requested size: 390.0pt x 182.98695pt.
- [30 <./adjusted_figures/illusory_filling.png (PNG copy)>] [31]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[32]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[33] [34] [35] [36]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 713.
+ [30 <./adjusted_figures/illusory_filling.png (PNG copy)>] [31] [32] [33] [34] [35] [36]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 735.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [37]
-<./adjusted_figures/LIF_endstopping_length_orientation.png, id=338, 593.3367pt x 502.9992pt>
+<./adjusted_figures/LIF_endstopping_length_orientation.png, id=341, 593.3367pt x 502.9992pt>
 File: ./adjusted_figures/LIF_endstopping_length_orientation.png Graphic file (type png)
 <use ./adjusted_figures/LIF_endstopping_length_orientation.png>
-Package pdftex.def Info: ./adjusted_figures/LIF_endstopping_length_orientation.png  used on input line 725.
+Package pdftex.def Info: ./adjusted_figures/LIF_endstopping_length_orientation.png  used on input line 747.
 (pdftex.def)             Requested size: 390.0pt x 330.62967pt.
  [38] [39 <./adjusted_figures/LIF_endstopping_length_orientation.png (PNG copy)>] [40]
-<adjusted_figures/endstop_line_length_physiology.png, id=357, 599.841pt x 666.0885pt>
+<adjusted_figures/endstop_line_length_physiology.png, id=360, 599.841pt x 666.0885pt>
 File: adjusted_figures/endstop_line_length_physiology.png Graphic file (type png)
 <use adjusted_figures/endstop_line_length_physiology.png>
-Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 738.
+Package pdftex.def Info: adjusted_figures/endstop_line_length_physiology.png  used on input line 760.
 (pdftex.def)             Requested size: 390.0pt x 433.08452pt.
  [41] [42 <./adjusted_figures/endstop_line_length_physiology.png (PNG copy)>]
-<adjusted_figures/figure_networks_bar.png, id=369, 806.5332pt x 702.9462pt>
+<adjusted_figures/figure_networks_bar.png, id=372, 806.5332pt x 702.9462pt>
 File: adjusted_figures/figure_networks_bar.png Graphic file (type png)
 <use adjusted_figures/figure_networks_bar.png>
-Package pdftex.def Info: adjusted_figures/figure_networks_bar.png  used on input line 750.
+Package pdftex.def Info: adjusted_figures/figure_networks_bar.png  used on input line 772.
 (pdftex.def)             Requested size: 390.0pt x 339.92024pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 773.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 773.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 773.
  [43] [44 <./adjusted_figures/figure_networks_bar.png (PNG copy)>] [45]
-<adjusted_figures/Figure_Population.png, id=386, 595.7457pt x 616.9449pt>
+<adjusted_figures/Figure_Population.png, id=389, 595.7457pt x 616.9449pt>
 File: adjusted_figures/Figure_Population.png Graphic file (type png)
 <use adjusted_figures/Figure_Population.png>
-Package pdftex.def Info: adjusted_figures/Figure_Population.png  used on input line 768.
+Package pdftex.def Info: adjusted_figures/Figure_Population.png  used on input line 790.
 (pdftex.def)             Requested size: 390.0pt x 403.89006pt.
  [46]
 Overfull \vbox (1.3901pt too high) has occurred while \output is active []
@@ -900,18 +898,18 @@ Package logreq Info: Writing requests to 'thesis_endstop.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20635 strings out of 478287
- 385696 string characters out of 5849288
- 1233558 words of memory out of 5000000
- 38361 multiletter control sequences out of 15000+600000
- 502081 words of font info for 88 fonts, out of 8000000 for 9000
+ 20660 strings out of 478287
+ 386042 string characters out of 5849288
+ 1233651 words of memory out of 5000000
+ 38380 multiletter control sequences out of 15000+600000
+ 510502 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,15n,80p,3665b,5033s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis_endstop.pdf (63 pages, 4400589 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis_endstop.pdf (63 pages, 4397258 bytes).
 PDF statistics:
- 630 PDF objects out of 1000 (max. 8388607)
- 518 compressed objects within 6 object streams
- 133 named destinations out of 1000 (max. 500000)
+ 629 PDF objects out of 1000 (max. 8388607)
+ 519 compressed objects within 6 object streams
+ 135 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
