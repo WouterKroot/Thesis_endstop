@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber thesis_endstop"] 1721511670 "thesis_endstop.bcf" "thesis_endstop.bbl" "thesis_endstop" 1721512219
-  "MyLibrary.bib" 1721511667 308669 d90141808eb465d94c688b8d43d9956a ""
-  "thesis_endstop.bcf" 1721512219 135465 9f029b2af2f1955ba708a9f5691f1e8d "pdflatex"
+["biber thesis_endstop"] 1721591552 "thesis_endstop.bcf" "thesis_endstop.bbl" "thesis_endstop" 1721591563
+  "MyLibrary.bib" 1721589430 316441 2ce75799e31c3d528482a2b48a968d8a ""
+  "thesis_endstop.bcf" 1721591563 135287 54ffa55ab72ddc3cd87591d7d18d6015 "pdflatex"
   (generated)
   "thesis_endstop.bbl"
   "thesis_endstop.blg"
-["pdflatex"] 1721512216 "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" "thesis_endstop.pdf" "thesis_endstop" 1721512219
+["pdflatex"] 1721591560 "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" "thesis_endstop.pdf" "thesis_endstop" 1721591563
   "/etc/texmf/web2c/texmf.cnf" 1670946837 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" 1721512216 165388 6cde2d5ae72c595c00583e815a47894b ""
+  "/home/wouterkroot/documents/projects/thesis_endstop/latex_endstop/thesis_endstop.tex" 1721591547 198922 8cc2082ae3aa7704dc5086c9ec54cfb7 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -139,7 +139,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1670946878 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1670946920 2800615 04f047b5e5ee777ee37805179a3429e2 ""
-  "adjusted_figures/Figure_Population.png" 1721329056 478676 77336fa0b960eef1b1dae53fd4a8d8dd ""
+  "adjusted_figures/Figure_Population.png" 1721547885 479005 77525b6c728372bb092d299f83c51e21 ""
   "adjusted_figures/LIF_Overview_Receptive_Field_Methods.png" 1719784863 257452 a7bddbee3adac7452e2b588e5f965376 ""
   "adjusted_figures/LIF_endstopping_length_orientation.png" 1721312308 470590 189dc9e2a367e41985bb3c7754356af2 ""
   "adjusted_figures/Laminar_Figure.png" 1719783298 890234 b674860b4db30a34d0a2ddac73f92674 ""
@@ -153,11 +153,11 @@
   "figures/donders_logo.png" 1718520893 15069 074c801f952c3c0d6b0b1626040eaf74 ""
   "figures/figure_simple_orientation_tuning.png" 1718796466 368646 f6eaa79d8fc784f722ac973dd7e377ee ""
   "figures/uva_logo.png" 1718520893 3402 e0d78f0f4f912f9650240e0c584837b6 ""
-  "thesis_endstop.aux" 1721512219 40900 98292988ab685c6511560ae35136f574 "pdflatex"
-  "thesis_endstop.bbl" 1721511672 194319 eab4dad3d0a985567dd43c15d644f7a8 "biber thesis_endstop"
-  "thesis_endstop.out" 1721512217 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "thesis_endstop.run.xml" 1721512219 2496 4741342cdaedeb5c817c02141221f820 "pdflatex"
-  "thesis_endstop.tex" 1721512216 165388 6cde2d5ae72c595c00583e815a47894b ""
+  "thesis_endstop.aux" 1721591563 40705 93adb04655e6558a564908419e524ffa "pdflatex"
+  "thesis_endstop.bbl" 1721591554 201054 45d7aef5fe903865bcf62fe56bdd948d "biber thesis_endstop"
+  "thesis_endstop.out" 1721591561 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "thesis_endstop.run.xml" 1721591563 2496 4741342cdaedeb5c817c02141221f820 "pdflatex"
+  "thesis_endstop.tex" 1721591547 198922 8cc2082ae3aa7704dc5086c9ec54cfb7 ""
   (generated)
   "thesis_endstop.aux"
   "thesis_endstop.bcf"

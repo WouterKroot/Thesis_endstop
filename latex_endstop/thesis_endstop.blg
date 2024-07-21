@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'thesis_endstop.blg'
-[64] biber:340> INFO - === Sat Jul 20, 2024, 23:41:11
-[76] Biber.pm:418> INFO - Reading 'thesis_endstop.bcf'
-[164] Biber.pm:972> INFO - Found 51 citekeys in bib section 0
-[175] Biber.pm:4383> INFO - Processing section 0
-[184] Biber.pm:4574> INFO - Looking for bibtex file 'MyLibrary.bib' for section 0
-[237] bibtex.pm:1713> INFO - LaTeX decoding ...
-[607] bibtex.pm:1518> INFO - Found BibTeX data source 'MyLibrary.bib'
-[1225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1225] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[1225] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[1294] bbl.pm:654> INFO - Writing 'thesis_endstop.bbl' with encoding 'UTF-8'
-[1360] bbl.pm:757> INFO - Output to thesis_endstop.bbl
+[71] biber:340> INFO - === Sun Jul 21, 2024, 21:52:33
+[86] Biber.pm:418> INFO - Reading 'thesis_endstop.bcf'
+[167] Biber.pm:972> INFO - Found 51 citekeys in bib section 0
+[179] Biber.pm:4383> INFO - Processing section 0
+[188] Biber.pm:4574> INFO - Looking for bibtex file 'MyLibrary.bib' for section 0
+[247] bibtex.pm:1713> INFO - LaTeX decoding ...
+[660] bibtex.pm:1518> INFO - Found BibTeX data source 'MyLibrary.bib'
+[1306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1306] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1306] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1306] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1374] bbl.pm:654> INFO - Writing 'thesis_endstop.bbl' with encoding 'UTF-8'
+[1455] bbl.pm:757> INFO - Output to thesis_endstop.bbl
